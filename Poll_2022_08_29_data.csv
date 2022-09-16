@@ -1,6 +1,41 @@
-Group,GroupVote,Twice or more per month,Twice or more per month (%),Around once per month,Around once per month (%),1-2 times in a quarter,1-2 times in a quarter (%),Never,Never (%)
-"Data Analytics, Data Science, Business Analytics...",70,27,39%,22,31%,10,14%,11,16%
-"Data Scientist, Data Analyst and Data Engineer",141,66,47%,28,20%,23,16%,24,17%
-"Artificial Intelligence, Digital Transformation...",11,6,55%,2,18%,2,18%,1,9%
-Python Developers Community (moderated),433,191,44%,104,24%,56,13%,82,19%
-"AI & ML  - Analytics , Data Science...",52,29,56%,6,12%,9,17%,8,15%
+Group,Answer,Vote,GroupVote,,,,,,,,,
+"Data Analytics, Data Science, Business Analytics...",Twice or more per month,27,70,,,,,,,,,70
+"Data Scientist, Data Analyst and Data Engineer",Twice or more per month,66,141,,,,,,,,,141
+"Artificial Intelligence, Digital Transformation...",Twice or more per month,6,11,,,,,,,,,11
+Python Developers Community (moderated),Twice or more per month,191,433,,,,,,,,,433
+"AI & ML  - Analytics , Data Science...",Twice or more per month,29,52,,,,,,,,,52
+"Data Analytics, Data Science, Business Analytics...",Twice or more per month (%),39,70,,,,,,,,,
+"Data Scientist, Data Analyst and Data Engineer",Twice or more per month (%),47,141,,,,,,,,,
+"Artificial Intelligence, Digital Transformation...",Twice or more per month (%),55,11,,,,,,,,,
+Python Developers Community (moderated),Twice or more per month (%),44,433,,,,,,,,,
+"AI & ML  - Analytics , Data Science...",Twice or more per month (%),56,52,,,,,,,,,
+"Data Analytics, Data Science, Business Analytics...",Around once per month,22,70,,,,,,,,,
+"Data Scientist, Data Analyst and Data Engineer",Around once per month,28,141,,,,,,,,,
+"Artificial Intelligence, Digital Transformation...",Around once per month,2,11,,,,,,,,,
+Python Developers Community (moderated),Around once per month,104,433,,,,,,,,,
+"AI & ML  - Analytics , Data Science...",Around once per month,6,52,,,,,,,,,
+"Data Analytics, Data Science, Business Analytics...",Around once per month (%),31,70,,,,,,,,,
+"Data Scientist, Data Analyst and Data Engineer",Around once per month (%),20,141,,,,,,,,,
+"Artificial Intelligence, Digital Transformation...",Around once per month (%),18,11,,,,,,,,,
+Python Developers Community (moderated),Around once per month (%),24,433,,,,,,,,,
+"AI & ML  - Analytics , Data Science...",Around once per month (%),12,52,,,,,,,,,
+"Data Analytics, Data Science, Business Analytics...",1-2 times in a quarter,10,70,,,,,,,,,
+"Data Scientist, Data Analyst and Data Engineer",1-2 times in a quarter,23,141,,,,,,,,,
+"Artificial Intelligence, Digital Transformation...",1-2 times in a quarter,2,11,,,,,,,,,
+Python Developers Community (moderated),1-2 times in a quarter,56,433,,,,,,,,,
+"AI & ML  - Analytics , Data Science...",1-2 times in a quarter,9,52,,,,,,,,,
+"Data Analytics, Data Science, Business Analytics...",1-2 times in a quarter (%),14,70,,,,,,,,,
+"Data Scientist, Data Analyst and Data Engineer",1-2 times in a quarter (%),16,141,,,,,,,,,
+"Artificial Intelligence, Digital Transformation...",1-2 times in a quarter (%),18,11,,,,,,,,,
+Python Developers Community (moderated),1-2 times in a quarter (%),13,433,,,,,,,,,
+"AI & ML  - Analytics , Data Science...",1-2 times in a quarter (%),17,52,,,,,,,,,
+"Data Analytics, Data Science, Business Analytics...",Never,11,70,,,,,,,,,
+"Data Scientist, Data Analyst and Data Engineer",Never,24,141,,,,,,,,,
+"Artificial Intelligence, Digital Transformation...",Never,1,11,,,,,,,,,
+Python Developers Community (moderated),Never,82,433,,,,,,,,,
+"AI & ML  - Analytics , Data Science...",Never,8,52,,,,,,,,,
+"Data Analytics, Data Science, Business Analytics...",Never (%),16,70,,,,,,,,,
+"Data Scientist, Data Analyst and Data Engineer",Never (%),17,141,,,,,,,,,
+"Artificial Intelligence, Digital Transformation...",Never (%),9,11,,,,,,,,,
+Python Developers Community (moderated),Never (%),19,433,,,,,,,,,
+"AI & ML  - Analytics , Data Science...",Never (%),15,52,,,,,,,,,
