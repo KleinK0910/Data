@@ -1,0 +1,1337 @@
+Count,Position,Team,Age,Passes,Number of passes,Passes pct,Goals
+0.5,MF,Australia,32,Completed,85,39.15,0
+0.5,MF,Wales,31,Completed,44,39.3,0
+0.5,MF,Morocco,26,Completed,18,37.5,0
+0.5,DF,Qatar,29,Completed,61,37.9,0
+0.5,FW,Morocco,31,Completed,3,33.35,0
+0.5,FW,Morocco,20,Completed,3,33.35,0
+0.5,DF,Senegal,26,Completed,69.5,37.35,0
+0.5,FW,Ghana,18,Completed,0.5,50,0
+0.5,MF,Qatar,32,Completed,36,39.55,0
+0.5,DF,Saudi Arabia,25,Completed,37,35.6,0
+0.5,MF,Saudi Arabia,28,Completed,33,39.3,0
+0.5,DF,Saudi Arabia,29,Completed,2.5,19.25,0
+0.5,MF,Saudi Arabia,27,Completed,4,30.75,0
+0.5,DF,IR Iran,24,Completed,10,34.5,0
+0.5,DF,Morocco,24,Completed,82,40.4,0
+0.5,MF,France,27,Completed,81.5,43.35,0.5
+0.5,MF,Uruguay,24,Completed,2.5,35.7,0
+0.5,MF,IR Iran,29,Completed,17.5,32.4,0
+0.5,FW,Qatar,29,Completed,0,0,0
+0.5,GK,Tunisia,25,Completed,24,31.15,0
+0.5,MF,Australia,26,Completed,8.5,40.5,0
+0.5,FW,Qatar,26,Completed,69.5,42.1,0
+0.5,MF,Ecuador,24,Completed,5,45.45,0
+0.5,DF,Spain,19,Completed,56,45.55,0
+0.5,FW,Serbia,28,Completed,27,39.15,1
+0.5,DF,Brazil,31,Completed,73,44.5,0
+0.5,DF,Brazil,29,Completed,16.5,39.3,0
+0.5,DF,Denmark,24,Completed,18.5,34.9,0
+0.5,DF,Ghana,28,Completed,11,39.3,0
+0.5,MF,Argentina,23,Completed,61,45.85,0.5
+0.5,FW,Mexico,25,Completed,20,35.7,0
+0.5,DF,Tunisia,28,Completed,36,31.05,0
+0.5,MF,Saudi Arabia,25,Completed,2,28.55,0
+0.5,DF,Saudi Arabia,33,Completed,39,40.2,0
+0.5,MF,Qatar,29,Completed,10.5,45.65,0
+0.5,MF,IR Iran,26,Completed,23,31.95,0
+0.5,MF,IR Iran,28,Completed,17,37.8,0
+0.5,DF,Tunisia,32,Completed,19.5,30.95,0
+0.5,DF,Ghana,22,Completed,29.5,37.8,0
+0.5,GK,IR Iran,30,Completed,10,32.25,0
+0.5,MF,IR Iran,29,Completed,5.5,32.35,0
+0.5,GK,Brazil,30,Completed,26,41.25,0
+0.5,DF,Canada,24,Completed,73.5,39.5,0
+0.5,FW,Qatar,26,Completed,16.5,36.65,0
+0.5,MF,Canada,22,Completed,41,35.95,0.5
+0.5,MF,Belgium,21,Completed,29,45.3,0
+0.5,MF,Cameroon,27,Completed,56.5,43.45,0
+0.5,DF,Denmark,26,Completed,118.5,47.2,0.5
+0.5,FW,Denmark,29,Completed,10.5,30.9,0
+0.5,FW,Denmark,22,Completed,21.5,34.15,0
+0.5,FW,Croatia,31,Completed,43.5,43.95,1
+0.5,GK,Netherlands,28,Completed,55.5,40.2,0
+0.5,DF,Serbia,26,Completed,35.5,37,0
+0.5,MF,Ghana,32,Completed,15,40.55,0.5
+0.5,GK,Cameroon,26,Completed,22.5,38.15,0
+0.5,FW,Portugal,27,Completed,4.5,40.9,0
+0.5,MF,Mexico,36,Completed,5.5,34.4,0
+0.5,MF,Tunisia,21,Completed,14.5,31.5,0
+0.5,FW,Spain,20,Completed,12.5,43.1,0
+0.5,FW,Croatia,31,Completed,1,20,0
+0.5,FW,Costa Rica,22,Completed,7.5,28.85,0
+0.5,MF,France,31,Completed,86,39.45,0
+0.5,FW,Ghana,22,Completed,0.5,25,0
+0.5,DF,United States,25,Completed,86.5,35.9,0
+0.5,DF,Germany,29,Completed,114.5,45.45,0
+0.5,FW,Brazil,22,Completed,30.5,38.6,0
+0.5,DF,Portugal,19,Completed,30,48.4,0
+0.5,MF,Japan,24,Completed,24,34.8,0.5
+0.5,FW,Switzerland,20,Completed,2.5,41.65,0
+0.5,FW,Poland,28,Completed,9.5,32.75,0
+0.5,DF,Poland,35,Completed,1.5,37.5,0
+0.5,FW,Saudi Arabia,21,Completed,0.5,25,0
+0.5,MF,Qatar,26,Completed,29,41.45,0
+0.5,MF,Canada,39,Completed,50,44.65,0
+0.5,MF,France,22,Completed,147,46.8,0
+0.5,MF,Australia,27,Completed,5,35.7,0
+0.5,DF,France,24,Completed,30.5,39.1,0
+0.5,MF,Belgium,33,Completed,84.5,47.75,0
+0.5,FW,Japan,24,Completed,3.5,29.15,0
+0.5,DF,Spain,28,Completed,206.5,47.15,0
+0.5,DF,Australia,31,Completed,76,37.45,0
+0.5,MF,Morocco,22,Completed,53,38.7,0
+0.5,MF,Tunisia,25,Completed,49.5,40.25,0
+0.5,DF,Ghana,28,Completed,33,33,0
+0.5,DF,Morocco,29,Completed,0,0,0
+0.5,DF,Australia,30,Completed,0.5,16.65,0
+0.5,FW,Senegal,22,Completed,4.5,28.15,0.5
+0.5,DF,Poland,30,Completed,61,39.1,0
+0.5,DF,Qatar,24,Completed,23.5,41.25,0
+0.5,DF,Wales,29,Completed,61,37.9,0
+0.5,DF,France,26,Completed,41,45.55,0
+0.5,MF,Portugal,28,Completed,84,44,0
+0.5,DF,Croatia,30,Completed,25,36.25,0
+0.5,DF,Croatia,24,Completed,82.5,40.25,0
+0.5,DF,Qatar,32,Completed,84.5,42.9,0
+0.5,FW,Senegal,26,Completed,19.5,36.8,0.5
+0.5,MF,Costa Rica,19,Completed,13.5,35.55,0
+0.5,FW,Switzerland,25,Completed,23,37.1,1
+0.5,MF,United States,22,Completed,20.5,41,0
+0.5,FW,Wales,21,Completed,5,29.4,0
+0.5,FW,Portugal,28,Completed,65,41.15,1
+0.5,MF,Brazil,25,Completed,21.5,39.8,0
+0.5,FW,Croatia,28,Completed,11.5,24.45,0
+0.5,FW,Cameroon,23,Completed,24.5,28.8,0
+0.5,DF,Costa Rica,32,Completed,33.5,37.65,0
+0.5,MF,Costa Rica,37,Completed,4,33.35,0
+0.5,FW,England,21,Completed,33,39.75,1.5
+0.5,FW,England,30,Completed,4.5,45,0
+0.5,DF,United States,24,Completed,25,43.1,0
+0.5,MF,Ecuador,27,Completed,7.5,50,0
+0.5,DF,Costa Rica,23,Completed,5,33.35,0
+0.5,MF,Spain,25,Completed,39,47,0.5
+0.5,MF,Brazil,30,Completed,78.5,42.2,0.5
+0.5,MF,Costa Rica,34,Completed,49,40.85,0
+0.5,FW,Belgium,21,Completed,1.5,37.5,0
+0.5,MF,Mexico,25,Completed,10.5,35,0
+0.5,MF,Senegal,32,Completed,9.5,41.3,0
+0.5,FW,Korea Republic,24,Completed,20,31.75,1
+0.5,FW,Korea Republic,26,Completed,0,0,0
+0.5,DF,Wales,25,Completed,70.5,41,0
+0.5,MF,Cameroon,27,Completed,2.5,27.8,0
+0.5,MF,Denmark,30,Completed,94,40.85,0
+0.5,FW,Switzerland,29,Completed,3.5,35,0
+0.5,MF,Denmark,28,Completed,7,46.65,0
+0.5,FW,United States,24,Completed,41.5,29.45,0.5
+0.5,DF,Cameroon,21,Completed,12.5,40.3,0
+0.5,FW,Netherlands,23,Completed,36.5,32.9,1.5
+0.5,DF,Cameroon,30,Completed,49.5,33.9,0
+0.5,DF,Wales,27,Completed,46,39,0
+0.5,MF,Australia,30,Completed,29,30.55,0.5
+0.5,DF,Argentina,24,Completed,102.5,45.55,0
+0.5,FW,Portugal,37,Completed,32.5,38.7,0.5
+0.5,FW,Canada,27,Completed,10.5,36.2,0
+0.5,DF,Spain,33,Completed,85.5,47.25,0
+0.5,DF,Mexico,25,Completed,79.5,40.35,0
+0.5,FW,Japan,26,Completed,41.5,39.9,0
+0.5,FW,Japan,25,Completed,4,23.55,0.5
+0.5,DF,Netherlands,32,Completed,115,42.1,0.5
+0.5,MF,Poland,27,Completed,4,50,0
+0.5,DF,Brazil,39,Completed,41.5,42.8,0
+0.5,DF,Spain,30,Completed,60.5,44.8,0
+0.5,FW,Spain,24,Completed,81,40.9,0.5
+0.5,DF,Ghana,27,Completed,64,45.4,0
+0.5,MF,Costa Rica,21,Completed,0.5,50,0
+0.5,FW,Wales,25,Completed,12,33.35,0
+0.5,MF,Ghana,26,Completed,9,39.15,0
+0.5,DF,Brazil,31,Completed,69.5,43.15,0
+0.5,DF,Portugal,31,Completed,34,43.6,0
+0.5,GK,Wales,29,Completed,12,30.75,0
+0.5,DF,Serbia,32,Completed,3.5,29.15,0
+0.5,FW,Uruguay,23,Completed,17.5,31.25,0
+0.5,DF,Germany,24,Completed,76.5,39.25,0
+0.5,MF,Canada,32,Completed,2,28.55,0
+0.5,MF,Netherlands,29,Completed,29.5,38.3,0.5
+0.5,DF,France,24,Completed,111,47.05,0
+0.5,DF,United States,29,Completed,9.5,33.95,0
+0.5,MF,England,23,Completed,121,46.55,0
+0.5,DF,Croatia,33,Completed,128,43.25,0
+0.5,DF,Ghana,34,Completed,1,50,0
+0.5,MF,Switzerland,26,Completed,10,43.5,0
+0.5,DF,Netherlands,26,Completed,59.5,33.8,0.5
+0.5,GK,Cameroon,29,Completed,28.5,34.35,0
+0.5,DF,Uruguay,36,Completed,43.5,42.25,0
+0.5,GK,Portugal,23,Completed,45.5,33.7,0
+0.5,DF,Portugal,23,Completed,41.5,39.15,0
+0.5,MF,Switzerland,25,Completed,42,43.3,0
+0.5,FW,Ecuador,23,Completed,1,50,0
+0.5,GK,Croatia,27,Completed,51.5,41.85,0
+0.5,MF,Belgium,35,Completed,11,33.35,0
+0.5,MF,Serbia,34,Completed,45,35.45,0
+0.5,FW,Serbia,22,Completed,3,27.25,0.5
+0.5,DF,Tunisia,27,Completed,37.5,38.25,0
+0.5,MF,Belgium,31,Completed,23,39.65,0
+0.5,GK,Brazil,29,Completed,14,45.15,0
+0.5,FW,Switzerland,26,Completed,32.5,39.65,0
+0.5,FW,Uruguay,35,Completed,13.5,36.5,0
+0.5,GK,Senegal,30,Completed,44,36.65,0
+0.5,MF,Mexico,25,Completed,43,37.7,0
+0.5,DF,France,20,Completed,33.5,42.95,0
+0.5,MF,IR Iran,32,Completed,30.5,31.1,0
+0.5,MF,Tunisia,27,Completed,54.5,42.9,0
+0.5,GK,Argentina,30,Completed,36.5,38.85,0
+0.5,FW,Ecuador,33,Completed,20,35.1,1.5
+0.5,DF,Cameroon,23,Completed,17,44.75,0
+0.5,MF,Argentina,21,Completed,116,44.6,0.5
+0.5,DF,Switzerland,24,Completed,19,45.25,0
+0.5,DF,England,28,Completed,20,48.8,0
+0.5,FW,Cameroon,33,Completed,22,33.35,0.5
+0.5,MF,Mexico,27,Completed,12,41.4,0
+0.5,MF,Wales,22,Completed,54,37.5,0
+0.5,MF,Brazil,33,Completed,7.5,41.65,0
+0.5,MF,Argentina,24,Completed,5.5,42.3,0
+0.5,MF,Switzerland,33,Completed,4.5,32.15,0
+0.5,FW,Switzerland,20,Completed,6.5,25,0
+0.5,DF,Switzerland,30,Completed,32.5,39.65,0
+0.5,MF,Brazil,29,Completed,25.5,44.75,0
+0.5,MF,Uruguay,20,Completed,16,34.8,0
+0.5,FW,Senegal,29,Completed,5,35.7,0.5
+0.5,MF,Uruguay,24,Completed,79.5,42.05,0
+0.5,MF,Tunisia,30,Completed,12.5,36.75,0
+0.5,FW,Spain,22,Completed,29.5,34.7,1
+0.5,DF,Serbia,30,Completed,36,31.85,0
+0.5,DF,Serbia,31,Completed,10,40,0
+0.5,MF,Serbia,30,Completed,2.5,41.65,0
+0.5,MF,Saudi Arabia,22,Completed,21,33.35,0
+0.5,DF,Senegal,25,Completed,2.5,31.25,0
+0.5,DF,Australia,26,Completed,16.5,30.55,0
+0.5,DF,Costa Rica,30,Completed,43,41.35,0
+0.5,MF,Brazil,29,Completed,34.5,42.6,0
+0.5,MF,Netherlands,25,Completed,120,44.3,0.5
+0.5,DF,Ecuador,25,Completed,84,40.4,0
+0.5,FW,Brazil,25,Completed,11,39.3,0
+0.5,FW,Australia,18,Completed,1.5,30,0
+0.5,FW,Wales,33,Completed,16.5,31.15,0.5
+0.5,MF,Spain,18,Completed,66.5,43.2,0.5
+0.5,MF,Cameroon,27,Completed,8.5,44.75,0
+0.5,FW,Cameroon,27,Completed,4.5,37.5,0
+0.5,DF,Argentina,31,Completed,9,50,0
+0.5,MF,Costa Rica,25,Completed,8,50,0
+0.5,MF,Tunisia,28,Completed,1.5,37.5,0
+0.5,DF,Ghana,24,Completed,18,39.15,0
+0.5,FW,United States,20,Completed,13,34.2,0
+0.5,MF,Uruguay,28,Completed,16,30.75,1
+0.5,DF,Brazil,25,Completed,39,46.45,0
+0.5,DF,Argentina,25,Completed,26,45.6,0
+0.5,MF,Ecuador,22,Completed,38.5,37,0
+0.5,FW,Portugal,21,Completed,9,40.9,1.5
+0.5,MF,Switzerland,30,Completed,107.5,44.25,0
+0.5,GK,Switzerland,25,Completed,10.5,36.2,0
+0.5,MF,Poland,32,Completed,46.5,36.6,0
+0.5,MF,Argentina,28,Completed,27,42.2,0
+0.5,GK,Mexico,37,Completed,46.5,42.65,0
+0.5,DF,Uruguay,29,Completed,31,33.7,0
+0.5,FW,United States,24,Completed,10,37.05,0.5
+0.5,FW,Morocco,29,Completed,46,31.7,0.5
+0.5,MF,Tunisia,19,Completed,1,50,0
+0.5,FW,Switzerland,30,Completed,5,35.7,0
+0.5,FW,England,29,Completed,24.5,32.65,0.5
+0.5,DF,England,29,Completed,138,43.65,0
+0.5,DF,Australia,24,Completed,69,41.3,0
+0.5,MF,Wales,25,Completed,24,37.5,0
+0.5,DF,Saudi Arabia,23,Completed,20,36.35,0
+0.5,MF,Qatar,31,Completed,32.5,40.65,0
+0.5,MF,Saudi Arabia,30,Completed,2,28.55,0
+0.5,FW,Mexico,30,Completed,6.5,32.5,0.5
+0.5,GK,Ecuador,35,Completed,22,29.75,0
+0.5,MF,Japan,27,Completed,64.5,41.1,0
+0.5,DF,Japan,23,Completed,29,46.05,0
+0.5,MF,Japan,32,Completed,14,29.8,0
+0.5,FW,Mexico,27,Completed,21,27.25,0
+0.5,DF,Qatar,23,Completed,38.5,36.65,0
+0.5,DF,Korea Republic,32,Completed,8.5,42.5,0
+0.5,GK,IR Iran,30,Completed,11.5,24.45,0
+0.5,DF,IR Iran,28,Completed,4,36.35,0
+0.5,GK,France,35,Completed,28,32.2,0
+0.5,MF,Korea Republic,26,Completed,22.5,38.15,0.5
+0.5,MF,Korea Republic,26,Completed,97,39.25,0
+0.5,FW,Korea Republic,30,Completed,4.5,40.9,0
+0.5,MF,Mexico,32,Completed,32,41.05,0
+0.5,DF,Mexico,34,Completed,82.5,42.3,0
+0.5,DF,France,23,Completed,85,45.95,0
+0.5,MF,Senegal,33,Completed,53.5,40.25,0
+0.5,FW,Senegal,22,Completed,12.5,39.05,0
+0.5,DF,Senegal,23,Completed,53.5,34.3,0
+0.5,FW,Qatar,32,Completed,0,0,0
+0.5,FW,Senegal,24,Completed,26,32.1,0.5
+0.5,MF,Canada,20,Completed,48,47.5,0
+0.5,FW,Tunisia,30,Completed,12.5,35.7,0
+0.5,MF,Serbia,21,Completed,9.5,47.5,0
+0.5,FW,Croatia,33,Completed,53.5,34.95,0.5
+0.5,FW,Ghana,28,Completed,14.5,34.5,0
+0.5,FW,England,27,Completed,24,44.45,0.5
+0.5,MF,Australia,29,Completed,51.5,40.25,0
+0.5,DF,Ecuador,22,Completed,19.5,44.3,0
+0.5,MF,Poland,20,Completed,18.5,30.35,0
+0.5,DF,Poland,22,Completed,87,42.45,0
+0.5,MF,Germany,19,Completed,42.5,40.5,0
+0.5,FW,Australia,29,Completed,3.5,23.35,0
+0.5,DF,Poland,26,Completed,3,50,0
+0.5,DF,Belgium,35,Completed,119,44.25,0
+0.5,FW,Australia,27,Completed,2,33.35,0
+0.5,DF,Morocco,30,Completed,2.5,27.8,0
+0.5,DF,Cameroon,27,Completed,33,40.25,0.5
+0.5,MF,Korea Republic,23,Completed,6,40,0
+0.5,MF,Belgium,20,Completed,4,28.55,0
+0.5,MF,Ecuador,20,Completed,11.5,31.1,0
+0.5,MF,Cameroon,24,Completed,0.5,25,0
+0.5,MF,Denmark,22,Completed,18,34.6,0
+0.5,FW,United States,21,Completed,8,42.1,0
+0.5,DF,Mexico,28,Completed,46.5,34.7,0
+0.5,MF,Costa Rica,18,Completed,5.5,39.3,0
+0.5,MF,Ecuador,25,Completed,64,45.7,0
+0.5,DF,Denmark,26,Completed,99,39.6,0
+0.5,DF,Denmark,25,Completed,59.5,40.75,0
+0.5,MF,Wales,32,Completed,15,41.65,0
+0.5,MF,Wales,25,Completed,6,42.85,0
+0.5,DF,Wales,25,Completed,76,44.95,0
+0.5,FW,Costa Rica,30,Completed,52,37.7,0
+0.5,FW,Costa Rica,34,Completed,5.5,39.3,0
+0.5,DF,England,28,Completed,181.5,47.5,0
+0.5,FW,Germany,30,Completed,8,40,0
+0.5,FW,Canada,22,Completed,20.5,34.15,0
+0.5,MF,Canada,30,Completed,26,45.6,0
+0.5,FW,Ghana,31,Completed,17.5,38.05,0
+0.5,MF,England,32,Completed,49,40.85,0.5
+0.5,FW,United States,28,Completed,0.5,12.5,0
+0.5,GK,England,28,Completed,53,38.95,0
+0.5,MF,France,29,Completed,16.5,45.85,0
+0.5,DF,Spain,33,Completed,164,44.1,0
+0.5,DF,Mexico,24,Completed,34.5,39.65,0
+0.5,FW,United States,22,Completed,14.5,43.95,0
+0.5,MF,Germany,27,Completed,113,42.3,0
+0.5,DF,Croatia,27,Completed,101,38.1,0
+0.5,MF,Ecuador,23,Completed,16.5,37.5,0
+0.5,DF,Uruguay,27,Completed,70.5,40.5,0
+0.5,DF,Portugal,28,Completed,92,40.9,0
+0.5,FW,Portugal,23,Completed,39,38.6,0.5
+0.5,FW,Portugal,29,Completed,18.5,46.25,0
+0.5,MF,Portugal,27,Completed,13,41.95,0
+0.5,DF,Croatia,20,Completed,141,43.95,0
+0.5,DF,Costa Rica,27,Completed,9.5,39.6,0.5
+0.5,MF,England,19,Completed,99.5,45.65,0.5
+0.5,DF,France,24,Completed,59.5,41.05,0
+0.5,FW,Argentina,22,Completed,20.5,36.6,1
+0.5,MF,Korea Republic,32,Completed,89,42.2,0
+0.5,FW,Canada,32,Completed,21.5,36.45,0
+0.5,MF,Japan,29,Completed,29.5,30.4,0
+0.5,DF,Netherlands,21,Completed,97.5,45.15,0
+0.5,FW,Germany,23,Completed,13.5,39.7,1
+0.5,DF,Senegal,31,Completed,78,38.05,0.5
+0.5,MF,England,27,Completed,8.5,44.75,0
+0.5,DF,Canada,25,Completed,93,45.35,0
+0.5,FW,Ghana,20,Completed,5,26.3,0
+0.5,DF,Poland,34,Completed,59,45.4,0
+0.5,MF,Poland,34,Completed,2,33.35,0
+0.5,MF,Japan,25,Completed,25,35.7,0
+0.5,FW,IR Iran,32,Completed,2,40,0
+0.5,MF,Qatar,32,Completed,47,44.35,0
+0.5,FW,Cameroon,30,Completed,21.5,40.55,0
+0.5,FW,Poland,25,Completed,3.5,50,0
+0.5,FW,Denmark,25,Completed,7.5,41.65,0
+0.5,GK,Denmark,36,Completed,36,41.4,0
+0.5,MF,Australia,24,Completed,13,31.7,0
+0.5,MF,United States,27,Completed,5,41.65,0
+0.5,DF,Costa Rica,34,Completed,28.5,40.15,0
+0.5,MF,Netherlands,20,Completed,4,50,0
+0.5,FW,Belgium,31,Completed,46.5,34.2,0
+0.5,FW,Ecuador,22,Completed,0,0,0
+0.5,DF,Mexico,23,Completed,9.5,32.75,0
+0.5,GK,Costa Rica,35,Completed,30.5,29.9,0
+0.5,DF,Costa Rica,28,Completed,22,34.9,0.5
+0.5,FW,Wales,30,Completed,18,32.15,0
+0.5,DF,England,32,Completed,82.5,42.3,0
+0.5,DF,Korea Republic,30,Completed,52.5,35.95,0
+0.5,DF,Korea Republic,26,Completed,83.5,43.7,0
+0.5,DF,Korea Republic,27,Completed,100.5,41.55,0
+0.5,GK,Korea Republic,32,Completed,46.5,36.35,0
+0.5,DF,Korea Republic,32,Completed,89,42.6,0.5
+0.5,FW,France,26,Completed,25,44.65,0
+0.5,DF,Japan,25,Completed,49,44.15,0
+0.5,MF,Spain,30,Completed,28,45.15,0
+0.5,MF,Poland,24,Completed,43,43.45,0
+0.5,FW,Poland,27,Completed,1,16.65,0
+0.5,FW,Senegal,23,Completed,30,41.1,0
+0.5,FW,Ghana,22,Completed,31,35.65,1
+0.5,FW,Korea Republic,28,Completed,9.5,38,0
+0.5,DF,Korea Republic,30,Completed,19.5,45.35,0
+0.5,DF,Australia,24,Completed,82.5,44.1,0
+0.5,DF,England,32,Completed,59.5,44.4,0
+0.5,FW,France,23,Completed,60,37.5,2.5
+0.5,FW,Argentina,25,Completed,16,38.1,0
+0.5,GK,Ghana,26,Completed,27,34.6,0
+0.5,DF,Belgium,27,Completed,59.5,48.75,0
+0.5,MF,Argentina,28,Completed,66.5,47.15,0
+0.5,FW,Belgium,28,Completed,21.5,37.7,0
+0.5,MF,Korea Republic,30,Completed,42,43.3,0
+0.5,MF,Korea Republic,21,Completed,31,40.25,0
+0.5,MF,Germany,27,Completed,21,36.85,0
+0.5,FW,Germany,26,Completed,23.5,40.5,0
+0.5,DF,Canada,23,Completed,2,22.2,0
+0.5,FW,Argentina,35,Completed,90,40.55,1.5
+0.5,DF,Argentina,24,Completed,48,43.25,0
+0.5,MF,Croatia,24,Completed,14.5,42.65,0.5
+0.5,FW,Belgium,22,Completed,1.5,30,0
+0.5,FW,Canada,29,Completed,1,50,0
+0.5,DF,France,26,Completed,2.5,25,0
+0.5,MF,Brazil,25,Completed,57.5,40.8,0.5
+0.5,MF,Mexico,26,Completed,49.5,35.6,0.5
+0.5,FW,Uruguay,35,Completed,12.5,31.25,0
+0.5,FW,Serbia,24,Completed,3,30,0
+0.5,MF,Croatia,37,Completed,115,40.95,0
+0.5,DF,Germany,26,Completed,25.5,49.05,0
+0.5,DF,England,27,Completed,140,42.55,0
+0.5,DF,IR Iran,26,Completed,43,40.55,0
+0.5,DF,Switzerland,27,Completed,114.5,44.2,0.5
+0.5,GK,Germany,36,Completed,57.5,45.3,0
+0.5,MF,Croatia,30,Completed,161.5,43.65,0
+0.5,FW,Spain,26,Completed,44.5,37.4,0.5
+0.5,DF,Argentina,31,Completed,64.5,39.8,0
+0.5,DF,Spain,27,Completed,47.5,44.8,0
+0.5,FW,England,25,Completed,23,36.5,1.5
+0.5,FW,France,25,Completed,4.5,40.9,0
+0.5,MF,Germany,30,Completed,10.5,45.65,0
+0.5,FW,Croatia,27,Completed,16.5,40.25,0
+0.5,MF,Canada,28,Completed,25.5,41.8,0
+0.5,MF,Serbia,26,Completed,7,41.2,0
+0.5,FW,Croatia,29,Completed,11,28.2,0.5
+0.5,DF,Brazil,28,Completed,129,47.45,0
+0.5,MF,Netherlands,31,Completed,37.5,40.75,0
+0.5,FW,Denmark,31,Completed,7,35,0
+0.5,MF,Cameroon,24,Completed,24.5,40.15,0
+0.5,FW,Brazil,21,Completed,17,37.8,0
+0.5,DF,Uruguay,35,Completed,34,43.05,0
+0.5,MF,England,23,Completed,29.5,41.55,0
+0.5,MF,Croatia,28,Completed,99.5,44.2,0
+0.5,MF,Portugal,24,Completed,14,42.4,0
+0.5,MF,Australia,31,Completed,33.5,32.5,0.5
+0.5,GK,Australia,30,Completed,56.5,34.45,0
+0.5,MF,Denmark,26,Completed,26,38.8,0
+0.5,DF,Uruguay,25,Completed,52,39.1,0
+0.5,GK,United States,28,Completed,50.5,39.45,0
+0.5,DF,Germany,28,Completed,1.5,50,0
+0.5,DF,Netherlands,23,Completed,20.5,45.55,0
+0.5,DF,Poland,25,Completed,61.5,38.45,0
+0.5,FW,France,23,Completed,13.5,40.9,0
+0.5,MF,Uruguay,31,Completed,38,35.85,0
+0.5,DF,Uruguay,25,Completed,5.5,26.2,0
+0.5,FW,Uruguay,26,Completed,2.5,35.7,0
+0.5,DF,Japan,34,Completed,99,42.65,0
+0.5,FW,IR Iran,30,Completed,29,37.2,1
+0.5,MF,IR Iran,28,Completed,15,40.55,0
+0.5,FW,Netherlands,28,Completed,34.5,40.1,0.5
+0.5,GK,Qatar,24,Completed,22.5,35.7,0
+0.5,FW,Ecuador,26,Completed,14,28,0
+0.5,MF,Poland,22,Completed,4,44.45,0
+0.5,MF,Switzerland,25,Completed,1,25,0
+0.5,FW,Belgium,29,Completed,8,33.35,0.5
+0.5,DF,Japan,28,Completed,12,36.35,0
+0.5,MF,Denmark,22,Completed,27.5,38.2,0
+0.5,DF,IR Iran,29,Completed,22,32.35,0
+0.5,GK,Canada,35,Completed,38,38.8,0
+0.5,DF,Australia,28,Completed,33.5,33.15,0
+0.5,DF,Serbia,27,Completed,49,43.75,0
+0.5,FW,Croatia,29,Completed,3,30,0
+0.5,FW,Australia,31,Completed,18,28.55,0.5
+0.5,MF,Tunisia,23,Completed,7,33.35,0
+0.5,DF,Tunisia,26,Completed,18,36,0
+0.5,MF,Saudi Arabia,28,Completed,59.5,40.5,0
+0.5,DF,Saudi Arabia,30,Completed,19.5,40.65,0
+0.5,GK,Saudi Arabia,31,Completed,28.5,28.5,0
+0.5,FW,Qatar,28,Completed,8.5,44.75,0.5
+0.5,DF,Ghana,23,Completed,54.5,36.1,0.5
+0.5,MF,Qatar,23,Completed,4.5,37.5,0
+0.5,MF,Ecuador,21,Completed,63,41.2,0.5
+0.5,DF,Tunisia,24,Completed,59,43.05,0
+0.5,DF,IR Iran,30,Completed,46,35.95,0
+0.5,FW,Cameroon,28,Completed,10.5,42,0
+0.5,GK,Morocco,33,Completed,9.5,33.95,0
+0.5,DF,Qatar,29,Completed,1.5,50,0
+0.5,FW,Korea Republic,26,Completed,12,32.45,0
+0.5,DF,Tunisia,27,Completed,13.5,40.9,0
+0.5,DF,Argentina,24,Completed,95.5,43.4,0
+0.5,MF,Senegal,30,Completed,70.5,44.35,0
+0.5,FW,Saudi Arabia,23,Completed,5.5,50,0
+0.5,DF,Netherlands,27,Completed,126.5,46.15,0
+0.5,DF,Australia,23,Completed,13.5,39.7,0
+0.5,MF,Saudi Arabia,32,Completed,16.5,42.3,0
+0.5,DF,Morocco,26,Completed,68.5,43.35,0
+0.5,MF,Tunisia,30,Completed,14.5,28.45,0
+0.5,DF,Wales,21,Completed,34.5,34.15,0
+0.5,MF,Serbia,31,Completed,22,42.3,0
+0.5,MF,Serbia,27,Completed,25,43.85,0
+0.5,DF,Serbia,26,Completed,7.5,31.25,0
+0.5,MF,Brazil,30,Completed,36,40,0.5
+0.5,FW,Germany,29,Completed,7.5,31.25,1
+0.5,DF,Switzerland,26,Completed,65.5,46.15,0
+0.5,DF,Germany,23,Completed,55,44.7,0
+0.5,FW,Spain,20,Completed,25,39.7,0
+0.5,MF,Poland,20,Completed,7.5,44.1,0
+0.5,FW,Senegal,21,Completed,4.5,45,0
+0.5,DF,Cameroon,32,Completed,39.5,43.4,0
+0.5,MF,Uruguay,25,Completed,10,40,0
+0.5,DF,Argentina,34,Completed,171.5,46.1,0
+0.5,DF,Argentina,30,Completed,36.5,42.45,0
+0.5,DF,Germany,27,Completed,115.5,45.3,0
+0.5,DF,Serbia,25,Completed,70.5,43.25,0
+0.5,FW,Croatia,25,Completed,11,44,0
+0.5,FW,Switzerland,22,Completed,8.5,38.65,0
+0.5,DF,Cameroon,25,Completed,41.5,38.05,0
+0.5,DF,Morocco,25,Completed,39.5,39.9,0
+0.5,DF,Portugal,20,Completed,14.5,45.3,0
+0.5,DF,Mexico,31,Completed,22,41.5,0
+0.5,FW,France,36,Completed,15,38.45,1.5
+0.5,MF,Cameroon,26,Completed,5.5,45.85,0
+0.5,MF,Mexico,26,Completed,9,36,0
+0.5,MF,Ghana,23,Completed,7,35,0.5
+0.5,MF,Portugal,27,Completed,30,40,0
+0.5,FW,France,25,Completed,46,38,0
+0.5,FW,Spain,30,Completed,1,20,0
+0.5,MF,Korea Republic,25,Completed,10,37.05,0.5
+0.5,DF,Senegal,27,Completed,14,37.85,0
+0.5,MF,Senegal,23,Completed,22.5,36.3,0
+0.5,MF,Senegal,20,Completed,18,41.85,0
+0.5,MF,Argentina,34,Completed,26.5,44.15,0
+0.5,MF,Senegal,28,Completed,23,40.35,0
+0.5,DF,Spain,25,Completed,87,45.55,0
+0.5,MF,Spain,20,Completed,196.5,45.3,0
+0.5,FW,Brazil,25,Completed,2,33.35,0
+0.5,DF,Portugal,39,Completed,76,39.6,0.5
+0.5,DF,Ecuador,24,Completed,74,38.95,0
+0.5,FW,England,22,Completed,34,37.35,0.5
+0.5,DF,Ecuador,20,Completed,84,42,0
+0.5,MF,Denmark,27,Completed,100,44.65,0
+0.5,MF,Cameroon,27,Completed,19,38.8,0
+0.5,MF,Poland,28,Completed,62,40.5,0.5
+0.5,MF,Poland,27,Completed,24.5,33.1,0
+0.5,FW,Portugal,23,Completed,12,35.3,1
+0.5,FW,England,27,Completed,20.5,42.7,0.5
+0.5,DF,IR Iran,32,Completed,36.5,34.75,0.5
+0.5,FW,France,24,Completed,5.5,27.5,0
+0.5,DF,Portugal,28,Completed,66.5,43.2,0.5
+0.5,DF,France,29,Completed,57.5,44.55,0
+0.5,FW,Brazil,25,Completed,46,36.5,0
+0.5,DF,Denmark,25,Completed,68.5,38.25,0
+0.5,FW,Mexico,31,Completed,10,31.25,0
+0.5,MF,Switzerland,30,Completed,63.5,41.25,0.5
+0.5,FW,Switzerland,31,Completed,6.5,43.35,0
+0.5,FW,Portugal,28,Completed,11.5,33.8,0.5
+0.5,DF,Switzerland,30,Completed,82,35.8,0
+0.5,FW,Brazil,25,Completed,16.5,37.5,1.5
+0.5,DF,Canada,27,Completed,17.5,37.25,0
+0.5,FW,Australia,24,Completed,28.5,38,0
+0.5,FW,Japan,24,Completed,18,32.15,1
+0.5,MF,Saudi Arabia,29,Completed,7,41.2,0
+0.5,MF,Costa Rica,20,Completed,2,50,0
+0.5,FW,Poland,34,Completed,30.5,33.5,1
+0.5,DF,Denmark,26,Completed,8.5,40.5,0
+0.5,FW,Mexico,24,Completed,2.5,25,0
+0.5,DF,Spain,26,Completed,321,46.6,0
+0.5,MF,Uruguay,25,Completed,68,42.5,0
+0.5,MF,Argentina,28,Completed,167.5,42.3,0
+0.5,MF,Brazil,21,Completed,31,39.75,0
+0.5,FW,Mexico,31,Completed,0,0,0
+0.5,DF,Morocco,32,Completed,65,39.4,0.5
+0.5,MF,Ecuador,28,Completed,5,35.7,0
+0.5,FW,Belgium,29,Completed,3,33.35,0
+0.5,DF,IR Iran,29,Completed,3.5,31.8,0.5
+0.5,FW,Switzerland,24,Completed,40,34.2,0
+0.5,MF,Wales,20,Completed,1,25,0
+0.5,DF,Qatar,32,Completed,39,36.1,0
+0.5,DF,Costa Rica,28,Completed,9,31.05,0
+0.5,DF,Portugal,25,Completed,80,44.95,0
+0.5,MF,Portugal,25,Completed,87.5,45.8,0
+0.5,GK,Qatar,32,Completed,9,45,0
+0.5,DF,IR Iran,26,Completed,9,34.6,0
+0.5,MF,IR Iran,26,Completed,33,37.5,0
+0.5,FW,Saudi Arabia,29,Completed,14.5,30.85,0.5
+0.5,MF,Saudi Arabia,31,Completed,43,38.75,1
+0.5,MF,Ghana,22,Completed,64.5,44.5,0
+0.5,MF,Saudi Arabia,33,Completed,6,37.5,0
+0.5,DF,Canada,27,Completed,31.5,44.35,0
+0.5,MF,IR Iran,29,Completed,7.5,37.5,0
+0.5,MF,Saudi Arabia,25,Completed,6.5,30.95,0
+0.5,MF,Cameroon,24,Completed,26,44.05,0
+0.5,FW,IR Iran,27,Completed,9,30,0
+0.5,DF,Saudi Arabia,23,Completed,44,36.05,0
+0.5,MF,Serbia,26,Completed,71.5,44.15,0
+0.5,MF,Poland,23,Completed,13,31.7,0
+0.5,DF,Uruguay,32,Completed,38,40.85,0
+0.5,MF,Morocco,26,Completed,17,39.55,0
+0.5,FW,Germany,27,Completed,43,36.45,0.5
+0.5,MF,Serbia,27,Completed,43.5,36.25,0.5
+0.5,MF,Spain,34,Completed,130.5,45.15,0
+0.5,GK,Uruguay,29,Completed,27,34.6,0
+0.5,DF,United States,22,Completed,86,43,0
+0.5,DF,United States,26,Completed,7,33.35,0
+0.5,DF,Japan,31,Completed,36,42.35,0
+0.5,GK,Japan,33,Completed,34,30.1,0
+0.5,DF,Switzerland,29,Completed,63.5,37.55,0
+0.5,DF,Denmark,33,Completed,25,42.35,0
+0.5,FW,Morocco,29,Completed,27.5,38.75,0
+0.5,MF,Morocco,26,Completed,72,42.85,0
+0.5,FW,Korea Republic,30,Completed,38.5,33.5,0
+0.5,MF,Korea Republic,30,Completed,27.5,46.6,0
+0.5,MF,Wales,23,Completed,1.5,37.5,0
+0.5,DF,Serbia,26,Completed,5,31.25,0
+0.5,DF,Serbia,32,Completed,9,42.85,0
+0.5,MF,Canada,25,Completed,41.5,44.6,0
+0.5,GK,France,37,Completed,9.5,30.65,0
+0.5,MF,Netherlands,30,Completed,36,38.3,0
+0.5,FW,Netherlands,25,Completed,24.5,43.75,0
+0.5,DF,Canada,35,Completed,80,43,0
+0.5,DF,Serbia,21,Completed,60.5,38.8,0.5
+0.5,DF,Saudi Arabia,28,Completed,17,32.7,0
+0.5,FW,Tunisia,30,Completed,1,16.65,0
+0.5,MF,Canada,23,Completed,30.5,34.25,0
+0.5,FW,Japan,21,Completed,3,27.25,0
+0.5,DF,Japan,24,Completed,36.5,35.45,0
+0.5,FW,Japan,28,Completed,10.5,37.5,0.5
+0.5,FW,Japan,27,Completed,7,31.8,0
+0.5,DF,Qatar,25,Completed,3.5,35,0
+0.5,DF,Ghana,22,Completed,10.5,30.9,0
+0.5,MF,Netherlands,24,Completed,28,34.55,0
+0.5,DF,France,25,Completed,96.5,45.1,0
+0.5,MF,Argentina,21,Completed,6.5,50,0
+0.5,DF,Brazil,38,Completed,114.5,46.75,0
+0.5,GK,Belgium,30,Completed,54,43.9,0
+0.5,DF,Germany,26,Completed,11,37.95,0
+0.5,MF,Denmark,31,Completed,12,41.4,0
+0.5,DF,Belgium,31,Completed,55,37.4,0
+0.5,FW,Germany,33,Completed,28,35.9,0
+0.5,MF,Ghana,29,Completed,73,41.5,0
+0.5,FW,Belgium,29,Completed,20,34.5,0
+0.5,DF,United States,35,Completed,122.5,44.4,0
+0.5,DF,Belgium,27,Completed,88,43.55,0
+0.5,FW,United States,22,Completed,45,41.65,0.5
+0.5,DF,Belgium,33,Completed,124,45.4,0
+0.5,DF,England,24,Completed,10.5,45.65,0
+0.5,MF,United States,23,Completed,120.5,44.45,0
+0.5,GK,Spain,25,Completed,75,46.9,0
+0.5,FW,Mexico,25,Completed,6,30,0
+0.5,GK,Serbia,25,Completed,45,36,0
+0.5,DF,Denmark,24,Completed,34.5,46.6,0
+0.5,FW,Cameroon,30,Completed,10,32.25,1
+0.5,FW,Netherlands,28,Completed,8,40,0
+0.5,FW,Brazil,22,Completed,30,38.95,0.5
+0.5,DF,Netherlands,31,Completed,112.5,43.45,0
+0.5,MF,Portugal,22,Completed,34,45.95,0
+0.5,FW,Tunisia,31,Completed,6.5,32.5,0.5
+0.5,DF,Tunisia,27,Completed,22,31.9,0
+0.5,FW,Morocco,24,Completed,1,25,0
+0.5,DF,United States,29,Completed,108.5,44.45,0
+0.5,MF,Japan,29,Completed,77.5,40.35,0
+0.5,GK,Wales,35,Completed,25,37.9,0
+0.5,MF,United States,24,Completed,58.5,38.25,0
+0.5,MF,Portugal,30,Completed,78,45.9,0
+0.5,DF,France,21,Completed,18.5,50,0
+0.5,GK,Poland,32,Completed,42,29.6,0
+0.5,FW,Netherlands,30,Completed,1.5,30,0
+0.5,GK,Brazil,34,Completed,1.5,30,0
+0.5,FW,Netherlands,19,Completed,3,30,0
+0.5,FW,Switzerland,31,Completed,33.5,32.2,0.5
+0.5,DF,Morocco,27,Completed,10.5,30.9,0
+0.5,MF,Morocco,31,Completed,0,0,0
+0.5,GK,Switzerland,33,Completed,54,45.75,0
+0.5,FW,Belgium,29,Completed,19.5,42.4,0
+0.5,DF,Saudi Arabia,30,Completed,6.5,22.4,0
+0.5,GK,Morocco,31,Completed,31,30.7,0
+0.5,DF,Tunisia,29,Completed,69.5,40.65,0
+0.5,MF,Costa Rica,30,Completed,39,39.4,0.5
+0.5,MF,Belgium,25,Completed,26.5,41.4,0
+0.5,FW,Morocco,25,Completed,16,31.35,0.5
+0.5,MF,Tunisia,32,Completed,25,36.25,0
+0.5,MF,France,23,Completed,30,44.1,0
+0.5,DF,Senegal,29,Completed,94.5,43.15,0
+0.5,FW,Germany,18,Completed,0.5,25,0
+0.5,DF,Costa Rica,26,Completed,7.5,39.45,0
+0.5,FW,Japan,25,Completed,5.5,28.95,0
+0.5,MF,United States,20,Completed,75.5,41.5,0
+0.5,MF,Japan,36,Completed,39,35.8,0
+0.5,MF,Morocco,22,Completed,2.5,27.8,0.5
+0.5,FW,Spain,30,Completed,14,34.15,1.5
+0.5,MF,Costa Rica,20,Completed,2.5,50,0
+0.5,MF,Argentina,34,Completed,46.5,38.1,0
+0.5,DF,Ecuador,24,Completed,47,36.45,0
+0.5,DF,Brazil,24,Completed,86.5,45.3,0
+0.5,DF,Costa Rica,33,Completed,34,34.7,0
+0.5,MF,Germany,32,Completed,75,44.65,0.5
+0.5,MF,Australia,32,Failed,85,39.15,0
+0.5,MF,Wales,31,Failed,44,39.3,0
+0.5,MF,Morocco,26,Failed,18,37.5,0
+0.5,DF,Qatar,29,Failed,61,37.9,0
+0.5,FW,Morocco,31,Failed,3,33.35,0
+0.5,FW,Morocco,20,Failed,3,33.35,0
+0.5,DF,Senegal,26,Failed,69.5,37.35,0
+0.5,FW,Ghana,18,Failed,0.5,50,0
+0.5,MF,Qatar,32,Failed,36,39.55,0
+0.5,DF,Saudi Arabia,25,Failed,37,35.6,0
+0.5,MF,Saudi Arabia,28,Failed,33,39.3,0
+0.5,DF,Saudi Arabia,29,Failed,2.5,19.25,0
+0.5,MF,Saudi Arabia,27,Failed,4,30.75,0
+0.5,DF,IR Iran,24,Failed,10,34.5,0
+0.5,DF,Morocco,24,Failed,82,40.4,0
+0.5,MF,France,27,Failed,81.5,43.35,0.5
+0.5,MF,Uruguay,24,Failed,2.5,35.7,0
+0.5,MF,IR Iran,29,Failed,17.5,32.4,0
+0.5,FW,Qatar,29,Failed,0,0,0
+0.5,GK,Tunisia,25,Failed,24,31.15,0
+0.5,MF,Australia,26,Failed,8.5,40.5,0
+0.5,FW,Qatar,26,Failed,69.5,42.1,0
+0.5,MF,Ecuador,24,Failed,5,45.45,0
+0.5,DF,Spain,19,Failed,56,45.55,0
+0.5,FW,Serbia,28,Failed,27,39.15,1
+0.5,DF,Brazil,31,Failed,73,44.5,0
+0.5,DF,Brazil,29,Failed,16.5,39.3,0
+0.5,DF,Denmark,24,Failed,18.5,34.9,0
+0.5,DF,Ghana,28,Failed,11,39.3,0
+0.5,MF,Argentina,23,Failed,61,45.85,0.5
+0.5,FW,Mexico,25,Failed,20,35.7,0
+0.5,DF,Tunisia,28,Failed,36,31.05,0
+0.5,MF,Saudi Arabia,25,Failed,2,28.55,0
+0.5,DF,Saudi Arabia,33,Failed,39,40.2,0
+0.5,MF,Qatar,29,Failed,10.5,45.65,0
+0.5,MF,IR Iran,26,Failed,23,31.95,0
+0.5,MF,IR Iran,28,Failed,17,37.8,0
+0.5,DF,Tunisia,32,Failed,19.5,30.95,0
+0.5,DF,Ghana,22,Failed,29.5,37.8,0
+0.5,GK,IR Iran,30,Failed,10,32.25,0
+0.5,MF,IR Iran,29,Failed,5.5,32.35,0
+0.5,GK,Brazil,30,Failed,26,41.25,0
+0.5,DF,Canada,24,Failed,73.5,39.5,0
+0.5,FW,Qatar,26,Failed,16.5,36.65,0
+0.5,MF,Canada,22,Failed,41,35.95,0.5
+0.5,MF,Belgium,21,Failed,29,45.3,0
+0.5,MF,Cameroon,27,Failed,56.5,43.45,0
+0.5,DF,Denmark,26,Failed,118.5,47.2,0.5
+0.5,FW,Denmark,29,Failed,10.5,30.9,0
+0.5,FW,Denmark,22,Failed,21.5,34.15,0
+0.5,FW,Croatia,31,Failed,43.5,43.95,1
+0.5,GK,Netherlands,28,Failed,55.5,40.2,0
+0.5,DF,Serbia,26,Failed,35.5,37,0
+0.5,MF,Ghana,32,Failed,15,40.55,0.5
+0.5,GK,Cameroon,26,Failed,22.5,38.15,0
+0.5,FW,Portugal,27,Failed,4.5,40.9,0
+0.5,MF,Mexico,36,Failed,5.5,34.4,0
+0.5,MF,Tunisia,21,Failed,14.5,31.5,0
+0.5,FW,Spain,20,Failed,12.5,43.1,0
+0.5,FW,Croatia,31,Failed,1,20,0
+0.5,FW,Costa Rica,22,Failed,7.5,28.85,0
+0.5,MF,France,31,Failed,86,39.45,0
+0.5,FW,Ghana,22,Failed,0.5,25,0
+0.5,DF,United States,25,Failed,86.5,35.9,0
+0.5,DF,Germany,29,Failed,114.5,45.45,0
+0.5,FW,Brazil,22,Failed,30.5,38.6,0
+0.5,DF,Portugal,19,Failed,30,48.4,0
+0.5,MF,Japan,24,Failed,24,34.8,0.5
+0.5,FW,Switzerland,20,Failed,2.5,41.65,0
+0.5,FW,Poland,28,Failed,9.5,32.75,0
+0.5,DF,Poland,35,Failed,1.5,37.5,0
+0.5,FW,Saudi Arabia,21,Failed,0.5,25,0
+0.5,MF,Qatar,26,Failed,29,41.45,0
+0.5,MF,Canada,39,Failed,50,44.65,0
+0.5,MF,France,22,Failed,147,46.8,0
+0.5,MF,Australia,27,Failed,5,35.7,0
+0.5,DF,France,24,Failed,30.5,39.1,0
+0.5,MF,Belgium,33,Failed,84.5,47.75,0
+0.5,FW,Japan,24,Failed,3.5,29.15,0
+0.5,DF,Spain,28,Failed,206.5,47.15,0
+0.5,DF,Australia,31,Failed,76,37.45,0
+0.5,MF,Morocco,22,Failed,53,38.7,0
+0.5,MF,Tunisia,25,Failed,49.5,40.25,0
+0.5,DF,Ghana,28,Failed,33,33,0
+0.5,DF,Morocco,29,Failed,0,0,0
+0.5,DF,Australia,30,Failed,0.5,16.65,0
+0.5,FW,Senegal,22,Failed,4.5,28.15,0.5
+0.5,DF,Poland,30,Failed,61,39.1,0
+0.5,DF,Qatar,24,Failed,23.5,41.25,0
+0.5,DF,Wales,29,Failed,61,37.9,0
+0.5,DF,France,26,Failed,41,45.55,0
+0.5,MF,Portugal,28,Failed,84,44,0
+0.5,DF,Croatia,30,Failed,25,36.25,0
+0.5,DF,Croatia,24,Failed,82.5,40.25,0
+0.5,DF,Qatar,32,Failed,84.5,42.9,0
+0.5,FW,Senegal,26,Failed,19.5,36.8,0.5
+0.5,MF,Costa Rica,19,Failed,13.5,35.55,0
+0.5,FW,Switzerland,25,Failed,23,37.1,1
+0.5,MF,United States,22,Failed,20.5,41,0
+0.5,FW,Wales,21,Failed,5,29.4,0
+0.5,FW,Portugal,28,Failed,65,41.15,1
+0.5,MF,Brazil,25,Failed,21.5,39.8,0
+0.5,FW,Croatia,28,Failed,11.5,24.45,0
+0.5,FW,Cameroon,23,Failed,24.5,28.8,0
+0.5,DF,Costa Rica,32,Failed,33.5,37.65,0
+0.5,MF,Costa Rica,37,Failed,4,33.35,0
+0.5,FW,England,21,Failed,33,39.75,1.5
+0.5,FW,England,30,Failed,4.5,45,0
+0.5,DF,United States,24,Failed,25,43.1,0
+0.5,MF,Ecuador,27,Failed,7.5,50,0
+0.5,DF,Costa Rica,23,Failed,5,33.35,0
+0.5,MF,Spain,25,Failed,39,47,0.5
+0.5,MF,Brazil,30,Failed,78.5,42.2,0.5
+0.5,MF,Costa Rica,34,Failed,49,40.85,0
+0.5,FW,Belgium,21,Failed,1.5,37.5,0
+0.5,MF,Mexico,25,Failed,10.5,35,0
+0.5,MF,Senegal,32,Failed,9.5,41.3,0
+0.5,FW,Korea Republic,24,Failed,20,31.75,1
+0.5,FW,Korea Republic,26,Failed,0,0,0
+0.5,DF,Wales,25,Failed,70.5,41,0
+0.5,MF,Cameroon,27,Failed,2.5,27.8,0
+0.5,MF,Denmark,30,Failed,94,40.85,0
+0.5,FW,Switzerland,29,Failed,3.5,35,0
+0.5,MF,Denmark,28,Failed,7,46.65,0
+0.5,FW,United States,24,Failed,41.5,29.45,0.5
+0.5,DF,Cameroon,21,Failed,12.5,40.3,0
+0.5,FW,Netherlands,23,Failed,36.5,32.9,1.5
+0.5,DF,Cameroon,30,Failed,49.5,33.9,0
+0.5,DF,Wales,27,Failed,46,39,0
+0.5,MF,Australia,30,Failed,29,30.55,0.5
+0.5,DF,Argentina,24,Failed,102.5,45.55,0
+0.5,FW,Portugal,37,Failed,32.5,38.7,0.5
+0.5,FW,Canada,27,Failed,10.5,36.2,0
+0.5,DF,Spain,33,Failed,85.5,47.25,0
+0.5,DF,Mexico,25,Failed,79.5,40.35,0
+0.5,FW,Japan,26,Failed,41.5,39.9,0
+0.5,FW,Japan,25,Failed,4,23.55,0.5
+0.5,DF,Netherlands,32,Failed,115,42.1,0.5
+0.5,MF,Poland,27,Failed,4,50,0
+0.5,DF,Brazil,39,Failed,41.5,42.8,0
+0.5,DF,Spain,30,Failed,60.5,44.8,0
+0.5,FW,Spain,24,Failed,81,40.9,0.5
+0.5,DF,Ghana,27,Failed,64,45.4,0
+0.5,MF,Costa Rica,21,Failed,0.5,50,0
+0.5,FW,Wales,25,Failed,12,33.35,0
+0.5,MF,Ghana,26,Failed,9,39.15,0
+0.5,DF,Brazil,31,Failed,69.5,43.15,0
+0.5,DF,Portugal,31,Failed,34,43.6,0
+0.5,GK,Wales,29,Failed,12,30.75,0
+0.5,DF,Serbia,32,Failed,3.5,29.15,0
+0.5,FW,Uruguay,23,Failed,17.5,31.25,0
+0.5,DF,Germany,24,Failed,76.5,39.25,0
+0.5,MF,Canada,32,Failed,2,28.55,0
+0.5,MF,Netherlands,29,Failed,29.5,38.3,0.5
+0.5,DF,France,24,Failed,111,47.05,0
+0.5,DF,United States,29,Failed,9.5,33.95,0
+0.5,MF,England,23,Failed,121,46.55,0
+0.5,DF,Croatia,33,Failed,128,43.25,0
+0.5,DF,Ghana,34,Failed,1,50,0
+0.5,MF,Switzerland,26,Failed,10,43.5,0
+0.5,DF,Netherlands,26,Failed,59.5,33.8,0.5
+0.5,GK,Cameroon,29,Failed,28.5,34.35,0
+0.5,DF,Uruguay,36,Failed,43.5,42.25,0
+0.5,GK,Portugal,23,Failed,45.5,33.7,0
+0.5,DF,Portugal,23,Failed,41.5,39.15,0
+0.5,MF,Switzerland,25,Failed,42,43.3,0
+0.5,FW,Ecuador,23,Failed,1,50,0
+0.5,GK,Croatia,27,Failed,51.5,41.85,0
+0.5,MF,Belgium,35,Failed,11,33.35,0
+0.5,MF,Serbia,34,Failed,45,35.45,0
+0.5,FW,Serbia,22,Failed,3,27.25,0.5
+0.5,DF,Tunisia,27,Failed,37.5,38.25,0
+0.5,MF,Belgium,31,Failed,23,39.65,0
+0.5,GK,Brazil,29,Failed,14,45.15,0
+0.5,FW,Switzerland,26,Failed,32.5,39.65,0
+0.5,FW,Uruguay,35,Failed,13.5,36.5,0
+0.5,GK,Senegal,30,Failed,44,36.65,0
+0.5,MF,Mexico,25,Failed,43,37.7,0
+0.5,DF,France,20,Failed,33.5,42.95,0
+0.5,MF,IR Iran,32,Failed,30.5,31.1,0
+0.5,MF,Tunisia,27,Failed,54.5,42.9,0
+0.5,GK,Argentina,30,Failed,36.5,38.85,0
+0.5,FW,Ecuador,33,Failed,20,35.1,1.5
+0.5,DF,Cameroon,23,Failed,17,44.75,0
+0.5,MF,Argentina,21,Failed,116,44.6,0.5
+0.5,DF,Switzerland,24,Failed,19,45.25,0
+0.5,DF,England,28,Failed,20,48.8,0
+0.5,FW,Cameroon,33,Failed,22,33.35,0.5
+0.5,MF,Mexico,27,Failed,12,41.4,0
+0.5,MF,Wales,22,Failed,54,37.5,0
+0.5,MF,Brazil,33,Failed,7.5,41.65,0
+0.5,MF,Argentina,24,Failed,5.5,42.3,0
+0.5,MF,Switzerland,33,Failed,4.5,32.15,0
+0.5,FW,Switzerland,20,Failed,6.5,25,0
+0.5,DF,Switzerland,30,Failed,32.5,39.65,0
+0.5,MF,Brazil,29,Failed,25.5,44.75,0
+0.5,MF,Uruguay,20,Failed,16,34.8,0
+0.5,FW,Senegal,29,Failed,5,35.7,0.5
+0.5,MF,Uruguay,24,Failed,79.5,42.05,0
+0.5,MF,Tunisia,30,Failed,12.5,36.75,0
+0.5,FW,Spain,22,Failed,29.5,34.7,1
+0.5,DF,Serbia,30,Failed,36,31.85,0
+0.5,DF,Serbia,31,Failed,10,40,0
+0.5,MF,Serbia,30,Failed,2.5,41.65,0
+0.5,MF,Saudi Arabia,22,Failed,21,33.35,0
+0.5,DF,Senegal,25,Failed,2.5,31.25,0
+0.5,DF,Australia,26,Failed,16.5,30.55,0
+0.5,DF,Costa Rica,30,Failed,43,41.35,0
+0.5,MF,Brazil,29,Failed,34.5,42.6,0
+0.5,MF,Netherlands,25,Failed,120,44.3,0.5
+0.5,DF,Ecuador,25,Failed,84,40.4,0
+0.5,FW,Brazil,25,Failed,11,39.3,0
+0.5,FW,Australia,18,Failed,1.5,30,0
+0.5,FW,Wales,33,Failed,16.5,31.15,0.5
+0.5,MF,Spain,18,Failed,66.5,43.2,0.5
+0.5,MF,Cameroon,27,Failed,8.5,44.75,0
+0.5,FW,Cameroon,27,Failed,4.5,37.5,0
+0.5,DF,Argentina,31,Failed,9,50,0
+0.5,MF,Costa Rica,25,Failed,8,50,0
+0.5,MF,Tunisia,28,Failed,1.5,37.5,0
+0.5,DF,Ghana,24,Failed,18,39.15,0
+0.5,FW,United States,20,Failed,13,34.2,0
+0.5,MF,Uruguay,28,Failed,16,30.75,1
+0.5,DF,Brazil,25,Failed,39,46.45,0
+0.5,DF,Argentina,25,Failed,26,45.6,0
+0.5,MF,Ecuador,22,Failed,38.5,37,0
+0.5,FW,Portugal,21,Failed,9,40.9,1.5
+0.5,MF,Switzerland,30,Failed,107.5,44.25,0
+0.5,GK,Switzerland,25,Failed,10.5,36.2,0
+0.5,MF,Poland,32,Failed,46.5,36.6,0
+0.5,MF,Argentina,28,Failed,27,42.2,0
+0.5,GK,Mexico,37,Failed,46.5,42.65,0
+0.5,DF,Uruguay,29,Failed,31,33.7,0
+0.5,FW,United States,24,Failed,10,37.05,0.5
+0.5,FW,Morocco,29,Failed,46,31.7,0.5
+0.5,MF,Tunisia,19,Failed,1,50,0
+0.5,FW,Switzerland,30,Failed,5,35.7,0
+0.5,FW,England,29,Failed,24.5,32.65,0.5
+0.5,DF,England,29,Failed,138,43.65,0
+0.5,DF,Australia,24,Failed,69,41.3,0
+0.5,MF,Wales,25,Failed,24,37.5,0
+0.5,DF,Saudi Arabia,23,Failed,20,36.35,0
+0.5,MF,Qatar,31,Failed,32.5,40.65,0
+0.5,MF,Saudi Arabia,30,Failed,2,28.55,0
+0.5,FW,Mexico,30,Failed,6.5,32.5,0.5
+0.5,GK,Ecuador,35,Failed,22,29.75,0
+0.5,MF,Japan,27,Failed,64.5,41.1,0
+0.5,DF,Japan,23,Failed,29,46.05,0
+0.5,MF,Japan,32,Failed,14,29.8,0
+0.5,FW,Mexico,27,Failed,21,27.25,0
+0.5,DF,Qatar,23,Failed,38.5,36.65,0
+0.5,DF,Korea Republic,32,Failed,8.5,42.5,0
+0.5,GK,IR Iran,30,Failed,11.5,24.45,0
+0.5,DF,IR Iran,28,Failed,4,36.35,0
+0.5,GK,France,35,Failed,28,32.2,0
+0.5,MF,Korea Republic,26,Failed,22.5,38.15,0.5
+0.5,MF,Korea Republic,26,Failed,97,39.25,0
+0.5,FW,Korea Republic,30,Failed,4.5,40.9,0
+0.5,MF,Mexico,32,Failed,32,41.05,0
+0.5,DF,Mexico,34,Failed,82.5,42.3,0
+0.5,DF,France,23,Failed,85,45.95,0
+0.5,MF,Senegal,33,Failed,53.5,40.25,0
+0.5,FW,Senegal,22,Failed,12.5,39.05,0
+0.5,DF,Senegal,23,Failed,53.5,34.3,0
+0.5,FW,Qatar,32,Failed,0,0,0
+0.5,FW,Senegal,24,Failed,26,32.1,0.5
+0.5,MF,Canada,20,Failed,48,47.5,0
+0.5,FW,Tunisia,30,Failed,12.5,35.7,0
+0.5,MF,Serbia,21,Failed,9.5,47.5,0
+0.5,FW,Croatia,33,Failed,53.5,34.95,0.5
+0.5,FW,Ghana,28,Failed,14.5,34.5,0
+0.5,FW,England,27,Failed,24,44.45,0.5
+0.5,MF,Australia,29,Failed,51.5,40.25,0
+0.5,DF,Ecuador,22,Failed,19.5,44.3,0
+0.5,MF,Poland,20,Failed,18.5,30.35,0
+0.5,DF,Poland,22,Failed,87,42.45,0
+0.5,MF,Germany,19,Failed,42.5,40.5,0
+0.5,FW,Australia,29,Failed,3.5,23.35,0
+0.5,DF,Poland,26,Failed,3,50,0
+0.5,DF,Belgium,35,Failed,119,44.25,0
+0.5,FW,Australia,27,Failed,2,33.35,0
+0.5,DF,Morocco,30,Failed,2.5,27.8,0
+0.5,DF,Cameroon,27,Failed,33,40.25,0.5
+0.5,MF,Korea Republic,23,Failed,6,40,0
+0.5,MF,Belgium,20,Failed,4,28.55,0
+0.5,MF,Ecuador,20,Failed,11.5,31.1,0
+0.5,MF,Cameroon,24,Failed,0.5,25,0
+0.5,MF,Denmark,22,Failed,18,34.6,0
+0.5,FW,United States,21,Failed,8,42.1,0
+0.5,DF,Mexico,28,Failed,46.5,34.7,0
+0.5,MF,Costa Rica,18,Failed,5.5,39.3,0
+0.5,MF,Ecuador,25,Failed,64,45.7,0
+0.5,DF,Denmark,26,Failed,99,39.6,0
+0.5,DF,Denmark,25,Failed,59.5,40.75,0
+0.5,MF,Wales,32,Failed,15,41.65,0
+0.5,MF,Wales,25,Failed,6,42.85,0
+0.5,DF,Wales,25,Failed,76,44.95,0
+0.5,FW,Costa Rica,30,Failed,52,37.7,0
+0.5,FW,Costa Rica,34,Failed,5.5,39.3,0
+0.5,DF,England,28,Failed,181.5,47.5,0
+0.5,FW,Germany,30,Failed,8,40,0
+0.5,FW,Canada,22,Failed,20.5,34.15,0
+0.5,MF,Canada,30,Failed,26,45.6,0
+0.5,FW,Ghana,31,Failed,17.5,38.05,0
+0.5,MF,England,32,Failed,49,40.85,0.5
+0.5,FW,United States,28,Failed,0.5,12.5,0
+0.5,GK,England,28,Failed,53,38.95,0
+0.5,MF,France,29,Failed,16.5,45.85,0
+0.5,DF,Spain,33,Failed,164,44.1,0
+0.5,DF,Mexico,24,Failed,34.5,39.65,0
+0.5,FW,United States,22,Failed,14.5,43.95,0
+0.5,MF,Germany,27,Failed,113,42.3,0
+0.5,DF,Croatia,27,Failed,101,38.1,0
+0.5,MF,Ecuador,23,Failed,16.5,37.5,0
+0.5,DF,Uruguay,27,Failed,70.5,40.5,0
+0.5,DF,Portugal,28,Failed,92,40.9,0
+0.5,FW,Portugal,23,Failed,39,38.6,0.5
+0.5,FW,Portugal,29,Failed,18.5,46.25,0
+0.5,MF,Portugal,27,Failed,13,41.95,0
+0.5,DF,Croatia,20,Failed,141,43.95,0
+0.5,DF,Costa Rica,27,Failed,9.5,39.6,0.5
+0.5,MF,England,19,Failed,99.5,45.65,0.5
+0.5,DF,France,24,Failed,59.5,41.05,0
+0.5,FW,Argentina,22,Failed,20.5,36.6,1
+0.5,MF,Korea Republic,32,Failed,89,42.2,0
+0.5,FW,Canada,32,Failed,21.5,36.45,0
+0.5,MF,Japan,29,Failed,29.5,30.4,0
+0.5,DF,Netherlands,21,Failed,97.5,45.15,0
+0.5,FW,Germany,23,Failed,13.5,39.7,1
+0.5,DF,Senegal,31,Failed,78,38.05,0.5
+0.5,MF,England,27,Failed,8.5,44.75,0
+0.5,DF,Canada,25,Failed,93,45.35,0
+0.5,FW,Ghana,20,Failed,5,26.3,0
+0.5,DF,Poland,34,Failed,59,45.4,0
+0.5,MF,Poland,34,Failed,2,33.35,0
+0.5,MF,Japan,25,Failed,25,35.7,0
+0.5,FW,IR Iran,32,Failed,2,40,0
+0.5,MF,Qatar,32,Failed,47,44.35,0
+0.5,FW,Cameroon,30,Failed,21.5,40.55,0
+0.5,FW,Poland,25,Failed,3.5,50,0
+0.5,FW,Denmark,25,Failed,7.5,41.65,0
+0.5,GK,Denmark,36,Failed,36,41.4,0
+0.5,MF,Australia,24,Failed,13,31.7,0
+0.5,MF,United States,27,Failed,5,41.65,0
+0.5,DF,Costa Rica,34,Failed,28.5,40.15,0
+0.5,MF,Netherlands,20,Failed,4,50,0
+0.5,FW,Belgium,31,Failed,46.5,34.2,0
+0.5,FW,Ecuador,22,Failed,0,0,0
+0.5,DF,Mexico,23,Failed,9.5,32.75,0
+0.5,GK,Costa Rica,35,Failed,30.5,29.9,0
+0.5,DF,Costa Rica,28,Failed,22,34.9,0.5
+0.5,FW,Wales,30,Failed,18,32.15,0
+0.5,DF,England,32,Failed,82.5,42.3,0
+0.5,DF,Korea Republic,30,Failed,52.5,35.95,0
+0.5,DF,Korea Republic,26,Failed,83.5,43.7,0
+0.5,DF,Korea Republic,27,Failed,100.5,41.55,0
+0.5,GK,Korea Republic,32,Failed,46.5,36.35,0
+0.5,DF,Korea Republic,32,Failed,89,42.6,0.5
+0.5,FW,France,26,Failed,25,44.65,0
+0.5,DF,Japan,25,Failed,49,44.15,0
+0.5,MF,Spain,30,Failed,28,45.15,0
+0.5,MF,Poland,24,Failed,43,43.45,0
+0.5,FW,Poland,27,Failed,1,16.65,0
+0.5,FW,Senegal,23,Failed,30,41.1,0
+0.5,FW,Ghana,22,Failed,31,35.65,1
+0.5,FW,Korea Republic,28,Failed,9.5,38,0
+0.5,DF,Korea Republic,30,Failed,19.5,45.35,0
+0.5,DF,Australia,24,Failed,82.5,44.1,0
+0.5,DF,England,32,Failed,59.5,44.4,0
+0.5,FW,France,23,Failed,60,37.5,2.5
+0.5,FW,Argentina,25,Failed,16,38.1,0
+0.5,GK,Ghana,26,Failed,27,34.6,0
+0.5,DF,Belgium,27,Failed,59.5,48.75,0
+0.5,MF,Argentina,28,Failed,66.5,47.15,0
+0.5,FW,Belgium,28,Failed,21.5,37.7,0
+0.5,MF,Korea Republic,30,Failed,42,43.3,0
+0.5,MF,Korea Republic,21,Failed,31,40.25,0
+0.5,MF,Germany,27,Failed,21,36.85,0
+0.5,FW,Germany,26,Failed,23.5,40.5,0
+0.5,DF,Canada,23,Failed,2,22.2,0
+0.5,FW,Argentina,35,Failed,90,40.55,1.5
+0.5,DF,Argentina,24,Failed,48,43.25,0
+0.5,MF,Croatia,24,Failed,14.5,42.65,0.5
+0.5,FW,Belgium,22,Failed,1.5,30,0
+0.5,FW,Canada,29,Failed,1,50,0
+0.5,DF,France,26,Failed,2.5,25,0
+0.5,MF,Brazil,25,Failed,57.5,40.8,0.5
+0.5,MF,Mexico,26,Failed,49.5,35.6,0.5
+0.5,FW,Uruguay,35,Failed,12.5,31.25,0
+0.5,FW,Serbia,24,Failed,3,30,0
+0.5,MF,Croatia,37,Failed,115,40.95,0
+0.5,DF,Germany,26,Failed,25.5,49.05,0
+0.5,DF,England,27,Failed,140,42.55,0
+0.5,DF,IR Iran,26,Failed,43,40.55,0
+0.5,DF,Switzerland,27,Failed,114.5,44.2,0.5
+0.5,GK,Germany,36,Failed,57.5,45.3,0
+0.5,MF,Croatia,30,Failed,161.5,43.65,0
+0.5,FW,Spain,26,Failed,44.5,37.4,0.5
+0.5,DF,Argentina,31,Failed,64.5,39.8,0
+0.5,DF,Spain,27,Failed,47.5,44.8,0
+0.5,FW,England,25,Failed,23,36.5,1.5
+0.5,FW,France,25,Failed,4.5,40.9,0
+0.5,MF,Germany,30,Failed,10.5,45.65,0
+0.5,FW,Croatia,27,Failed,16.5,40.25,0
+0.5,MF,Canada,28,Failed,25.5,41.8,0
+0.5,MF,Serbia,26,Failed,7,41.2,0
+0.5,FW,Croatia,29,Failed,11,28.2,0.5
+0.5,DF,Brazil,28,Failed,129,47.45,0
+0.5,MF,Netherlands,31,Failed,37.5,40.75,0
+0.5,FW,Denmark,31,Failed,7,35,0
+0.5,MF,Cameroon,24,Failed,24.5,40.15,0
+0.5,FW,Brazil,21,Failed,17,37.8,0
+0.5,DF,Uruguay,35,Failed,34,43.05,0
+0.5,MF,England,23,Failed,29.5,41.55,0
+0.5,MF,Croatia,28,Failed,99.5,44.2,0
+0.5,MF,Portugal,24,Failed,14,42.4,0
+0.5,MF,Australia,31,Failed,33.5,32.5,0.5
+0.5,GK,Australia,30,Failed,56.5,34.45,0
+0.5,MF,Denmark,26,Failed,26,38.8,0
+0.5,DF,Uruguay,25,Failed,52,39.1,0
+0.5,GK,United States,28,Failed,50.5,39.45,0
+0.5,DF,Germany,28,Failed,1.5,50,0
+0.5,DF,Netherlands,23,Failed,20.5,45.55,0
+0.5,DF,Poland,25,Failed,61.5,38.45,0
+0.5,FW,France,23,Failed,13.5,40.9,0
+0.5,MF,Uruguay,31,Failed,38,35.85,0
+0.5,DF,Uruguay,25,Failed,5.5,26.2,0
+0.5,FW,Uruguay,26,Failed,2.5,35.7,0
+0.5,DF,Japan,34,Failed,99,42.65,0
+0.5,FW,IR Iran,30,Failed,29,37.2,1
+0.5,MF,IR Iran,28,Failed,15,40.55,0
+0.5,FW,Netherlands,28,Failed,34.5,40.1,0.5
+0.5,GK,Qatar,24,Failed,22.5,35.7,0
+0.5,FW,Ecuador,26,Failed,14,28,0
+0.5,MF,Poland,22,Failed,4,44.45,0
+0.5,MF,Switzerland,25,Failed,1,25,0
+0.5,FW,Belgium,29,Failed,8,33.35,0.5
+0.5,DF,Japan,28,Failed,12,36.35,0
+0.5,MF,Denmark,22,Failed,27.5,38.2,0
+0.5,DF,IR Iran,29,Failed,22,32.35,0
+0.5,GK,Canada,35,Failed,38,38.8,0
+0.5,DF,Australia,28,Failed,33.5,33.15,0
+0.5,DF,Serbia,27,Failed,49,43.75,0
+0.5,FW,Croatia,29,Failed,3,30,0
+0.5,FW,Australia,31,Failed,18,28.55,0.5
+0.5,MF,Tunisia,23,Failed,7,33.35,0
+0.5,DF,Tunisia,26,Failed,18,36,0
+0.5,MF,Saudi Arabia,28,Failed,59.5,40.5,0
+0.5,DF,Saudi Arabia,30,Failed,19.5,40.65,0
+0.5,GK,Saudi Arabia,31,Failed,28.5,28.5,0
+0.5,FW,Qatar,28,Failed,8.5,44.75,0.5
+0.5,DF,Ghana,23,Failed,54.5,36.1,0.5
+0.5,MF,Qatar,23,Failed,4.5,37.5,0
+0.5,MF,Ecuador,21,Failed,63,41.2,0.5
+0.5,DF,Tunisia,24,Failed,59,43.05,0
+0.5,DF,IR Iran,30,Failed,46,35.95,0
+0.5,FW,Cameroon,28,Failed,10.5,42,0
+0.5,GK,Morocco,33,Failed,9.5,33.95,0
+0.5,DF,Qatar,29,Failed,1.5,50,0
+0.5,FW,Korea Republic,26,Failed,12,32.45,0
+0.5,DF,Tunisia,27,Failed,13.5,40.9,0
+0.5,DF,Argentina,24,Failed,95.5,43.4,0
+0.5,MF,Senegal,30,Failed,70.5,44.35,0
+0.5,FW,Saudi Arabia,23,Failed,5.5,50,0
+0.5,DF,Netherlands,27,Failed,126.5,46.15,0
+0.5,DF,Australia,23,Failed,13.5,39.7,0
+0.5,MF,Saudi Arabia,32,Failed,16.5,42.3,0
+0.5,DF,Morocco,26,Failed,68.5,43.35,0
+0.5,MF,Tunisia,30,Failed,14.5,28.45,0
+0.5,DF,Wales,21,Failed,34.5,34.15,0
+0.5,MF,Serbia,31,Failed,22,42.3,0
+0.5,MF,Serbia,27,Failed,25,43.85,0
+0.5,DF,Serbia,26,Failed,7.5,31.25,0
+0.5,MF,Brazil,30,Failed,36,40,0.5
+0.5,FW,Germany,29,Failed,7.5,31.25,1
+0.5,DF,Switzerland,26,Failed,65.5,46.15,0
+0.5,DF,Germany,23,Failed,55,44.7,0
+0.5,FW,Spain,20,Failed,25,39.7,0
+0.5,MF,Poland,20,Failed,7.5,44.1,0
+0.5,FW,Senegal,21,Failed,4.5,45,0
+0.5,DF,Cameroon,32,Failed,39.5,43.4,0
+0.5,MF,Uruguay,25,Failed,10,40,0
+0.5,DF,Argentina,34,Failed,171.5,46.1,0
+0.5,DF,Argentina,30,Failed,36.5,42.45,0
+0.5,DF,Germany,27,Failed,115.5,45.3,0
+0.5,DF,Serbia,25,Failed,70.5,43.25,0
+0.5,FW,Croatia,25,Failed,11,44,0
+0.5,FW,Switzerland,22,Failed,8.5,38.65,0
+0.5,DF,Cameroon,25,Failed,41.5,38.05,0
+0.5,DF,Morocco,25,Failed,39.5,39.9,0
+0.5,DF,Portugal,20,Failed,14.5,45.3,0
+0.5,DF,Mexico,31,Failed,22,41.5,0
+0.5,FW,France,36,Failed,15,38.45,1.5
+0.5,MF,Cameroon,26,Failed,5.5,45.85,0
+0.5,MF,Mexico,26,Failed,9,36,0
+0.5,MF,Ghana,23,Failed,7,35,0.5
+0.5,MF,Portugal,27,Failed,30,40,0
+0.5,FW,France,25,Failed,46,38,0
+0.5,FW,Spain,30,Failed,1,20,0
+0.5,MF,Korea Republic,25,Failed,10,37.05,0.5
+0.5,DF,Senegal,27,Failed,14,37.85,0
+0.5,MF,Senegal,23,Failed,22.5,36.3,0
+0.5,MF,Senegal,20,Failed,18,41.85,0
+0.5,MF,Argentina,34,Failed,26.5,44.15,0
+0.5,MF,Senegal,28,Failed,23,40.35,0
+0.5,DF,Spain,25,Failed,87,45.55,0
+0.5,MF,Spain,20,Failed,196.5,45.3,0
+0.5,FW,Brazil,25,Failed,2,33.35,0
+0.5,DF,Portugal,39,Failed,76,39.6,0.5
+0.5,DF,Ecuador,24,Failed,74,38.95,0
+0.5,FW,England,22,Failed,34,37.35,0.5
+0.5,DF,Ecuador,20,Failed,84,42,0
+0.5,MF,Denmark,27,Failed,100,44.65,0
+0.5,MF,Cameroon,27,Failed,19,38.8,0
+0.5,MF,Poland,28,Failed,62,40.5,0.5
+0.5,MF,Poland,27,Failed,24.5,33.1,0
+0.5,FW,Portugal,23,Failed,12,35.3,1
+0.5,FW,England,27,Failed,20.5,42.7,0.5
+0.5,DF,IR Iran,32,Failed,36.5,34.75,0.5
+0.5,FW,France,24,Failed,5.5,27.5,0
+0.5,DF,Portugal,28,Failed,66.5,43.2,0.5
+0.5,DF,France,29,Failed,57.5,44.55,0
+0.5,FW,Brazil,25,Failed,46,36.5,0
+0.5,DF,Denmark,25,Failed,68.5,38.25,0
+0.5,FW,Mexico,31,Failed,10,31.25,0
+0.5,MF,Switzerland,30,Failed,63.5,41.25,0.5
+0.5,FW,Switzerland,31,Failed,6.5,43.35,0
+0.5,FW,Portugal,28,Failed,11.5,33.8,0.5
+0.5,DF,Switzerland,30,Failed,82,35.8,0
+0.5,FW,Brazil,25,Failed,16.5,37.5,1.5
+0.5,DF,Canada,27,Failed,17.5,37.25,0
+0.5,FW,Australia,24,Failed,28.5,38,0
+0.5,FW,Japan,24,Failed,18,32.15,1
+0.5,MF,Saudi Arabia,29,Failed,7,41.2,0
+0.5,MF,Costa Rica,20,Failed,2,50,0
+0.5,FW,Poland,34,Failed,30.5,33.5,1
+0.5,DF,Denmark,26,Failed,8.5,40.5,0
+0.5,FW,Mexico,24,Failed,2.5,25,0
+0.5,DF,Spain,26,Failed,321,46.6,0
+0.5,MF,Uruguay,25,Failed,68,42.5,0
+0.5,MF,Argentina,28,Failed,167.5,42.3,0
+0.5,MF,Brazil,21,Failed,31,39.75,0
+0.5,FW,Mexico,31,Failed,0,0,0
+0.5,DF,Morocco,32,Failed,65,39.4,0.5
+0.5,MF,Ecuador,28,Failed,5,35.7,0
+0.5,FW,Belgium,29,Failed,3,33.35,0
+0.5,DF,IR Iran,29,Failed,3.5,31.8,0.5
+0.5,FW,Switzerland,24,Failed,40,34.2,0
+0.5,MF,Wales,20,Failed,1,25,0
+0.5,DF,Qatar,32,Failed,39,36.1,0
+0.5,DF,Costa Rica,28,Failed,9,31.05,0
+0.5,DF,Portugal,25,Failed,80,44.95,0
+0.5,MF,Portugal,25,Failed,87.5,45.8,0
+0.5,GK,Qatar,32,Failed,9,45,0
+0.5,DF,IR Iran,26,Failed,9,34.6,0
+0.5,MF,IR Iran,26,Failed,33,37.5,0
+0.5,FW,Saudi Arabia,29,Failed,14.5,30.85,0.5
+0.5,MF,Saudi Arabia,31,Failed,43,38.75,1
+0.5,MF,Ghana,22,Failed,64.5,44.5,0
+0.5,MF,Saudi Arabia,33,Failed,6,37.5,0
+0.5,DF,Canada,27,Failed,31.5,44.35,0
+0.5,MF,IR Iran,29,Failed,7.5,37.5,0
+0.5,MF,Saudi Arabia,25,Failed,6.5,30.95,0
+0.5,MF,Cameroon,24,Failed,26,44.05,0
+0.5,FW,IR Iran,27,Failed,9,30,0
+0.5,DF,Saudi Arabia,23,Failed,44,36.05,0
+0.5,MF,Serbia,26,Failed,71.5,44.15,0
+0.5,MF,Poland,23,Failed,13,31.7,0
+0.5,DF,Uruguay,32,Failed,38,40.85,0
+0.5,MF,Morocco,26,Failed,17,39.55,0
+0.5,FW,Germany,27,Failed,43,36.45,0.5
+0.5,MF,Serbia,27,Failed,43.5,36.25,0.5
+0.5,MF,Spain,34,Failed,130.5,45.15,0
+0.5,GK,Uruguay,29,Failed,27,34.6,0
+0.5,DF,United States,22,Failed,86,43,0
+0.5,DF,United States,26,Failed,7,33.35,0
+0.5,DF,Japan,31,Failed,36,42.35,0
+0.5,GK,Japan,33,Failed,34,30.1,0
+0.5,DF,Switzerland,29,Failed,63.5,37.55,0
+0.5,DF,Denmark,33,Failed,25,42.35,0
+0.5,FW,Morocco,29,Failed,27.5,38.75,0
+0.5,MF,Morocco,26,Failed,72,42.85,0
+0.5,FW,Korea Republic,30,Failed,38.5,33.5,0
+0.5,MF,Korea Republic,30,Failed,27.5,46.6,0
+0.5,MF,Wales,23,Failed,1.5,37.5,0
+0.5,DF,Serbia,26,Failed,5,31.25,0
+0.5,DF,Serbia,32,Failed,9,42.85,0
+0.5,MF,Canada,25,Failed,41.5,44.6,0
+0.5,GK,France,37,Failed,9.5,30.65,0
+0.5,MF,Netherlands,30,Failed,36,38.3,0
+0.5,FW,Netherlands,25,Failed,24.5,43.75,0
+0.5,DF,Canada,35,Failed,80,43,0
+0.5,DF,Serbia,21,Failed,60.5,38.8,0.5
+0.5,DF,Saudi Arabia,28,Failed,17,32.7,0
+0.5,FW,Tunisia,30,Failed,1,16.65,0
+0.5,MF,Canada,23,Failed,30.5,34.25,0
+0.5,FW,Japan,21,Failed,3,27.25,0
+0.5,DF,Japan,24,Failed,36.5,35.45,0
+0.5,FW,Japan,28,Failed,10.5,37.5,0.5
+0.5,FW,Japan,27,Failed,7,31.8,0
+0.5,DF,Qatar,25,Failed,3.5,35,0
+0.5,DF,Ghana,22,Failed,10.5,30.9,0
+0.5,MF,Netherlands,24,Failed,28,34.55,0
+0.5,DF,France,25,Failed,96.5,45.1,0
+0.5,MF,Argentina,21,Failed,6.5,50,0
+0.5,DF,Brazil,38,Failed,114.5,46.75,0
+0.5,GK,Belgium,30,Failed,54,43.9,0
+0.5,DF,Germany,26,Failed,11,37.95,0
+0.5,MF,Denmark,31,Failed,12,41.4,0
+0.5,DF,Belgium,31,Failed,55,37.4,0
+0.5,FW,Germany,33,Failed,28,35.9,0
+0.5,MF,Ghana,29,Failed,73,41.5,0
+0.5,FW,Belgium,29,Failed,20,34.5,0
+0.5,DF,United States,35,Failed,122.5,44.4,0
+0.5,DF,Belgium,27,Failed,88,43.55,0
+0.5,FW,United States,22,Failed,45,41.65,0.5
+0.5,DF,Belgium,33,Failed,124,45.4,0
+0.5,DF,England,24,Failed,10.5,45.65,0
+0.5,MF,United States,23,Failed,120.5,44.45,0
+0.5,GK,Spain,25,Failed,75,46.9,0
+0.5,FW,Mexico,25,Failed,6,30,0
+0.5,GK,Serbia,25,Failed,45,36,0
+0.5,DF,Denmark,24,Failed,34.5,46.6,0
+0.5,FW,Cameroon,30,Failed,10,32.25,1
+0.5,FW,Netherlands,28,Failed,8,40,0
+0.5,FW,Brazil,22,Failed,30,38.95,0.5
+0.5,DF,Netherlands,31,Failed,112.5,43.45,0
+0.5,MF,Portugal,22,Failed,34,45.95,0
+0.5,FW,Tunisia,31,Failed,6.5,32.5,0.5
+0.5,DF,Tunisia,27,Failed,22,31.9,0
+0.5,FW,Morocco,24,Failed,1,25,0
+0.5,DF,United States,29,Failed,108.5,44.45,0
+0.5,MF,Japan,29,Failed,77.5,40.35,0
+0.5,GK,Wales,35,Failed,25,37.9,0
+0.5,MF,United States,24,Failed,58.5,38.25,0
+0.5,MF,Portugal,30,Failed,78,45.9,0
+0.5,DF,France,21,Failed,18.5,50,0
+0.5,GK,Poland,32,Failed,42,29.6,0
+0.5,FW,Netherlands,30,Failed,1.5,30,0
+0.5,GK,Brazil,34,Failed,1.5,30,0
+0.5,FW,Netherlands,19,Failed,3,30,0
+0.5,FW,Switzerland,31,Failed,33.5,32.2,0.5
+0.5,DF,Morocco,27,Failed,10.5,30.9,0
+0.5,MF,Morocco,31,Failed,0,0,0
+0.5,GK,Switzerland,33,Failed,54,45.75,0
+0.5,FW,Belgium,29,Failed,19.5,42.4,0
+0.5,DF,Saudi Arabia,30,Failed,6.5,22.4,0
+0.5,GK,Morocco,31,Failed,31,30.7,0
+0.5,DF,Tunisia,29,Failed,69.5,40.65,0
+0.5,MF,Costa Rica,30,Failed,39,39.4,0.5
+0.5,MF,Belgium,25,Failed,26.5,41.4,0
+0.5,FW,Morocco,25,Failed,16,31.35,0.5
+0.5,MF,Tunisia,32,Failed,25,36.25,0
+0.5,MF,France,23,Failed,30,44.1,0
+0.5,DF,Senegal,29,Failed,94.5,43.15,0
+0.5,FW,Germany,18,Failed,0.5,25,0
+0.5,DF,Costa Rica,26,Failed,7.5,39.45,0
+0.5,FW,Japan,25,Failed,5.5,28.95,0
+0.5,MF,United States,20,Failed,75.5,41.5,0
+0.5,MF,Japan,36,Failed,39,35.8,0
+0.5,MF,Morocco,22,Failed,2.5,27.8,0.5
+0.5,FW,Spain,30,Failed,14,34.15,1.5
+0.5,MF,Costa Rica,20,Failed,2.5,50,0
+0.5,MF,Argentina,34,Failed,46.5,38.1,0
+0.5,DF,Ecuador,24,Failed,47,36.45,0
+0.5,DF,Brazil,24,Failed,86.5,45.3,0
+0.5,DF,Costa Rica,33,Failed,34,34.7,0
+0.5,MF,Germany,32,Failed,75,44.65,0.5
