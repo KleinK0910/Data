@@ -1,1337 +1,1337 @@
-Count,Position,Team,Age,Passes,Number of passes,Passes pct,Goals
-0.5,MF,Australia,32,Completed,170,39.15,0
-0.5,MF,Wales,31,Completed,88,39.3,0
-0.5,MF,Morocco,26,Completed,36,37.5,0
-0.5,DF,Qatar,29,Completed,122,37.9,0
-0.5,FW,Morocco,31,Completed,6,33.35,0
-0.5,FW,Morocco,20,Completed,6,33.35,0
-0.5,DF,Senegal,26,Completed,139,37.35,0
-0.5,FW,Ghana,18,Completed,1,50,0
-0.5,MF,Qatar,32,Completed,72,39.55,0
-0.5,DF,Saudi Arabia,25,Completed,74,35.6,0
-0.5,MF,Saudi Arabia,28,Completed,66,39.3,0
-0.5,DF,Saudi Arabia,29,Completed,5,19.25,0
-0.5,MF,Saudi Arabia,27,Completed,8,30.75,0
-0.5,DF,IR Iran,24,Completed,20,34.5,0
-0.5,DF,Morocco,24,Completed,164,40.4,0
-0.5,MF,France,27,Completed,163,43.35,0.5
-0.5,MF,Uruguay,24,Completed,5,35.7,0
-0.5,MF,IR Iran,29,Completed,35,32.4,0
-0.5,FW,Qatar,29,Completed,0,0,0
-0.5,GK,Tunisia,25,Completed,48,31.15,0
-0.5,MF,Australia,26,Completed,17,40.5,0
-0.5,FW,Qatar,26,Completed,139,42.1,0
-0.5,MF,Ecuador,24,Completed,10,45.45,0
-0.5,DF,Spain,19,Completed,112,45.55,0
-0.5,FW,Serbia,28,Completed,54,39.15,1
-0.5,DF,Brazil,31,Completed,146,44.5,0
-0.5,DF,Brazil,29,Completed,33,39.3,0
-0.5,DF,Denmark,24,Completed,37,34.9,0
-0.5,DF,Ghana,28,Completed,22,39.3,0
-0.5,MF,Argentina,23,Completed,122,45.85,0.5
-0.5,FW,Mexico,25,Completed,40,35.7,0
-0.5,DF,Tunisia,28,Completed,72,31.05,0
-0.5,MF,Saudi Arabia,25,Completed,4,28.55,0
-0.5,DF,Saudi Arabia,33,Completed,78,40.2,0
-0.5,MF,Qatar,29,Completed,21,45.65,0
-0.5,MF,IR Iran,26,Completed,46,31.95,0
-0.5,MF,IR Iran,28,Completed,34,37.8,0
-0.5,DF,Tunisia,32,Completed,39,30.95,0
-0.5,DF,Ghana,22,Completed,59,37.8,0
-0.5,GK,IR Iran,30,Completed,20,32.25,0
-0.5,MF,IR Iran,29,Completed,11,32.35,0
-0.5,GK,Brazil,30,Completed,52,41.25,0
-0.5,DF,Canada,24,Completed,147,39.5,0
-0.5,FW,Qatar,26,Completed,33,36.65,0
-0.5,MF,Canada,22,Completed,82,35.95,0.5
-0.5,MF,Belgium,21,Completed,58,45.3,0
-0.5,MF,Cameroon,27,Completed,113,43.45,0
-0.5,DF,Denmark,26,Completed,237,47.2,0.5
-0.5,FW,Denmark,29,Completed,21,30.9,0
-0.5,FW,Denmark,22,Completed,43,34.15,0
-0.5,FW,Croatia,31,Completed,87,43.95,1
-0.5,GK,Netherlands,28,Completed,111,40.2,0
-0.5,DF,Serbia,26,Completed,71,37,0
-0.5,MF,Ghana,32,Completed,30,40.55,0.5
-0.5,GK,Cameroon,26,Completed,45,38.15,0
-0.5,FW,Portugal,27,Completed,9,40.9,0
-0.5,MF,Mexico,36,Completed,11,34.4,0
-0.5,MF,Tunisia,21,Completed,29,31.5,0
-0.5,FW,Spain,20,Completed,25,43.1,0
-0.5,FW,Croatia,31,Completed,2,20,0
-0.5,FW,Costa Rica,22,Completed,15,28.85,0
-0.5,MF,France,31,Completed,172,39.45,0
-0.5,FW,Ghana,22,Completed,1,25,0
-0.5,DF,United States,25,Completed,173,35.9,0
-0.5,DF,Germany,29,Completed,229,45.45,0
-0.5,FW,Brazil,22,Completed,61,38.6,0
-0.5,DF,Portugal,19,Completed,60,48.4,0
-0.5,MF,Japan,24,Completed,48,34.8,0.5
-0.5,FW,Switzerland,20,Completed,5,41.65,0
-0.5,FW,Poland,28,Completed,19,32.75,0
-0.5,DF,Poland,35,Completed,3,37.5,0
-0.5,FW,Saudi Arabia,21,Completed,1,25,0
-0.5,MF,Qatar,26,Completed,58,41.45,0
-0.5,MF,Canada,39,Completed,100,44.65,0
-0.5,MF,France,22,Completed,294,46.8,0
-0.5,MF,Australia,27,Completed,10,35.7,0
-0.5,DF,France,24,Completed,61,39.1,0
-0.5,MF,Belgium,33,Completed,169,47.75,0
-0.5,FW,Japan,24,Completed,7,29.15,0
-0.5,DF,Spain,28,Completed,413,47.15,0
-0.5,DF,Australia,31,Completed,152,37.45,0
-0.5,MF,Morocco,22,Completed,106,38.7,0
-0.5,MF,Tunisia,25,Completed,99,40.25,0
-0.5,DF,Ghana,28,Completed,66,33,0
-0.5,DF,Morocco,29,Completed,0,0,0
-0.5,DF,Australia,30,Completed,1,16.65,0
-0.5,FW,Senegal,22,Completed,9,28.15,0.5
-0.5,DF,Poland,30,Completed,122,39.1,0
-0.5,DF,Qatar,24,Completed,47,41.25,0
-0.5,DF,Wales,29,Completed,122,37.9,0
-0.5,DF,France,26,Completed,82,45.55,0
-0.5,MF,Portugal,28,Completed,168,44,0
-0.5,DF,Croatia,30,Completed,50,36.25,0
-0.5,DF,Croatia,24,Completed,165,40.25,0
-0.5,DF,Qatar,32,Completed,169,42.9,0
-0.5,FW,Senegal,26,Completed,39,36.8,0.5
-0.5,MF,Costa Rica,19,Completed,27,35.55,0
-0.5,FW,Switzerland,25,Completed,46,37.1,1
-0.5,MF,United States,22,Completed,41,41,0
-0.5,FW,Wales,21,Completed,10,29.4,0
-0.5,FW,Portugal,28,Completed,130,41.15,1
-0.5,MF,Brazil,25,Completed,43,39.8,0
-0.5,FW,Croatia,28,Completed,23,24.45,0
-0.5,FW,Cameroon,23,Completed,49,28.8,0
-0.5,DF,Costa Rica,32,Completed,67,37.65,0
-0.5,MF,Costa Rica,37,Completed,8,33.35,0
-0.5,FW,England,21,Completed,66,39.75,1.5
-0.5,FW,England,30,Completed,9,45,0
-0.5,DF,United States,24,Completed,50,43.1,0
-0.5,MF,Ecuador,27,Completed,15,50,0
-0.5,DF,Costa Rica,23,Completed,10,33.35,0
-0.5,MF,Spain,25,Completed,78,47,0.5
-0.5,MF,Brazil,30,Completed,157,42.2,0.5
-0.5,MF,Costa Rica,34,Completed,98,40.85,0
-0.5,FW,Belgium,21,Completed,3,37.5,0
-0.5,MF,Mexico,25,Completed,21,35,0
-0.5,MF,Senegal,32,Completed,19,41.3,0
-0.5,FW,Korea Republic,24,Completed,40,31.75,1
-0.5,FW,Korea Republic,26,Completed,0,0,0
-0.5,DF,Wales,25,Completed,141,41,0
-0.5,MF,Cameroon,27,Completed,5,27.8,0
-0.5,MF,Denmark,30,Completed,188,40.85,0
-0.5,FW,Switzerland,29,Completed,7,35,0
-0.5,MF,Denmark,28,Completed,14,46.65,0
-0.5,FW,United States,24,Completed,83,29.45,0.5
-0.5,DF,Cameroon,21,Completed,25,40.3,0
-0.5,FW,Netherlands,23,Completed,73,32.9,1.5
-0.5,DF,Cameroon,30,Completed,99,33.9,0
-0.5,DF,Wales,27,Completed,92,39,0
-0.5,MF,Australia,30,Completed,58,30.55,0.5
-0.5,DF,Argentina,24,Completed,205,45.55,0
-0.5,FW,Portugal,37,Completed,65,38.7,0.5
-0.5,FW,Canada,27,Completed,21,36.2,0
-0.5,DF,Spain,33,Completed,171,47.25,0
-0.5,DF,Mexico,25,Completed,159,40.35,0
-0.5,FW,Japan,26,Completed,83,39.9,0
-0.5,FW,Japan,25,Completed,8,23.55,0.5
-0.5,DF,Netherlands,32,Completed,230,42.1,0.5
-0.5,MF,Poland,27,Completed,8,50,0
-0.5,DF,Brazil,39,Completed,83,42.8,0
-0.5,DF,Spain,30,Completed,121,44.8,0
-0.5,FW,Spain,24,Completed,162,40.9,0.5
-0.5,DF,Ghana,27,Completed,128,45.4,0
-0.5,MF,Costa Rica,21,Completed,1,50,0
-0.5,FW,Wales,25,Completed,24,33.35,0
-0.5,MF,Ghana,26,Completed,18,39.15,0
-0.5,DF,Brazil,31,Completed,139,43.15,0
-0.5,DF,Portugal,31,Completed,68,43.6,0
-0.5,GK,Wales,29,Completed,24,30.75,0
-0.5,DF,Serbia,32,Completed,7,29.15,0
-0.5,FW,Uruguay,23,Completed,35,31.25,0
-0.5,DF,Germany,24,Completed,153,39.25,0
-0.5,MF,Canada,32,Completed,4,28.55,0
-0.5,MF,Netherlands,29,Completed,59,38.3,0.5
-0.5,DF,France,24,Completed,222,47.05,0
-0.5,DF,United States,29,Completed,19,33.95,0
-0.5,MF,England,23,Completed,242,46.55,0
-0.5,DF,Croatia,33,Completed,256,43.25,0
-0.5,DF,Ghana,34,Completed,2,50,0
-0.5,MF,Switzerland,26,Completed,20,43.5,0
-0.5,DF,Netherlands,26,Completed,119,33.8,0.5
-0.5,GK,Cameroon,29,Completed,57,34.35,0
-0.5,DF,Uruguay,36,Completed,87,42.25,0
-0.5,GK,Portugal,23,Completed,91,33.7,0
-0.5,DF,Portugal,23,Completed,83,39.15,0
-0.5,MF,Switzerland,25,Completed,84,43.3,0
-0.5,FW,Ecuador,23,Completed,2,50,0
-0.5,GK,Croatia,27,Completed,103,41.85,0
-0.5,MF,Belgium,35,Completed,22,33.35,0
-0.5,MF,Serbia,34,Completed,90,35.45,0
-0.5,FW,Serbia,22,Completed,6,27.25,0.5
-0.5,DF,Tunisia,27,Completed,75,38.25,0
-0.5,MF,Belgium,31,Completed,46,39.65,0
-0.5,GK,Brazil,29,Completed,28,45.15,0
-0.5,FW,Switzerland,26,Completed,65,39.65,0
-0.5,FW,Uruguay,35,Completed,27,36.5,0
-0.5,GK,Senegal,30,Completed,88,36.65,0
-0.5,MF,Mexico,25,Completed,86,37.7,0
-0.5,DF,France,20,Completed,67,42.95,0
-0.5,MF,IR Iran,32,Completed,61,31.1,0
-0.5,MF,Tunisia,27,Completed,109,42.9,0
-0.5,GK,Argentina,30,Completed,73,38.85,0
-0.5,FW,Ecuador,33,Completed,40,35.1,1.5
-0.5,DF,Cameroon,23,Completed,34,44.75,0
-0.5,MF,Argentina,21,Completed,232,44.6,0.5
-0.5,DF,Switzerland,24,Completed,38,45.25,0
-0.5,DF,England,28,Completed,40,48.8,0
-0.5,FW,Cameroon,33,Completed,44,33.35,0.5
-0.5,MF,Mexico,27,Completed,24,41.4,0
-0.5,MF,Wales,22,Completed,108,37.5,0
-0.5,MF,Brazil,33,Completed,15,41.65,0
-0.5,MF,Argentina,24,Completed,11,42.3,0
-0.5,MF,Switzerland,33,Completed,9,32.15,0
-0.5,FW,Switzerland,20,Completed,13,25,0
-0.5,DF,Switzerland,30,Completed,65,39.65,0
-0.5,MF,Brazil,29,Completed,51,44.75,0
-0.5,MF,Uruguay,20,Completed,32,34.8,0
-0.5,FW,Senegal,29,Completed,10,35.7,0.5
-0.5,MF,Uruguay,24,Completed,159,42.05,0
-0.5,MF,Tunisia,30,Completed,25,36.75,0
-0.5,FW,Spain,22,Completed,59,34.7,1
-0.5,DF,Serbia,30,Completed,72,31.85,0
-0.5,DF,Serbia,31,Completed,20,40,0
-0.5,MF,Serbia,30,Completed,5,41.65,0
-0.5,MF,Saudi Arabia,22,Completed,42,33.35,0
-0.5,DF,Senegal,25,Completed,5,31.25,0
-0.5,DF,Australia,26,Completed,33,30.55,0
-0.5,DF,Costa Rica,30,Completed,86,41.35,0
-0.5,MF,Brazil,29,Completed,69,42.6,0
-0.5,MF,Netherlands,25,Completed,240,44.3,0.5
-0.5,DF,Ecuador,25,Completed,168,40.4,0
-0.5,FW,Brazil,25,Completed,22,39.3,0
-0.5,FW,Australia,18,Completed,3,30,0
-0.5,FW,Wales,33,Completed,33,31.15,0.5
-0.5,MF,Spain,18,Completed,133,43.2,0.5
-0.5,MF,Cameroon,27,Completed,17,44.75,0
-0.5,FW,Cameroon,27,Completed,9,37.5,0
-0.5,DF,Argentina,31,Completed,18,50,0
-0.5,MF,Costa Rica,25,Completed,16,50,0
-0.5,MF,Tunisia,28,Completed,3,37.5,0
-0.5,DF,Ghana,24,Completed,36,39.15,0
-0.5,FW,United States,20,Completed,26,34.2,0
-0.5,MF,Uruguay,28,Completed,32,30.75,1
-0.5,DF,Brazil,25,Completed,78,46.45,0
-0.5,DF,Argentina,25,Completed,52,45.6,0
-0.5,MF,Ecuador,22,Completed,77,37,0
-0.5,FW,Portugal,21,Completed,18,40.9,1.5
-0.5,MF,Switzerland,30,Completed,215,44.25,0
-0.5,GK,Switzerland,25,Completed,21,36.2,0
-0.5,MF,Poland,32,Completed,93,36.6,0
-0.5,MF,Argentina,28,Completed,54,42.2,0
-0.5,GK,Mexico,37,Completed,93,42.65,0
-0.5,DF,Uruguay,29,Completed,62,33.7,0
-0.5,FW,United States,24,Completed,20,37.05,0.5
-0.5,FW,Morocco,29,Completed,92,31.7,0.5
-0.5,MF,Tunisia,19,Completed,2,50,0
-0.5,FW,Switzerland,30,Completed,10,35.7,0
-0.5,FW,England,29,Completed,49,32.65,0.5
-0.5,DF,England,29,Completed,276,43.65,0
-0.5,DF,Australia,24,Completed,138,41.3,0
-0.5,MF,Wales,25,Completed,48,37.5,0
-0.5,DF,Saudi Arabia,23,Completed,40,36.35,0
-0.5,MF,Qatar,31,Completed,65,40.65,0
-0.5,MF,Saudi Arabia,30,Completed,4,28.55,0
-0.5,FW,Mexico,30,Completed,13,32.5,0.5
-0.5,GK,Ecuador,35,Completed,44,29.75,0
-0.5,MF,Japan,27,Completed,129,41.1,0
-0.5,DF,Japan,23,Completed,58,46.05,0
-0.5,MF,Japan,32,Completed,28,29.8,0
-0.5,FW,Mexico,27,Completed,42,27.25,0
-0.5,DF,Qatar,23,Completed,77,36.65,0
-0.5,DF,Korea Republic,32,Completed,17,42.5,0
-0.5,GK,IR Iran,30,Completed,23,24.45,0
-0.5,DF,IR Iran,28,Completed,8,36.35,0
-0.5,GK,France,35,Completed,56,32.2,0
-0.5,MF,Korea Republic,26,Completed,45,38.15,0.5
-0.5,MF,Korea Republic,26,Completed,194,39.25,0
-0.5,FW,Korea Republic,30,Completed,9,40.9,0
-0.5,MF,Mexico,32,Completed,64,41.05,0
-0.5,DF,Mexico,34,Completed,165,42.3,0
-0.5,DF,France,23,Completed,170,45.95,0
-0.5,MF,Senegal,33,Completed,107,40.25,0
-0.5,FW,Senegal,22,Completed,25,39.05,0
-0.5,DF,Senegal,23,Completed,107,34.3,0
-0.5,FW,Qatar,32,Completed,,0,0
-0.5,FW,Senegal,24,Completed,52,32.1,0.5
-0.5,MF,Canada,20,Completed,96,47.5,0
-0.5,FW,Tunisia,30,Completed,25,35.7,0
-0.5,MF,Serbia,21,Completed,19,47.5,0
-0.5,FW,Croatia,33,Completed,107,34.95,0.5
-0.5,FW,Ghana,28,Completed,29,34.5,0
-0.5,FW,England,27,Completed,48,44.45,0.5
-0.5,MF,Australia,29,Completed,103,40.25,0
-0.5,DF,Ecuador,22,Completed,39,44.3,0
-0.5,MF,Poland,20,Completed,37,30.35,0
-0.5,DF,Poland,22,Completed,174,42.45,0
-0.5,MF,Germany,19,Completed,85,40.5,0
-0.5,FW,Australia,29,Completed,7,23.35,0
-0.5,DF,Poland,26,Completed,6,50,0
-0.5,DF,Belgium,35,Completed,238,44.25,0
-0.5,FW,Australia,27,Completed,4,33.35,0
-0.5,DF,Morocco,30,Completed,5,27.8,0
-0.5,DF,Cameroon,27,Completed,66,40.25,0.5
-0.5,MF,Korea Republic,23,Completed,12,40,0
-0.5,MF,Belgium,20,Completed,8,28.55,0
-0.5,MF,Ecuador,20,Completed,23,31.1,0
-0.5,MF,Cameroon,24,Completed,1,25,0
-0.5,MF,Denmark,22,Completed,36,34.6,0
-0.5,FW,United States,21,Completed,16,42.1,0
-0.5,DF,Mexico,28,Completed,93,34.7,0
-0.5,MF,Costa Rica,18,Completed,11,39.3,0
-0.5,MF,Ecuador,25,Completed,128,45.7,0
-0.5,DF,Denmark,26,Completed,198,39.6,0
-0.5,DF,Denmark,25,Completed,119,40.75,0
-0.5,MF,Wales,32,Completed,30,41.65,0
-0.5,MF,Wales,25,Completed,12,42.85,0
-0.5,DF,Wales,25,Completed,152,44.95,0
-0.5,FW,Costa Rica,30,Completed,104,37.7,0
-0.5,FW,Costa Rica,34,Completed,11,39.3,0
-0.5,DF,England,28,Completed,363,47.5,0
-0.5,FW,Germany,30,Completed,16,40,0
-0.5,FW,Canada,22,Completed,41,34.15,0
-0.5,MF,Canada,30,Completed,52,45.6,0
-0.5,FW,Ghana,31,Completed,35,38.05,0
-0.5,MF,England,32,Completed,98,40.85,0.5
-0.5,FW,United States,28,Completed,1,12.5,0
-0.5,GK,England,28,Completed,106,38.95,0
-0.5,MF,France,29,Completed,33,45.85,0
-0.5,DF,Spain,33,Completed,328,44.1,0
-0.5,DF,Mexico,24,Completed,69,39.65,0
-0.5,FW,United States,22,Completed,29,43.95,0
-0.5,MF,Germany,27,Completed,226,42.3,0
-0.5,DF,Croatia,27,Completed,202,38.1,0
-0.5,MF,Ecuador,23,Completed,33,37.5,0
-0.5,DF,Uruguay,27,Completed,141,40.5,0
-0.5,DF,Portugal,28,Completed,184,40.9,0
-0.5,FW,Portugal,23,Completed,78,38.6,0.5
-0.5,FW,Portugal,29,Completed,37,46.25,0
-0.5,MF,Portugal,27,Completed,26,41.95,0
-0.5,DF,Croatia,20,Completed,282,43.95,0
-0.5,DF,Costa Rica,27,Completed,19,39.6,0.5
-0.5,MF,England,19,Completed,199,45.65,0.5
-0.5,DF,France,24,Completed,119,41.05,0
-0.5,FW,Argentina,22,Completed,41,36.6,1
-0.5,MF,Korea Republic,32,Completed,178,42.2,0
-0.5,FW,Canada,32,Completed,43,36.45,0
-0.5,MF,Japan,29,Completed,59,30.4,0
-0.5,DF,Netherlands,21,Completed,195,45.15,0
-0.5,FW,Germany,23,Completed,27,39.7,1
-0.5,DF,Senegal,31,Completed,156,38.05,0.5
-0.5,MF,England,27,Completed,17,44.75,0
-0.5,DF,Canada,25,Completed,186,45.35,0
-0.5,FW,Ghana,20,Completed,10,26.3,0
-0.5,DF,Poland,34,Completed,118,45.4,0
-0.5,MF,Poland,34,Completed,4,33.35,0
-0.5,MF,Japan,25,Completed,50,35.7,0
-0.5,FW,IR Iran,32,Completed,4,40,0
-0.5,MF,Qatar,32,Completed,94,44.35,0
-0.5,FW,Cameroon,30,Completed,43,40.55,0
-0.5,FW,Poland,25,Completed,7,50,0
-0.5,FW,Denmark,25,Completed,15,41.65,0
-0.5,GK,Denmark,36,Completed,72,41.4,0
-0.5,MF,Australia,24,Completed,26,31.7,0
-0.5,MF,United States,27,Completed,10,41.65,0
-0.5,DF,Costa Rica,34,Completed,57,40.15,0
-0.5,MF,Netherlands,20,Completed,8,50,0
-0.5,FW,Belgium,31,Completed,93,34.2,0
-0.5,FW,Ecuador,22,Completed,,0,0
-0.5,DF,Mexico,23,Completed,19,32.75,0
-0.5,GK,Costa Rica,35,Completed,61,29.9,0
-0.5,DF,Costa Rica,28,Completed,44,34.9,0.5
-0.5,FW,Wales,30,Completed,36,32.15,0
-0.5,DF,England,32,Completed,165,42.3,0
-0.5,DF,Korea Republic,30,Completed,105,35.95,0
-0.5,DF,Korea Republic,26,Completed,167,43.7,0
-0.5,DF,Korea Republic,27,Completed,201,41.55,0
-0.5,GK,Korea Republic,32,Completed,93,36.35,0
-0.5,DF,Korea Republic,32,Completed,178,42.6,0.5
-0.5,FW,France,26,Completed,50,44.65,0
-0.5,DF,Japan,25,Completed,98,44.15,0
-0.5,MF,Spain,30,Completed,56,45.15,0
-0.5,MF,Poland,24,Completed,86,43.45,0
-0.5,FW,Poland,27,Completed,2,16.65,0
-0.5,FW,Senegal,23,Completed,60,41.1,0
-0.5,FW,Ghana,22,Completed,62,35.65,1
-0.5,FW,Korea Republic,28,Completed,19,38,0
-0.5,DF,Korea Republic,30,Completed,39,45.35,0
-0.5,DF,Australia,24,Completed,165,44.1,0
-0.5,DF,England,32,Completed,119,44.4,0
-0.5,FW,France,23,Completed,120,37.5,2.5
-0.5,FW,Argentina,25,Completed,32,38.1,0
-0.5,GK,Ghana,26,Completed,54,34.6,0
-0.5,DF,Belgium,27,Completed,119,48.75,0
-0.5,MF,Argentina,28,Completed,133,47.15,0
-0.5,FW,Belgium,28,Completed,43,37.7,0
-0.5,MF,Korea Republic,30,Completed,84,43.3,0
-0.5,MF,Korea Republic,21,Completed,62,40.25,0
-0.5,MF,Germany,27,Completed,42,36.85,0
-0.5,FW,Germany,26,Completed,47,40.5,0
-0.5,DF,Canada,23,Completed,4,22.2,0
-0.5,FW,Argentina,35,Completed,180,40.55,1.5
-0.5,DF,Argentina,24,Completed,96,43.25,0
-0.5,MF,Croatia,24,Completed,29,42.65,0.5
-0.5,FW,Belgium,22,Completed,3,30,0
-0.5,FW,Canada,29,Completed,2,50,0
-0.5,DF,France,26,Completed,5,25,0
-0.5,MF,Brazil,25,Completed,115,40.8,0.5
-0.5,MF,Mexico,26,Completed,99,35.6,0.5
-0.5,FW,Uruguay,35,Completed,25,31.25,0
-0.5,FW,Serbia,24,Completed,6,30,0
-0.5,MF,Croatia,37,Completed,230,40.95,0
-0.5,DF,Germany,26,Completed,51,49.05,0
-0.5,DF,England,27,Completed,280,42.55,0
-0.5,DF,IR Iran,26,Completed,86,40.55,0
-0.5,DF,Switzerland,27,Completed,229,44.2,0.5
-0.5,GK,Germany,36,Completed,115,45.3,0
-0.5,MF,Croatia,30,Completed,323,43.65,0
-0.5,FW,Spain,26,Completed,89,37.4,0.5
-0.5,DF,Argentina,31,Completed,129,39.8,0
-0.5,DF,Spain,27,Completed,95,44.8,0
-0.5,FW,England,25,Completed,46,36.5,1.5
-0.5,FW,France,25,Completed,9,40.9,0
-0.5,MF,Germany,30,Completed,21,45.65,0
-0.5,FW,Croatia,27,Completed,33,40.25,0
-0.5,MF,Canada,28,Completed,51,41.8,0
-0.5,MF,Serbia,26,Completed,14,41.2,0
-0.5,FW,Croatia,29,Completed,22,28.2,0.5
-0.5,DF,Brazil,28,Completed,258,47.45,0
-0.5,MF,Netherlands,31,Completed,75,40.75,0
-0.5,FW,Denmark,31,Completed,14,35,0
-0.5,MF,Cameroon,24,Completed,49,40.15,0
-0.5,FW,Brazil,21,Completed,34,37.8,0
-0.5,DF,Uruguay,35,Completed,68,43.05,0
-0.5,MF,England,23,Completed,59,41.55,0
-0.5,MF,Croatia,28,Completed,199,44.2,0
-0.5,MF,Portugal,24,Completed,28,42.4,0
-0.5,MF,Australia,31,Completed,67,32.5,0.5
-0.5,GK,Australia,30,Completed,113,34.45,0
-0.5,MF,Denmark,26,Completed,52,38.8,0
-0.5,DF,Uruguay,25,Completed,104,39.1,0
-0.5,GK,United States,28,Completed,101,39.45,0
-0.5,DF,Germany,28,Completed,3,50,0
-0.5,DF,Netherlands,23,Completed,41,45.55,0
-0.5,DF,Poland,25,Completed,123,38.45,0
-0.5,FW,France,23,Completed,27,40.9,0
-0.5,MF,Uruguay,31,Completed,76,35.85,0
-0.5,DF,Uruguay,25,Completed,11,26.2,0
-0.5,FW,Uruguay,26,Completed,5,35.7,0
-0.5,DF,Japan,34,Completed,198,42.65,0
-0.5,FW,IR Iran,30,Completed,58,37.2,1
-0.5,MF,IR Iran,28,Completed,30,40.55,0
-0.5,FW,Netherlands,28,Completed,69,40.1,0.5
-0.5,GK,Qatar,24,Completed,45,35.7,0
-0.5,FW,Ecuador,26,Completed,28,28,0
-0.5,MF,Poland,22,Completed,8,44.45,0
-0.5,MF,Switzerland,25,Completed,2,25,0
-0.5,FW,Belgium,29,Completed,16,33.35,0.5
-0.5,DF,Japan,28,Completed,24,36.35,0
-0.5,MF,Denmark,22,Completed,55,38.2,0
-0.5,DF,IR Iran,29,Completed,44,32.35,0
-0.5,GK,Canada,35,Completed,76,38.8,0
-0.5,DF,Australia,28,Completed,67,33.15,0
-0.5,DF,Serbia,27,Completed,98,43.75,0
-0.5,FW,Croatia,29,Completed,6,30,0
-0.5,FW,Australia,31,Completed,36,28.55,0.5
-0.5,MF,Tunisia,23,Completed,14,33.35,0
-0.5,DF,Tunisia,26,Completed,36,36,0
-0.5,MF,Saudi Arabia,28,Completed,119,40.5,0
-0.5,DF,Saudi Arabia,30,Completed,39,40.65,0
-0.5,GK,Saudi Arabia,31,Completed,57,28.5,0
-0.5,FW,Qatar,28,Completed,17,44.75,0.5
-0.5,DF,Ghana,23,Completed,109,36.1,0.5
-0.5,MF,Qatar,23,Completed,9,37.5,0
-0.5,MF,Ecuador,21,Completed,126,41.2,0.5
-0.5,DF,Tunisia,24,Completed,118,43.05,0
-0.5,DF,IR Iran,30,Completed,92,35.95,0
-0.5,FW,Cameroon,28,Completed,21,42,0
-0.5,GK,Morocco,33,Completed,19,33.95,0
-0.5,DF,Qatar,29,Completed,3,50,0
-0.5,FW,Korea Republic,26,Completed,24,32.45,0
-0.5,DF,Tunisia,27,Completed,27,40.9,0
-0.5,DF,Argentina,24,Completed,191,43.4,0
-0.5,MF,Senegal,30,Completed,141,44.35,0
-0.5,FW,Saudi Arabia,23,Completed,11,50,0
-0.5,DF,Netherlands,27,Completed,253,46.15,0
-0.5,DF,Australia,23,Completed,27,39.7,0
-0.5,MF,Saudi Arabia,32,Completed,33,42.3,0
-0.5,DF,Morocco,26,Completed,137,43.35,0
-0.5,MF,Tunisia,30,Completed,29,28.45,0
-0.5,DF,Wales,21,Completed,69,34.15,0
-0.5,MF,Serbia,31,Completed,44,42.3,0
-0.5,MF,Serbia,27,Completed,50,43.85,0
-0.5,DF,Serbia,26,Completed,15,31.25,0
-0.5,MF,Brazil,30,Completed,72,40,0.5
-0.5,FW,Germany,29,Completed,15,31.25,1
-0.5,DF,Switzerland,26,Completed,131,46.15,0
-0.5,DF,Germany,23,Completed,110,44.7,0
-0.5,FW,Spain,20,Completed,50,39.7,0
-0.5,MF,Poland,20,Completed,15,44.1,0
-0.5,FW,Senegal,21,Completed,9,45,0
-0.5,DF,Cameroon,32,Completed,79,43.4,0
-0.5,MF,Uruguay,25,Completed,20,40,0
-0.5,DF,Argentina,34,Completed,343,46.1,0
-0.5,DF,Argentina,30,Completed,73,42.45,0
-0.5,DF,Germany,27,Completed,231,45.3,0
-0.5,DF,Serbia,25,Completed,141,43.25,0
-0.5,FW,Croatia,25,Completed,22,44,0
-0.5,FW,Switzerland,22,Completed,17,38.65,0
-0.5,DF,Cameroon,25,Completed,83,38.05,0
-0.5,DF,Morocco,25,Completed,79,39.9,0
-0.5,DF,Portugal,20,Completed,29,45.3,0
-0.5,DF,Mexico,31,Completed,44,41.5,0
-0.5,FW,France,36,Completed,30,38.45,1.5
-0.5,MF,Cameroon,26,Completed,11,45.85,0
-0.5,MF,Mexico,26,Completed,18,36,0
-0.5,MF,Ghana,23,Completed,14,35,0.5
-0.5,MF,Portugal,27,Completed,60,40,0
-0.5,FW,France,25,Completed,92,38,0
-0.5,FW,Spain,30,Completed,2,20,0
-0.5,MF,Korea Republic,25,Completed,20,37.05,0.5
-0.5,DF,Senegal,27,Completed,28,37.85,0
-0.5,MF,Senegal,23,Completed,45,36.3,0
-0.5,MF,Senegal,20,Completed,36,41.85,0
-0.5,MF,Argentina,34,Completed,53,44.15,0
-0.5,MF,Senegal,28,Completed,46,40.35,0
-0.5,DF,Spain,25,Completed,174,45.55,0
-0.5,MF,Spain,20,Completed,393,45.3,0
-0.5,FW,Brazil,25,Completed,4,33.35,0
-0.5,DF,Portugal,39,Completed,152,39.6,0.5
-0.5,DF,Ecuador,24,Completed,148,38.95,0
-0.5,FW,England,22,Completed,68,37.35,0.5
-0.5,DF,Ecuador,20,Completed,168,42,0
-0.5,MF,Denmark,27,Completed,200,44.65,0
-0.5,MF,Cameroon,27,Completed,38,38.8,0
-0.5,MF,Poland,28,Completed,124,40.5,0.5
-0.5,MF,Poland,27,Completed,49,33.1,0
-0.5,FW,Portugal,23,Completed,24,35.3,1
-0.5,FW,England,27,Completed,41,42.7,0.5
-0.5,DF,IR Iran,32,Completed,73,34.75,0.5
-0.5,FW,France,24,Completed,11,27.5,0
-0.5,DF,Portugal,28,Completed,133,43.2,0.5
-0.5,DF,France,29,Completed,115,44.55,0
-0.5,FW,Brazil,25,Completed,92,36.5,0
-0.5,DF,Denmark,25,Completed,137,38.25,0
-0.5,FW,Mexico,31,Completed,20,31.25,0
-0.5,MF,Switzerland,30,Completed,127,41.25,0.5
-0.5,FW,Switzerland,31,Completed,13,43.35,0
-0.5,FW,Portugal,28,Completed,23,33.8,0.5
-0.5,DF,Switzerland,30,Completed,164,35.8,0
-0.5,FW,Brazil,25,Completed,33,37.5,1.5
-0.5,DF,Canada,27,Completed,35,37.25,0
-0.5,FW,Australia,24,Completed,57,38,0
-0.5,FW,Japan,24,Completed,36,32.15,1
-0.5,MF,Saudi Arabia,29,Completed,14,41.2,0
-0.5,MF,Costa Rica,20,Completed,4,50,0
-0.5,FW,Poland,34,Completed,61,33.5,1
-0.5,DF,Denmark,26,Completed,17,40.5,0
-0.5,FW,Mexico,24,Completed,5,25,0
-0.5,DF,Spain,26,Completed,642,46.6,0
-0.5,MF,Uruguay,25,Completed,136,42.5,0
-0.5,MF,Argentina,28,Completed,335,42.3,0
-0.5,MF,Brazil,21,Completed,62,39.75,0
-0.5,FW,Mexico,31,Completed,0,0,0
-0.5,DF,Morocco,32,Completed,130,39.4,0.5
-0.5,MF,Ecuador,28,Completed,10,35.7,0
-0.5,FW,Belgium,29,Completed,6,33.35,0
-0.5,DF,IR Iran,29,Completed,7,31.8,0.5
-0.5,FW,Switzerland,24,Completed,80,34.2,0
-0.5,MF,Wales,20,Completed,2,25,0
-0.5,DF,Qatar,32,Completed,78,36.1,0
-0.5,DF,Costa Rica,28,Completed,18,31.05,0
-0.5,DF,Portugal,25,Completed,160,44.95,0
-0.5,MF,Portugal,25,Completed,175,45.8,0
-0.5,GK,Qatar,32,Completed,18,45,0
-0.5,DF,IR Iran,26,Completed,18,34.6,0
-0.5,MF,IR Iran,26,Completed,66,37.5,0
-0.5,FW,Saudi Arabia,29,Completed,29,30.85,0.5
-0.5,MF,Saudi Arabia,31,Completed,86,38.75,1
-0.5,MF,Ghana,22,Completed,129,44.5,0
-0.5,MF,Saudi Arabia,33,Completed,12,37.5,0
-0.5,DF,Canada,27,Completed,63,44.35,0
-0.5,MF,IR Iran,29,Completed,15,37.5,0
-0.5,MF,Saudi Arabia,25,Completed,13,30.95,0
-0.5,MF,Cameroon,24,Completed,52,44.05,0
-0.5,FW,IR Iran,27,Completed,18,30,0
-0.5,DF,Saudi Arabia,23,Completed,88,36.05,0
-0.5,MF,Serbia,26,Completed,143,44.15,0
-0.5,MF,Poland,23,Completed,26,31.7,0
-0.5,DF,Uruguay,32,Completed,76,40.85,0
-0.5,MF,Morocco,26,Completed,34,39.55,0
-0.5,FW,Germany,27,Completed,86,36.45,0.5
-0.5,MF,Serbia,27,Completed,87,36.25,0.5
-0.5,MF,Spain,34,Completed,261,45.15,0
-0.5,GK,Uruguay,29,Completed,54,34.6,0
-0.5,DF,United States,22,Completed,172,43,0
-0.5,DF,United States,26,Completed,14,33.35,0
-0.5,DF,Japan,31,Completed,72,42.35,0
-0.5,GK,Japan,33,Completed,68,30.1,0
-0.5,DF,Switzerland,29,Completed,127,37.55,0
-0.5,DF,Denmark,33,Completed,50,42.35,0
-0.5,FW,Morocco,29,Completed,55,38.75,0
-0.5,MF,Morocco,26,Completed,144,42.85,0
-0.5,FW,Korea Republic,30,Completed,77,33.5,0
-0.5,MF,Korea Republic,30,Completed,55,46.6,0
-0.5,MF,Wales,23,Completed,3,37.5,0
-0.5,DF,Serbia,26,Completed,10,31.25,0
-0.5,DF,Serbia,32,Completed,18,42.85,0
-0.5,MF,Canada,25,Completed,83,44.6,0
-0.5,GK,France,37,Completed,19,30.65,0
-0.5,MF,Netherlands,30,Completed,72,38.3,0
-0.5,FW,Netherlands,25,Completed,49,43.75,0
-0.5,DF,Canada,35,Completed,160,43,0
-0.5,DF,Serbia,21,Completed,121,38.8,0.5
-0.5,DF,Saudi Arabia,28,Completed,34,32.7,0
-0.5,FW,Tunisia,30,Completed,2,16.65,0
-0.5,MF,Canada,23,Completed,61,34.25,0
-0.5,FW,Japan,21,Completed,6,27.25,0
-0.5,DF,Japan,24,Completed,73,35.45,0
-0.5,FW,Japan,28,Completed,21,37.5,0.5
-0.5,FW,Japan,27,Completed,14,31.8,0
-0.5,DF,Qatar,25,Completed,7,35,0
-0.5,DF,Ghana,22,Completed,21,30.9,0
-0.5,MF,Netherlands,24,Completed,56,34.55,0
-0.5,DF,France,25,Completed,193,45.1,0
-0.5,MF,Argentina,21,Completed,13,50,0
-0.5,DF,Brazil,38,Completed,229,46.75,0
-0.5,GK,Belgium,30,Completed,108,43.9,0
-0.5,DF,Germany,26,Completed,22,37.95,0
-0.5,MF,Denmark,31,Completed,24,41.4,0
-0.5,DF,Belgium,31,Completed,110,37.4,0
-0.5,FW,Germany,33,Completed,56,35.9,0
-0.5,MF,Ghana,29,Completed,146,41.5,0
-0.5,FW,Belgium,29,Completed,40,34.5,0
-0.5,DF,United States,35,Completed,245,44.4,0
-0.5,DF,Belgium,27,Completed,176,43.55,0
-0.5,FW,United States,22,Completed,90,41.65,0.5
-0.5,DF,Belgium,33,Completed,248,45.4,0
-0.5,DF,England,24,Completed,21,45.65,0
-0.5,MF,United States,23,Completed,241,44.45,0
-0.5,GK,Spain,25,Completed,150,46.9,0
-0.5,FW,Mexico,25,Completed,12,30,0
-0.5,GK,Serbia,25,Completed,90,36,0
-0.5,DF,Denmark,24,Completed,69,46.6,0
-0.5,FW,Cameroon,30,Completed,20,32.25,1
-0.5,FW,Netherlands,28,Completed,16,40,0
-0.5,FW,Brazil,22,Completed,60,38.95,0.5
-0.5,DF,Netherlands,31,Completed,225,43.45,0
-0.5,MF,Portugal,22,Completed,68,45.95,0
-0.5,FW,Tunisia,31,Completed,13,32.5,0.5
-0.5,DF,Tunisia,27,Completed,44,31.9,0
-0.5,FW,Morocco,24,Completed,2,25,0
-0.5,DF,United States,29,Completed,217,44.45,0
-0.5,MF,Japan,29,Completed,155,40.35,0
-0.5,GK,Wales,35,Completed,50,37.9,0
-0.5,MF,United States,24,Completed,117,38.25,0
-0.5,MF,Portugal,30,Completed,156,45.9,0
-0.5,DF,France,21,Completed,37,50,0
-0.5,GK,Poland,32,Completed,84,29.6,0
-0.5,FW,Netherlands,30,Completed,3,30,0
-0.5,GK,Brazil,34,Completed,3,30,0
-0.5,FW,Netherlands,19,Completed,6,30,0
-0.5,FW,Switzerland,31,Completed,67,32.2,0.5
-0.5,DF,Morocco,27,Completed,21,30.9,0
-0.5,MF,Morocco,31,Completed,,0,0
-0.5,GK,Switzerland,33,Completed,108,45.75,0
-0.5,FW,Belgium,29,Completed,39,42.4,0
-0.5,DF,Saudi Arabia,30,Completed,13,22.4,0
-0.5,GK,Morocco,31,Completed,62,30.7,0
-0.5,DF,Tunisia,29,Completed,139,40.65,0
-0.5,MF,Costa Rica,30,Completed,78,39.4,0.5
-0.5,MF,Belgium,25,Completed,53,41.4,0
-0.5,FW,Morocco,25,Completed,32,31.35,0.5
-0.5,MF,Tunisia,32,Completed,50,36.25,0
-0.5,MF,France,23,Completed,60,44.1,0
-0.5,DF,Senegal,29,Completed,189,43.15,0
-0.5,FW,Germany,18,Completed,1,25,0
-0.5,DF,Costa Rica,26,Completed,15,39.45,0
-0.5,FW,Japan,25,Completed,11,28.95,0
-0.5,MF,United States,20,Completed,151,41.5,0
-0.5,MF,Japan,36,Completed,78,35.8,0
-0.5,MF,Morocco,22,Completed,5,27.8,0.5
-0.5,FW,Spain,30,Completed,28,34.15,1.5
-0.5,MF,Costa Rica,20,Completed,5,50,0
-0.5,MF,Argentina,34,Completed,93,38.1,0
-0.5,DF,Ecuador,24,Completed,94,36.45,0
-0.5,DF,Brazil,24,Completed,173,45.3,0
-0.5,DF,Costa Rica,33,Completed,68,34.7,0
-0.5,MF,Germany,32,Completed,150,44.65,0.5
-0.5,MF,Australia,32,Failed,47,39.15,0
-0.5,MF,Wales,31,Failed,24,39.3,0
-0.5,MF,Morocco,26,Failed,12,37.5,0
-0.5,DF,Qatar,29,Failed,39,37.9,0
-0.5,FW,Morocco,31,Failed,3,33.35,0
-0.5,FW,Morocco,20,Failed,3,33.35,0
-0.5,DF,Senegal,26,Failed,47,37.35,0
-0.5,FW,Ghana,18,Failed,0,50,0
-0.5,MF,Qatar,32,Failed,19,39.55,0
-0.5,DF,Saudi Arabia,25,Failed,30,35.6,0
-0.5,MF,Saudi Arabia,28,Failed,18,39.3,0
-0.5,DF,Saudi Arabia,29,Failed,8,19.25,0
-0.5,MF,Saudi Arabia,27,Failed,5,30.75,0
-0.5,DF,IR Iran,24,Failed,9,34.5,0
-0.5,DF,Morocco,24,Failed,39,40.4,0
-0.5,MF,France,27,Failed,25,43.35,0.5
-0.5,MF,Uruguay,24,Failed,2,35.7,0
-0.5,MF,IR Iran,29,Failed,19,32.4,0
-0.5,FW,Qatar,29,Failed,2,0,0
-0.5,GK,Tunisia,25,Failed,29,31.15,0
-0.5,MF,Australia,26,Failed,4,40.5,0
-0.5,FW,Qatar,26,Failed,26,42.1,0
-0.5,MF,Ecuador,24,Failed,1,45.45,0
-0.5,DF,Spain,19,Failed,11,45.55,0
-0.5,FW,Serbia,28,Failed,15,39.15,1
-0.5,DF,Brazil,31,Failed,18,44.5,0
-0.5,DF,Brazil,29,Failed,9,39.3,0
-0.5,DF,Denmark,24,Failed,16,34.9,0
-0.5,DF,Ghana,28,Failed,6,39.3,0
-0.5,MF,Argentina,23,Failed,11,45.85,0.5
-0.5,FW,Mexico,25,Failed,16,35.7,0
-0.5,DF,Tunisia,28,Failed,44,31.05,0
-0.5,MF,Saudi Arabia,25,Failed,3,28.55,0
-0.5,DF,Saudi Arabia,33,Failed,19,40.2,0
-0.5,MF,Qatar,29,Failed,2,45.65,0
-0.5,MF,IR Iran,26,Failed,26,31.95,0
-0.5,MF,IR Iran,28,Failed,11,37.8,0
-0.5,DF,Tunisia,32,Failed,24,30.95,0
-0.5,DF,Ghana,22,Failed,19,37.8,0
-0.5,GK,IR Iran,30,Failed,11,32.25,0
-0.5,MF,IR Iran,29,Failed,6,32.35,0
-0.5,GK,Brazil,30,Failed,11,41.25,0
-0.5,DF,Canada,24,Failed,39,39.5,0
-0.5,FW,Qatar,26,Failed,12,36.65,0
-0.5,MF,Canada,22,Failed,32,35.95,0.5
-0.5,MF,Belgium,21,Failed,6,45.3,0
-0.5,MF,Cameroon,27,Failed,17,43.45,0
-0.5,DF,Denmark,26,Failed,14,47.2,0.5
-0.5,FW,Denmark,29,Failed,13,30.9,0
-0.5,FW,Denmark,22,Failed,20,34.15,0
-0.5,FW,Croatia,31,Failed,12,43.95,1
-0.5,GK,Netherlands,28,Failed,27,40.2,0
-0.5,DF,Serbia,26,Failed,25,37,0
-0.5,MF,Ghana,32,Failed,7,40.55,0.5
-0.5,GK,Cameroon,26,Failed,14,38.15,0
-0.5,FW,Portugal,27,Failed,2,40.9,0
-0.5,MF,Mexico,36,Failed,5,34.4,0
-0.5,MF,Tunisia,21,Failed,17,31.5,0
-0.5,FW,Spain,20,Failed,4,43.1,0
-0.5,FW,Croatia,31,Failed,3,20,0
-0.5,FW,Costa Rica,22,Failed,11,28.85,0
-0.5,MF,France,31,Failed,46,39.45,0
-0.5,FW,Ghana,22,Failed,1,25,0
-0.5,DF,United States,25,Failed,68,35.9,0
-0.5,DF,Germany,29,Failed,23,45.45,0
-0.5,FW,Brazil,22,Failed,18,38.6,0
-0.5,DF,Portugal,19,Failed,2,48.4,0
-0.5,MF,Japan,24,Failed,21,34.8,0.5
-0.5,FW,Switzerland,20,Failed,1,41.65,0
-0.5,FW,Poland,28,Failed,10,32.75,0
-0.5,DF,Poland,35,Failed,1,37.5,0
-0.5,FW,Saudi Arabia,21,Failed,1,25,0
-0.5,MF,Qatar,26,Failed,12,41.45,0
-0.5,MF,Canada,39,Failed,12,44.65,0
-0.5,MF,France,22,Failed,20,46.8,0
-0.5,MF,Australia,27,Failed,4,35.7,0
-0.5,DF,France,24,Failed,17,39.1,0
-0.5,MF,Belgium,33,Failed,8,47.75,0
-0.5,FW,Japan,24,Failed,5,29.15,0
-0.5,DF,Spain,28,Failed,25,47.15,0
-0.5,DF,Australia,31,Failed,51,37.45,0
-0.5,MF,Morocco,22,Failed,31,38.7,0
-0.5,MF,Tunisia,25,Failed,24,40.25,0
-0.5,DF,Ghana,28,Failed,34,33,0
-0.5,DF,Morocco,29,Failed,0,0,0
-0.5,DF,Australia,30,Failed,2,16.65,0
-0.5,FW,Senegal,22,Failed,7,28.15,0.5
-0.5,DF,Poland,30,Failed,34,39.1,0
-0.5,DF,Qatar,24,Failed,10,41.25,0
-0.5,DF,Wales,29,Failed,39,37.9,0
-0.5,DF,France,26,Failed,8,45.55,0
-0.5,MF,Portugal,28,Failed,23,44,0
-0.5,DF,Croatia,30,Failed,19,36.25,0
-0.5,DF,Croatia,24,Failed,40,40.25,0
-0.5,DF,Qatar,32,Failed,28,42.9,0
-0.5,FW,Senegal,26,Failed,14,36.8,0.5
-0.5,MF,Costa Rica,19,Failed,11,35.55,0
-0.5,FW,Switzerland,25,Failed,16,37.1,1
-0.5,MF,United States,22,Failed,9,41,0
-0.5,FW,Wales,21,Failed,7,29.4,0
-0.5,FW,Portugal,28,Failed,28,41.15,1
-0.5,MF,Brazil,25,Failed,11,39.8,0
-0.5,FW,Croatia,28,Failed,24,24.45,0
-0.5,FW,Cameroon,23,Failed,36,28.8,0
-0.5,DF,Costa Rica,32,Failed,22,37.65,0
-0.5,MF,Costa Rica,37,Failed,4,33.35,0
-0.5,FW,England,21,Failed,17,39.75,1.5
-0.5,FW,England,30,Failed,1,45,0
-0.5,DF,United States,24,Failed,8,43.1,0
-0.5,MF,Ecuador,27,Failed,0,50,0
-0.5,DF,Costa Rica,23,Failed,5,33.35,0
-0.5,MF,Spain,25,Failed,5,47,0.5
-0.5,MF,Brazil,30,Failed,29,42.2,0.5
-0.5,MF,Costa Rica,34,Failed,22,40.85,0
-0.5,FW,Belgium,21,Failed,1,37.5,0
-0.5,MF,Mexico,25,Failed,9,35,0
-0.5,MF,Senegal,32,Failed,4,41.3,0
-0.5,FW,Korea Republic,24,Failed,23,31.75,1
-0.5,FW,Korea Republic,26,Failed,0,0,0
-0.5,DF,Wales,25,Failed,31,41,0
-0.5,MF,Cameroon,27,Failed,4,27.8,0
-0.5,MF,Denmark,30,Failed,42,40.85,0
-0.5,FW,Switzerland,29,Failed,3,35,0
-0.5,MF,Denmark,28,Failed,1,46.65,0
-0.5,FW,United States,24,Failed,58,29.45,0.5
-0.5,DF,Cameroon,21,Failed,6,40.3,0
-0.5,FW,Netherlands,23,Failed,38,32.9,1.5
-0.5,DF,Cameroon,30,Failed,47,33.9,0
-0.5,DF,Wales,27,Failed,26,39,0
-0.5,MF,Australia,30,Failed,37,30.55,0.5
-0.5,DF,Argentina,24,Failed,20,45.55,0
-0.5,FW,Portugal,37,Failed,19,38.7,0.5
-0.5,FW,Canada,27,Failed,8,36.2,0
-0.5,DF,Spain,33,Failed,10,47.25,0
-0.5,DF,Mexico,25,Failed,38,40.35,0
-0.5,FW,Japan,26,Failed,21,39.9,0
-0.5,FW,Japan,25,Failed,9,23.55,0.5
-0.5,DF,Netherlands,32,Failed,43,42.1,0.5
-0.5,MF,Poland,27,Failed,0,50,0
-0.5,DF,Brazil,39,Failed,14,42.8,0
-0.5,DF,Spain,30,Failed,14,44.8,0
-0.5,FW,Spain,24,Failed,36,40.9,0.5
-0.5,DF,Ghana,27,Failed,13,45.4,0
-0.5,MF,Costa Rica,21,Failed,0,50,0
-0.5,FW,Wales,25,Failed,12,33.35,0
-0.5,MF,Ghana,26,Failed,5,39.15,0
-0.5,DF,Brazil,31,Failed,22,43.15,0
-0.5,DF,Portugal,31,Failed,10,43.6,0
-0.5,GK,Wales,29,Failed,15,30.75,0
-0.5,DF,Serbia,32,Failed,5,29.15,0
-0.5,FW,Uruguay,23,Failed,21,31.25,0
-0.5,DF,Germany,24,Failed,42,39.25,0
-0.5,MF,Canada,32,Failed,3,28.55,0
-0.5,MF,Netherlands,29,Failed,18,38.3,0.5
-0.5,DF,France,24,Failed,14,47.05,0
-0.5,DF,United States,29,Failed,9,33.95,0
-0.5,MF,England,23,Failed,18,46.55,0
-0.5,DF,Croatia,33,Failed,40,43.25,0
-0.5,DF,Ghana,34,Failed,0,50,0
-0.5,MF,Switzerland,26,Failed,3,43.5,0
-0.5,DF,Netherlands,26,Failed,57,33.8,0.5
-0.5,GK,Cameroon,29,Failed,26,34.35,0
-0.5,DF,Uruguay,36,Failed,16,42.25,0
-0.5,GK,Portugal,23,Failed,44,33.7,0
-0.5,DF,Portugal,23,Failed,23,39.15,0
-0.5,MF,Switzerland,25,Failed,13,43.3,0
-0.5,FW,Ecuador,23,Failed,0,50,0
-0.5,GK,Croatia,27,Failed,20,41.85,0
-0.5,MF,Belgium,35,Failed,11,33.35,0
-0.5,MF,Serbia,34,Failed,37,35.45,0
-0.5,FW,Serbia,22,Failed,5,27.25,0.5
-0.5,DF,Tunisia,27,Failed,23,38.25,0
-0.5,MF,Belgium,31,Failed,12,39.65,0
-0.5,GK,Brazil,29,Failed,3,45.15,0
-0.5,FW,Switzerland,26,Failed,17,39.65,0
-0.5,FW,Uruguay,35,Failed,10,36.5,0
-0.5,GK,Senegal,30,Failed,32,36.65,0
-0.5,MF,Mexico,25,Failed,28,37.7,0
-0.5,DF,France,20,Failed,11,42.95,0
-0.5,MF,IR Iran,32,Failed,37,31.1,0
-0.5,MF,Tunisia,27,Failed,18,42.9,0
-0.5,GK,Argentina,30,Failed,21,38.85,0
-0.5,FW,Ecuador,33,Failed,17,35.1,1.5
-0.5,DF,Cameroon,23,Failed,4,44.75,0
-0.5,MF,Argentina,21,Failed,28,44.6,0.5
-0.5,DF,Switzerland,24,Failed,4,45.25,0
-0.5,DF,England,28,Failed,1,48.8,0
-0.5,FW,Cameroon,33,Failed,22,33.35,0.5
-0.5,MF,Mexico,27,Failed,5,41.4,0
-0.5,MF,Wales,22,Failed,36,37.5,0
-0.5,MF,Brazil,33,Failed,3,41.65,0
-0.5,MF,Argentina,24,Failed,2,42.3,0
-0.5,MF,Switzerland,33,Failed,5,32.15,0
-0.5,FW,Switzerland,20,Failed,13,25,0
-0.5,DF,Switzerland,30,Failed,17,39.65,0
-0.5,MF,Brazil,29,Failed,6,44.75,0
-0.5,MF,Uruguay,20,Failed,14,34.8,0
-0.5,FW,Senegal,29,Failed,4,35.7,0.5
-0.5,MF,Uruguay,24,Failed,30,42.05,0
-0.5,MF,Tunisia,30,Failed,9,36.75,0
-0.5,FW,Spain,22,Failed,26,34.7,1
-0.5,DF,Serbia,30,Failed,41,31.85,0
-0.5,DF,Serbia,31,Failed,5,40,0
-0.5,MF,Serbia,30,Failed,1,41.65,0
-0.5,MF,Saudi Arabia,22,Failed,21,33.35,0
-0.5,DF,Senegal,25,Failed,3,31.25,0
-0.5,DF,Australia,26,Failed,21,30.55,0
-0.5,DF,Costa Rica,30,Failed,18,41.35,0
-0.5,MF,Brazil,29,Failed,12,42.6,0
-0.5,MF,Netherlands,25,Failed,31,44.3,0.5
-0.5,DF,Ecuador,25,Failed,40,40.4,0
-0.5,FW,Brazil,25,Failed,6,39.3,0
-0.5,FW,Australia,18,Failed,2,30,0
-0.5,FW,Wales,33,Failed,20,31.15,0.5
-0.5,MF,Spain,18,Failed,21,43.2,0.5
-0.5,MF,Cameroon,27,Failed,2,44.75,0
-0.5,FW,Cameroon,27,Failed,3,37.5,0
-0.5,DF,Argentina,31,Failed,0,50,0
-0.5,MF,Costa Rica,25,Failed,0,50,0
-0.5,MF,Tunisia,28,Failed,1,37.5,0
-0.5,DF,Ghana,24,Failed,10,39.15,0
-0.5,FW,United States,20,Failed,12,34.2,0
-0.5,MF,Uruguay,28,Failed,20,30.75,1
-0.5,DF,Brazil,25,Failed,6,46.45,0
-0.5,DF,Argentina,25,Failed,5,45.6,0
-0.5,MF,Ecuador,22,Failed,27,37,0
-0.5,FW,Portugal,21,Failed,4,40.9,1.5
-0.5,MF,Switzerland,30,Failed,28,44.25,0
-0.5,GK,Switzerland,25,Failed,8,36.2,0
-0.5,MF,Poland,32,Failed,34,36.6,0
-0.5,MF,Argentina,28,Failed,10,42.2,0
-0.5,GK,Mexico,37,Failed,16,42.65,0
-0.5,DF,Uruguay,29,Failed,30,33.7,0
-0.5,FW,United States,24,Failed,7,37.05,0.5
-0.5,FW,Morocco,29,Failed,53,31.7,0.5
-0.5,MF,Tunisia,19,Failed,0,50,0
-0.5,FW,Switzerland,30,Failed,4,35.7,0
-0.5,FW,England,29,Failed,26,32.65,0.5
-0.5,DF,England,29,Failed,40,43.65,0
-0.5,DF,Australia,24,Failed,29,41.3,0
-0.5,MF,Wales,25,Failed,16,37.5,0
-0.5,DF,Saudi Arabia,23,Failed,15,36.35,0
-0.5,MF,Qatar,31,Failed,15,40.65,0
-0.5,MF,Saudi Arabia,30,Failed,3,28.55,0
-0.5,FW,Mexico,30,Failed,7,32.5,0.5
-0.5,GK,Ecuador,35,Failed,30,29.75,0
-0.5,MF,Japan,27,Failed,28,41.1,0
-0.5,DF,Japan,23,Failed,5,46.05,0
-0.5,MF,Japan,32,Failed,19,29.8,0
-0.5,FW,Mexico,27,Failed,35,27.25,0
-0.5,DF,Qatar,23,Failed,28,36.65,0
-0.5,DF,Korea Republic,32,Failed,3,42.5,0
-0.5,GK,IR Iran,30,Failed,24,24.45,0
-0.5,DF,IR Iran,28,Failed,3,36.35,0
-0.5,GK,France,35,Failed,31,32.2,0
-0.5,MF,Korea Republic,26,Failed,14,38.15,0.5
-0.5,MF,Korea Republic,26,Failed,53,39.25,0
-0.5,FW,Korea Republic,30,Failed,2,40.9,0
-0.5,MF,Mexico,32,Failed,14,41.05,0
-0.5,DF,Mexico,34,Failed,30,42.3,0
-0.5,DF,France,23,Failed,15,45.95,0
-0.5,MF,Senegal,33,Failed,26,40.25,0
-0.5,FW,Senegal,22,Failed,7,39.05,0
-0.5,DF,Senegal,23,Failed,49,34.3,0
-0.5,FW,Qatar,32,Failed,0,0,0
-0.5,FW,Senegal,24,Failed,29,32.1,0.5
-0.5,MF,Canada,20,Failed,5,47.5,0
-0.5,FW,Tunisia,30,Failed,10,35.7,0
-0.5,MF,Serbia,21,Failed,1,47.5,0
-0.5,FW,Croatia,33,Failed,46,34.95,0.5
-0.5,FW,Ghana,28,Failed,13,34.5,0
-0.5,FW,England,27,Failed,6,44.45,0.5
-0.5,MF,Australia,29,Failed,25,40.25,0
-0.5,DF,Ecuador,22,Failed,5,44.3,0
-0.5,MF,Poland,20,Failed,24,30.35,0
-0.5,DF,Poland,22,Failed,31,42.45,0
-0.5,MF,Germany,19,Failed,20,40.5,0
-0.5,FW,Australia,29,Failed,8,23.35,0
-0.5,DF,Poland,26,Failed,0,50,0
-0.5,DF,Belgium,35,Failed,31,44.25,0
-0.5,FW,Australia,27,Failed,2,33.35,0
-0.5,DF,Morocco,30,Failed,4,27.8,0
-0.5,DF,Cameroon,27,Failed,16,40.25,0.5
-0.5,MF,Korea Republic,23,Failed,3,40,0
-0.5,MF,Belgium,20,Failed,6,28.55,0
-0.5,MF,Ecuador,20,Failed,14,31.1,0
-0.5,MF,Cameroon,24,Failed,1,25,0
-0.5,MF,Denmark,22,Failed,16,34.6,0
-0.5,FW,United States,21,Failed,3,42.1,0
-0.5,DF,Mexico,28,Failed,41,34.7,0
-0.5,MF,Costa Rica,18,Failed,3,39.3,0
-0.5,MF,Ecuador,25,Failed,12,45.7,0
-0.5,DF,Denmark,26,Failed,52,39.6,0
-0.5,DF,Denmark,25,Failed,27,40.75,0
-0.5,MF,Wales,32,Failed,6,41.65,0
-0.5,MF,Wales,25,Failed,2,42.85,0
-0.5,DF,Wales,25,Failed,17,44.95,0
-0.5,FW,Costa Rica,30,Failed,34,37.7,0
-0.5,FW,Costa Rica,34,Failed,3,39.3,0
-0.5,DF,England,28,Failed,19,47.5,0
-0.5,FW,Germany,30,Failed,4,40,0
-0.5,FW,Canada,22,Failed,19,34.15,0
-0.5,MF,Canada,30,Failed,5,45.6,0
-0.5,FW,Ghana,31,Failed,11,38.05,0
-0.5,MF,England,32,Failed,22,40.85,0.5
-0.5,FW,United States,28,Failed,3,12.5,0
-0.5,GK,England,28,Failed,30,38.95,0
-0.5,MF,France,29,Failed,3,45.85,0
-0.5,DF,Spain,33,Failed,44,44.1,0
-0.5,DF,Mexico,24,Failed,18,39.65,0
-0.5,FW,United States,22,Failed,4,43.95,0
-0.5,MF,Germany,27,Failed,41,42.3,0
-0.5,DF,Croatia,27,Failed,63,38.1,0
-0.5,MF,Ecuador,23,Failed,11,37.5,0
-0.5,DF,Uruguay,27,Failed,33,40.5,0
-0.5,DF,Portugal,28,Failed,41,40.9,0
-0.5,FW,Portugal,23,Failed,23,38.6,0.5
-0.5,FW,Portugal,29,Failed,3,46.25,0
-0.5,MF,Portugal,27,Failed,5,41.95,0
-0.5,DF,Croatia,20,Failed,39,43.95,0
-0.5,DF,Costa Rica,27,Failed,5,39.6,0.5
-0.5,MF,England,19,Failed,19,45.65,0.5
-0.5,DF,France,24,Failed,26,41.05,0
-0.5,FW,Argentina,22,Failed,15,36.6,1
-0.5,MF,Korea Republic,32,Failed,33,42.2,0
-0.5,FW,Canada,32,Failed,16,36.45,0
-0.5,MF,Japan,29,Failed,38,30.4,0
-0.5,DF,Netherlands,21,Failed,21,45.15,0
-0.5,FW,Germany,23,Failed,7,39.7,1
-0.5,DF,Senegal,31,Failed,49,38.05,0.5
-0.5,MF,England,27,Failed,2,44.75,0
-0.5,DF,Canada,25,Failed,19,45.35,0
-0.5,FW,Ghana,20,Failed,9,26.3,0
-0.5,DF,Poland,34,Failed,12,45.4,0
-0.5,MF,Poland,34,Failed,2,33.35,0
-0.5,MF,Japan,25,Failed,20,35.7,0
-0.5,FW,IR Iran,32,Failed,1,40,0
-0.5,MF,Qatar,32,Failed,12,44.35,0
-0.5,FW,Cameroon,30,Failed,10,40.55,0
-0.5,FW,Poland,25,Failed,0,50,0
-0.5,FW,Denmark,25,Failed,3,41.65,0
-0.5,GK,Denmark,36,Failed,15,41.4,0
-0.5,MF,Australia,24,Failed,15,31.7,0
-0.5,MF,United States,27,Failed,2,41.65,0
-0.5,DF,Costa Rica,34,Failed,14,40.15,0
-0.5,MF,Netherlands,20,Failed,0,50,0
-0.5,FW,Belgium,31,Failed,43,34.2,0
-0.5,FW,Ecuador,22,Failed,0,0,0
-0.5,DF,Mexico,23,Failed,10,32.75,0
-0.5,GK,Costa Rica,35,Failed,41,29.9,0
-0.5,DF,Costa Rica,28,Failed,19,34.9,0.5
-0.5,FW,Wales,30,Failed,20,32.15,0
-0.5,DF,England,32,Failed,30,42.3,0
-0.5,DF,Korea Republic,30,Failed,41,35.95,0
-0.5,DF,Korea Republic,26,Failed,24,43.7,0
-0.5,DF,Korea Republic,27,Failed,41,41.55,0
-0.5,GK,Korea Republic,32,Failed,35,36.35,0
-0.5,DF,Korea Republic,32,Failed,31,42.6,0.5
-0.5,FW,France,26,Failed,6,44.65,0
-0.5,DF,Japan,25,Failed,13,44.15,0
-0.5,MF,Spain,30,Failed,6,45.15,0
-0.5,MF,Poland,24,Failed,13,43.45,0
-0.5,FW,Poland,27,Failed,4,16.65,0
-0.5,FW,Senegal,23,Failed,13,41.1,0
-0.5,FW,Ghana,22,Failed,25,35.65,1
-0.5,FW,Korea Republic,28,Failed,6,38,0
-0.5,DF,Korea Republic,30,Failed,4,45.35,0
-0.5,DF,Australia,24,Failed,22,44.1,0
-0.5,DF,England,32,Failed,15,44.4,0
-0.5,FW,France,23,Failed,40,37.5,2.5
-0.5,FW,Argentina,25,Failed,10,38.1,0
-0.5,GK,Ghana,26,Failed,24,34.6,0
-0.5,DF,Belgium,27,Failed,3,48.75,0
-0.5,MF,Argentina,28,Failed,8,47.15,0
-0.5,FW,Belgium,28,Failed,14,37.7,0
-0.5,MF,Korea Republic,30,Failed,13,43.3,0
-0.5,MF,Korea Republic,21,Failed,15,40.25,0
-0.5,MF,Germany,27,Failed,15,36.85,0
-0.5,FW,Germany,26,Failed,11,40.5,0
-0.5,DF,Canada,23,Failed,5,22.2,0
-0.5,FW,Argentina,35,Failed,42,40.55,1.5
-0.5,DF,Argentina,24,Failed,15,43.25,0
-0.5,MF,Croatia,24,Failed,5,42.65,0.5
-0.5,FW,Belgium,22,Failed,2,30,0
-0.5,FW,Canada,29,Failed,0,50,0
-0.5,DF,France,26,Failed,5,25,0
-0.5,MF,Brazil,25,Failed,26,40.8,0.5
-0.5,MF,Mexico,26,Failed,40,35.6,0.5
-0.5,FW,Uruguay,35,Failed,15,31.25,0
-0.5,FW,Serbia,24,Failed,4,30,0
-0.5,MF,Croatia,37,Failed,51,40.95,0
-0.5,DF,Germany,26,Failed,1,49.05,0
-0.5,DF,England,27,Failed,49,42.55,0
-0.5,DF,IR Iran,26,Failed,20,40.55,0
-0.5,DF,Switzerland,27,Failed,30,44.2,0.5
-0.5,GK,Germany,36,Failed,12,45.3,0
-0.5,MF,Croatia,30,Failed,47,43.65,0
-0.5,FW,Spain,26,Failed,30,37.4,0.5
-0.5,DF,Argentina,31,Failed,33,39.8,0
-0.5,DF,Spain,27,Failed,11,44.8,0
-0.5,FW,England,25,Failed,17,36.5,1.5
-0.5,FW,France,25,Failed,2,40.9,0
-0.5,MF,Germany,30,Failed,2,45.65,0
-0.5,FW,Croatia,27,Failed,8,40.25,0
-0.5,MF,Canada,28,Failed,10,41.8,0
-0.5,MF,Serbia,26,Failed,3,41.2,0
-0.5,FW,Croatia,29,Failed,17,28.2,0.5
-0.5,DF,Brazil,28,Failed,14,47.45,0
-0.5,MF,Netherlands,31,Failed,17,40.75,0
-0.5,FW,Denmark,31,Failed,6,35,0
-0.5,MF,Cameroon,24,Failed,12,40.15,0
-0.5,FW,Brazil,21,Failed,11,37.8,0
-0.5,DF,Uruguay,35,Failed,11,43.05,0
-0.5,MF,England,23,Failed,12,41.55,0
-0.5,MF,Croatia,28,Failed,26,44.2,0
-0.5,MF,Portugal,24,Failed,5,42.4,0
-0.5,MF,Australia,31,Failed,36,32.5,0.5
-0.5,GK,Australia,30,Failed,51,34.45,0
-0.5,MF,Denmark,26,Failed,15,38.8,0
-0.5,DF,Uruguay,25,Failed,29,39.1,0
-0.5,GK,United States,28,Failed,27,39.45,0
-0.5,DF,Germany,28,Failed,0,50,0
-0.5,DF,Netherlands,23,Failed,4,45.55,0
-0.5,DF,Poland,25,Failed,37,38.45,0
-0.5,FW,France,23,Failed,6,40.9,0
-0.5,MF,Uruguay,31,Failed,30,35.85,0
-0.5,DF,Uruguay,25,Failed,10,26.2,0
-0.5,FW,Uruguay,26,Failed,2,35.7,0
-0.5,DF,Japan,34,Failed,34,42.65,0
-0.5,FW,IR Iran,30,Failed,20,37.2,1
-0.5,MF,IR Iran,28,Failed,7,40.55,0
-0.5,FW,Netherlands,28,Failed,17,40.1,0.5
-0.5,GK,Qatar,24,Failed,18,35.7,0
-0.5,FW,Ecuador,26,Failed,22,28,0
-0.5,MF,Poland,22,Failed,1,44.45,0
-0.5,MF,Switzerland,25,Failed,2,25,0
-0.5,FW,Belgium,29,Failed,8,33.35,0.5
-0.5,DF,Japan,28,Failed,9,36.35,0
-0.5,MF,Denmark,22,Failed,17,38.2,0
-0.5,DF,IR Iran,29,Failed,24,32.35,0
-0.5,GK,Canada,35,Failed,22,38.8,0
-0.5,DF,Australia,28,Failed,34,33.15,0
-0.5,DF,Serbia,27,Failed,14,43.75,0
-0.5,FW,Croatia,29,Failed,4,30,0
-0.5,FW,Australia,31,Failed,27,28.55,0.5
-0.5,MF,Tunisia,23,Failed,7,33.35,0
-0.5,DF,Tunisia,26,Failed,14,36,0
-0.5,MF,Saudi Arabia,28,Failed,28,40.5,0
-0.5,DF,Saudi Arabia,30,Failed,9,40.65,0
-0.5,GK,Saudi Arabia,31,Failed,43,28.5,0
-0.5,FW,Qatar,28,Failed,2,44.75,0.5
-0.5,DF,Ghana,23,Failed,42,36.1,0.5
-0.5,MF,Qatar,23,Failed,3,37.5,0
-0.5,MF,Ecuador,21,Failed,27,41.2,0.5
-0.5,DF,Tunisia,24,Failed,19,43.05,0
-0.5,DF,IR Iran,30,Failed,36,35.95,0
-0.5,FW,Cameroon,28,Failed,4,42,0
-0.5,GK,Morocco,33,Failed,9,33.95,0
-0.5,DF,Qatar,29,Failed,0,50,0
-0.5,FW,Korea Republic,26,Failed,13,32.45,0
-0.5,DF,Tunisia,27,Failed,6,40.9,0
-0.5,DF,Argentina,24,Failed,29,43.4,0
-0.5,MF,Senegal,30,Failed,18,44.35,0
-0.5,FW,Saudi Arabia,23,Failed,0,50,0
-0.5,DF,Netherlands,27,Failed,21,46.15,0
-0.5,DF,Australia,23,Failed,7,39.7,0
-0.5,MF,Saudi Arabia,32,Failed,6,42.3,0
-0.5,DF,Morocco,26,Failed,21,43.35,0
-0.5,MF,Tunisia,30,Failed,22,28.45,0
-0.5,DF,Wales,21,Failed,32,34.15,0
-0.5,MF,Serbia,31,Failed,8,42.3,0
-0.5,MF,Serbia,27,Failed,7,43.85,0
-0.5,DF,Serbia,26,Failed,9,31.25,0
-0.5,MF,Brazil,30,Failed,18,40,0.5
-0.5,FW,Germany,29,Failed,9,31.25,1
-0.5,DF,Switzerland,26,Failed,11,46.15,0
-0.5,DF,Germany,23,Failed,13,44.7,0
-0.5,FW,Spain,20,Failed,13,39.7,0
-0.5,MF,Poland,20,Failed,2,44.1,0
-0.5,FW,Senegal,21,Failed,1,45,0
-0.5,DF,Cameroon,32,Failed,12,43.4,0
-0.5,MF,Uruguay,25,Failed,5,40,0
-0.5,DF,Argentina,34,Failed,29,46.1,0
-0.5,DF,Argentina,30,Failed,13,42.45,0
-0.5,DF,Germany,27,Failed,24,45.3,0
-0.5,DF,Serbia,25,Failed,22,43.25,0
-0.5,FW,Croatia,25,Failed,3,44,0
-0.5,FW,Switzerland,22,Failed,5,38.65,0
-0.5,DF,Cameroon,25,Failed,26,38.05,0
-0.5,DF,Morocco,25,Failed,20,39.9,0
-0.5,DF,Portugal,20,Failed,3,45.3,0
-0.5,DF,Mexico,31,Failed,9,41.5,0
-0.5,FW,France,36,Failed,9,38.45,1.5
-0.5,MF,Cameroon,26,Failed,1,45.85,0
-0.5,MF,Mexico,26,Failed,7,36,0
-0.5,MF,Ghana,23,Failed,6,35,0.5
-0.5,MF,Portugal,27,Failed,15,40,0
-0.5,FW,France,25,Failed,29,38,0
-0.5,FW,Spain,30,Failed,3,20,0
-0.5,MF,Korea Republic,25,Failed,7,37.05,0.5
-0.5,DF,Senegal,27,Failed,9,37.85,0
-0.5,MF,Senegal,23,Failed,17,36.3,0
-0.5,MF,Senegal,20,Failed,7,41.85,0
-0.5,MF,Argentina,34,Failed,7,44.15,0
-0.5,MF,Senegal,28,Failed,11,40.35,0
-0.5,DF,Spain,25,Failed,17,45.55,0
-0.5,MF,Spain,20,Failed,41,45.3,0
-0.5,FW,Brazil,25,Failed,2,33.35,0
-0.5,DF,Portugal,39,Failed,40,39.6,0.5
-0.5,DF,Ecuador,24,Failed,42,38.95,0
-0.5,FW,England,22,Failed,23,37.35,0.5
-0.5,DF,Ecuador,20,Failed,32,42,0
-0.5,MF,Denmark,27,Failed,24,44.65,0
-0.5,MF,Cameroon,27,Failed,11,38.8,0
-0.5,MF,Poland,28,Failed,29,40.5,0.5
-0.5,MF,Poland,27,Failed,25,33.1,0
-0.5,FW,Portugal,23,Failed,10,35.3,1
-0.5,FW,England,27,Failed,7,42.7,0.5
-0.5,DF,IR Iran,32,Failed,32,34.75,0.5
-0.5,FW,France,24,Failed,9,27.5,0
-0.5,DF,Portugal,28,Failed,21,43.2,0.5
-0.5,DF,France,29,Failed,14,44.55,0
-0.5,FW,Brazil,25,Failed,34,36.5,0
-0.5,DF,Denmark,25,Failed,42,38.25,0
-0.5,FW,Mexico,31,Failed,12,31.25,0
-0.5,MF,Switzerland,30,Failed,27,41.25,0.5
-0.5,FW,Switzerland,31,Failed,2,43.35,0
-0.5,FW,Portugal,28,Failed,11,33.8,0.5
-0.5,DF,Switzerland,30,Failed,65,35.8,0
-0.5,FW,Brazil,25,Failed,11,37.5,1.5
-0.5,DF,Canada,27,Failed,12,37.25,0
-0.5,FW,Australia,24,Failed,18,38,0
-0.5,FW,Japan,24,Failed,20,32.15,1
-0.5,MF,Saudi Arabia,29,Failed,3,41.2,0
-0.5,MF,Costa Rica,20,Failed,0,50,0
-0.5,FW,Poland,34,Failed,30,33.5,1
-0.5,DF,Denmark,26,Failed,4,40.5,0
-0.5,FW,Mexico,24,Failed,5,25,0
-0.5,DF,Spain,26,Failed,47,46.6,0
-0.5,MF,Uruguay,25,Failed,24,42.5,0
-0.5,MF,Argentina,28,Failed,61,42.3,0
-0.5,MF,Brazil,21,Failed,16,39.75,0
-0.5,FW,Mexico,31,Failed,0,0,0
-0.5,DF,Morocco,32,Failed,35,39.4,0.5
-0.5,MF,Ecuador,28,Failed,4,35.7,0
-0.5,FW,Belgium,29,Failed,3,33.35,0
-0.5,DF,IR Iran,29,Failed,4,31.8,0.5
-0.5,FW,Switzerland,24,Failed,37,34.2,0
-0.5,MF,Wales,20,Failed,2,25,0
-0.5,DF,Qatar,32,Failed,30,36.1,0
-0.5,DF,Costa Rica,28,Failed,11,31.05,0
-0.5,DF,Portugal,25,Failed,18,44.95,0
-0.5,MF,Portugal,25,Failed,16,45.8,0
-0.5,GK,Qatar,32,Failed,2,45,0
-0.5,DF,IR Iran,26,Failed,8,34.6,0
-0.5,MF,IR Iran,26,Failed,22,37.5,0
-0.5,FW,Saudi Arabia,29,Failed,18,30.85,0.5
-0.5,MF,Saudi Arabia,31,Failed,25,38.75,1
-0.5,MF,Ghana,22,Failed,16,44.5,0
-0.5,MF,Saudi Arabia,33,Failed,4,37.5,0
-0.5,DF,Canada,27,Failed,8,44.35,0
-0.5,MF,IR Iran,29,Failed,5,37.5,0
-0.5,MF,Saudi Arabia,25,Failed,8,30.95,0
-0.5,MF,Cameroon,24,Failed,7,44.05,0
-0.5,FW,IR Iran,27,Failed,12,30,0
-0.5,DF,Saudi Arabia,23,Failed,34,36.05,0
-0.5,MF,Serbia,26,Failed,19,44.15,0
-0.5,MF,Poland,23,Failed,15,31.7,0
-0.5,DF,Uruguay,32,Failed,17,40.85,0
-0.5,MF,Morocco,26,Failed,9,39.55,0
-0.5,FW,Germany,27,Failed,32,36.45,0.5
-0.5,MF,Serbia,27,Failed,33,36.25,0.5
-0.5,MF,Spain,34,Failed,28,45.15,0
-0.5,GK,Uruguay,29,Failed,24,34.6,0
-0.5,DF,United States,22,Failed,28,43,0
-0.5,DF,United States,26,Failed,7,33.35,0
-0.5,DF,Japan,31,Failed,13,42.35,0
-0.5,GK,Japan,33,Failed,45,30.1,0
-0.5,DF,Switzerland,29,Failed,42,37.55,0
-0.5,DF,Denmark,33,Failed,9,42.35,0
-0.5,FW,Morocco,29,Failed,16,38.75,0
-0.5,MF,Morocco,26,Failed,24,42.85,0
-0.5,FW,Korea Republic,30,Failed,38,33.5,0
-0.5,MF,Korea Republic,30,Failed,4,46.6,0
-0.5,MF,Wales,23,Failed,1,37.5,0
-0.5,DF,Serbia,26,Failed,6,31.25,0
-0.5,DF,Serbia,32,Failed,3,42.85,0
-0.5,MF,Canada,25,Failed,10,44.6,0
-0.5,GK,France,37,Failed,12,30.65,0
-0.5,MF,Netherlands,30,Failed,22,38.3,0
-0.5,FW,Netherlands,25,Failed,7,43.75,0
-0.5,DF,Canada,35,Failed,26,43,0
-0.5,DF,Serbia,21,Failed,35,38.8,0.5
-0.5,DF,Saudi Arabia,28,Failed,18,32.7,0
-0.5,FW,Tunisia,30,Failed,4,16.65,0
-0.5,MF,Canada,23,Failed,28,34.25,0
-0.5,FW,Japan,21,Failed,5,27.25,0
-0.5,DF,Japan,24,Failed,30,35.45,0
-0.5,FW,Japan,28,Failed,7,37.5,0.5
-0.5,FW,Japan,27,Failed,8,31.8,0
-0.5,DF,Qatar,25,Failed,3,35,0
-0.5,DF,Ghana,22,Failed,13,30.9,0
-0.5,MF,Netherlands,24,Failed,25,34.55,0
-0.5,DF,France,25,Failed,21,45.1,0
-0.5,MF,Argentina,21,Failed,0,50,0
-0.5,DF,Brazil,38,Failed,16,46.75,0
-0.5,GK,Belgium,30,Failed,15,43.9,0
-0.5,DF,Germany,26,Failed,7,37.95,0
-0.5,MF,Denmark,31,Failed,5,41.4,0
-0.5,DF,Belgium,31,Failed,37,37.4,0
-0.5,FW,Germany,33,Failed,22,35.9,0
-0.5,MF,Ghana,29,Failed,30,41.5,0
-0.5,FW,Belgium,29,Failed,18,34.5,0
-0.5,DF,United States,35,Failed,31,44.4,0
-0.5,DF,Belgium,27,Failed,26,43.55,0
-0.5,FW,United States,22,Failed,18,41.65,0.5
-0.5,DF,Belgium,33,Failed,25,45.4,0
-0.5,DF,England,24,Failed,2,45.65,0
-0.5,MF,United States,23,Failed,30,44.45,0
-0.5,GK,Spain,25,Failed,10,46.9,0
-0.5,FW,Mexico,25,Failed,8,30,0
-0.5,GK,Serbia,25,Failed,35,36,0
-0.5,DF,Denmark,24,Failed,5,46.6,0
-0.5,FW,Cameroon,30,Failed,11,32.25,1
-0.5,FW,Netherlands,28,Failed,4,40,0
-0.5,FW,Brazil,22,Failed,17,38.95,0.5
-0.5,DF,Netherlands,31,Failed,34,43.45,0
-0.5,MF,Portugal,22,Failed,6,45.95,0
-0.5,FW,Tunisia,31,Failed,7,32.5,0.5
-0.5,DF,Tunisia,27,Failed,25,31.9,0
-0.5,FW,Morocco,24,Failed,2,25,0
-0.5,DF,United States,29,Failed,27,44.45,0
-0.5,MF,Japan,29,Failed,37,40.35,0
-0.5,GK,Wales,35,Failed,16,37.9,0
-0.5,MF,United States,24,Failed,36,38.25,0
-0.5,MF,Portugal,30,Failed,14,45.9,0
-0.5,DF,France,21,Failed,0,50,0
-0.5,GK,Poland,32,Failed,58,29.6,0
-0.5,FW,Netherlands,30,Failed,2,30,0
-0.5,GK,Brazil,34,Failed,2,30,0
-0.5,FW,Netherlands,19,Failed,4,30,0
-0.5,FW,Switzerland,31,Failed,37,32.2,0.5
-0.5,DF,Morocco,27,Failed,13,30.9,0
-0.5,MF,Morocco,31,Failed,0,0,0
-0.5,GK,Switzerland,33,Failed,10,45.75,0
-0.5,FW,Belgium,29,Failed,7,42.4,0
-0.5,DF,Saudi Arabia,30,Failed,16,22.4,0
-0.5,GK,Morocco,31,Failed,39,30.7,0
-0.5,DF,Tunisia,29,Failed,32,40.65,0
-0.5,MF,Costa Rica,30,Failed,21,39.4,0.5
-0.5,MF,Belgium,25,Failed,11,41.4,0
-0.5,FW,Morocco,25,Failed,19,31.35,0.5
-0.5,MF,Tunisia,32,Failed,19,36.25,0
-0.5,MF,France,23,Failed,8,44.1,0
-0.5,DF,Senegal,29,Failed,30,43.15,0
-0.5,FW,Germany,18,Failed,1,25,0
-0.5,DF,Costa Rica,26,Failed,4,39.45,0
-0.5,FW,Japan,25,Failed,8,28.95,0
-0.5,MF,United States,20,Failed,31,41.5,0
-0.5,MF,Japan,36,Failed,31,35.8,0
-0.5,MF,Morocco,22,Failed,4,27.8,0.5
-0.5,FW,Spain,30,Failed,13,34.15,1.5
-0.5,MF,Costa Rica,20,Failed,0,50,0
-0.5,MF,Argentina,34,Failed,29,38.1,0
-0.5,DF,Ecuador,24,Failed,35,36.45,0
-0.5,DF,Brazil,24,Failed,18,45.3,0
-0.5,DF,Costa Rica,33,Failed,30,34.7,0
-0.5,MF,Germany,32,Failed,18,44.65,0.5
+Count,Name,Position,Team,Age,Passes,Number of passes,Passes pct,Goals
+0.5,Aaron Mooy,MF,Australia,32,Completed,170,39.15,0
+0.5,Aaron Ramsey,MF,Wales,31,Completed,88,39.3,0
+0.5,Abdelhamid Sabiri,MF,Morocco,26,Completed,36,37.5,0
+0.5,Abdelkarim Hassan,DF,Qatar,29,Completed,122,37.9,0
+0.5,Abderrazak Hamdallah,FW,Morocco,31,Completed,6,33.35,0
+0.5,Abdessamad Ezzalzouli,FW,Morocco,20,Completed,6,33.35,0
+0.5,Abdou Diallo,DF,Senegal,26,Completed,139,37.35,0
+0.5,Abdul Fatawu Issahaku,FW,Ghana,18,Completed,1,50,0
+0.5,Abdulaziz Hatem,MF,Qatar,32,Completed,72,39.55,0
+0.5,Abdulelah Al-Amri,DF,Saudi Arabia,25,Completed,74,35.6,0
+0.5,Abdulellah Al-Malki,MF,Saudi Arabia,28,Completed,66,39.3,0
+0.5,Abdullah Madu,DF,Saudi Arabia,29,Completed,5,19.25,0
+0.5,Abdulrahman Al-Aboud,MF,Saudi Arabia,27,Completed,8,30.75,0
+0.5,Abolfazl Jalali,DF,IR Iran,24,Completed,20,34.5,0
+0.5,Achraf Hakimi,DF,Morocco,24,Completed,164,40.4,0
+0.5,Adrien Rabiot,MF,France,27,Completed,163,43.35,0.5
+0.5,Agustín Canobbio,MF,Uruguay,24,Completed,5,35.7,0
+0.5,Ahmad Nourollahi,MF,IR Iran,29,Completed,35,32.4,0
+0.5,Ahmed Alaaeldin,FW,Qatar,29,Completed,0,0,0
+0.5,Aimen Dahmen,GK,Tunisia,25,Completed,48,31.15,0
+0.5,Ajdin Hrustic,MF,Australia,26,Completed,17,40.5,0
+0.5,Akram Afif,FW,Qatar,26,Completed,139,42.1,0
+0.5,Alan Franco,MF,Ecuador,24,Completed,10,45.45,0
+0.5,Alejandro Balde,DF,Spain,19,Completed,112,45.55,0
+0.5,Aleksandar Mitrović,FW,Serbia,28,Completed,54,39.15,1
+0.5,Alex Sandro,DF,Brazil,31,Completed,146,44.5,0
+0.5,Alex Telles,DF,Brazil,29,Completed,33,39.3,0
+0.5,Alexander Bah,DF,Denmark,24,Completed,37,34.9,0
+0.5,Alexander Djiku,DF,Ghana,28,Completed,22,39.3,0
+0.5,Alexis Mac Allister,MF,Argentina,23,Completed,122,45.85,0.5
+0.5,Alexis Vega,FW,Mexico,25,Completed,40,35.7,0
+0.5,Ali Abdi,DF,Tunisia,28,Completed,72,31.05,0
+0.5,Ali Al Hassan,MF,Saudi Arabia,25,Completed,4,28.55,0
+0.5,Ali Al-Bulaihi,DF,Saudi Arabia,33,Completed,78,40.2,0
+0.5,Ali Assadalla,MF,Qatar,29,Completed,21,45.65,0
+0.5,Ali Gholizadeh,MF,IR Iran,26,Completed,46,31.95,0
+0.5,Ali Karimi,MF,IR Iran,28,Completed,34,37.8,0
+0.5,Ali Maâloul,DF,Tunisia,32,Completed,39,30.95,0
+0.5,Alidu Seidu,DF,Ghana,22,Completed,59,37.8,0
+0.5,Alireza Beiranvand,GK,IR Iran,30,Completed,20,32.25,0
+0.5,Alireza Jahanbakhsh,MF,IR Iran,29,Completed,11,32.35,0
+0.5,Alisson,GK,Brazil,30,Completed,52,41.25,0
+0.5,Alistair Johnston,DF,Canada,24,Completed,147,39.5,0
+0.5,Almoez Ali,FW,Qatar,26,Completed,33,36.65,0
+0.5,Alphonso Davies,MF,Canada,22,Completed,82,35.95,0.5
+0.5,Amadou Onana,MF,Belgium,21,Completed,58,45.3,0
+0.5,Andre-Frank Zambo Anguissa,MF,Cameroon,27,Completed,113,43.45,0
+0.5,Andreas Christensen,DF,Denmark,26,Completed,237,47.2,0.5
+0.5,Andreas Cornelius,FW,Denmark,29,Completed,21,30.9,0
+0.5,Andreas Skov Olsen,FW,Denmark,22,Completed,43,34.15,0
+0.5,Andrej Kramarić,FW,Croatia,31,Completed,87,43.95,1
+0.5,Andries Noppert,GK,Netherlands,28,Completed,111,40.2,0
+0.5,Andrija Živković,DF,Serbia,26,Completed,71,37,0
+0.5,André Ayew,MF,Ghana,32,Completed,30,40.55,0.5
+0.5,André Onana,GK,Cameroon,26,Completed,45,38.15,0
+0.5,André Silva,FW,Portugal,27,Completed,9,40.9,0
+0.5,Andrés Guardado,MF,Mexico,36,Completed,11,34.4,0
+0.5,Anis Ben Slimane,MF,Tunisia,21,Completed,29,31.5,0
+0.5,Ansu Fati,FW,Spain,20,Completed,25,43.1,0
+0.5,Ante Budimir,FW,Croatia,31,Completed,2,20,0
+0.5,Anthony Contreras,FW,Costa Rica,22,Completed,15,28.85,0
+0.5,Antoine Griezmann,MF,France,31,Completed,172,39.45,0
+0.5,Antoine Semenyo,FW,Ghana,22,Completed,1,25,0
+0.5,Antonee Robinson,DF,United States,25,Completed,173,35.9,0
+0.5,Antonio Rüdiger,DF,Germany,29,Completed,229,45.45,0
+0.5,Antony,FW,Brazil,22,Completed,61,38.6,0
+0.5,António Silva,DF,Portugal,19,Completed,60,48.4,0
+0.5,Ao Tanaka,MF,Japan,24,Completed,48,34.8,0.5
+0.5,Ardon Jasari,FW,Switzerland,20,Completed,5,41.65,0
+0.5,Arkadiusz Milik,FW,Poland,28,Completed,19,32.75,0
+0.5,Artur Jędrzejczyk,DF,Poland,35,Completed,3,37.5,0
+0.5,Asiri Haitham,FW,Saudi Arabia,21,Completed,1,25,0
+0.5,Assim Madibo,MF,Qatar,26,Completed,58,41.45,0
+0.5,Atiba Hutchinson,MF,Canada,39,Completed,100,44.65,0
+0.5,Aurélien Tchouaméni,MF,France,22,Completed,294,46.8,0
+0.5,Awer Mabil,MF,Australia,27,Completed,10,35.7,0
+0.5,Axel Disasi,DF,France,24,Completed,61,39.1,0
+0.5,Axel Witsel,MF,Belgium,33,Completed,169,47.75,0
+0.5,Ayase Ueda,FW,Japan,24,Completed,7,29.15,0
+0.5,Aymeric Laporte,DF,Spain,28,Completed,413,47.15,0
+0.5,Aziz Behich,DF,Australia,31,Completed,152,37.45,0
+0.5,Azzedine Ounahi,MF,Morocco,22,Completed,106,38.7,0
+0.5,Aïssa Laïdouni,MF,Tunisia,25,Completed,99,40.25,0
+0.5,Baba Rahman,DF,Ghana,28,Completed,66,33,0
+0.5,Badr Banoun,DF,Morocco,29,Completed,0,0,0
+0.5,Bailey Wright,DF,Australia,30,Completed,1,16.65,0
+0.5,Bamba Dieng,FW,Senegal,22,Completed,9,28.15,0.5
+0.5,Bartosz Bereszyński,DF,Poland,30,Completed,122,39.1,0
+0.5,Bassam Al-Rawi,DF,Qatar,24,Completed,47,41.25,0
+0.5,Ben Davies,DF,Wales,29,Completed,122,37.9,0
+0.5,Benjamin Pavard,DF,France,26,Completed,82,45.55,0
+0.5,Bernardo Silva,MF,Portugal,28,Completed,168,44,0
+0.5,Borna Barišić,DF,Croatia,30,Completed,50,36.25,0
+0.5,Borna Sosa,DF,Croatia,24,Completed,165,40.25,0
+0.5,Boualem Khoukhi,DF,Qatar,32,Completed,169,42.9,0
+0.5,Boulaye Dia,FW,Senegal,26,Completed,39,36.8,0.5
+0.5,Brandon Aguilera,MF,Costa Rica,19,Completed,27,35.55,0
+0.5,Breel Embolo,FW,Switzerland,25,Completed,46,37.1,1
+0.5,Brenden Aaronson,MF,United States,22,Completed,41,41,0
+0.5,Brennan Johnson,FW,Wales,21,Completed,10,29.4,0
+0.5,Bruno Fernandes,FW,Portugal,28,Completed,130,41.15,1
+0.5,Bruno Guimarães,MF,Brazil,25,Completed,43,39.8,0
+0.5,Bruno Petković,FW,Croatia,28,Completed,23,24.45,0
+0.5,Bryan Mbeumo,FW,Cameroon,23,Completed,49,28.8,0
+0.5,Bryan Oviedo,DF,Costa Rica,32,Completed,67,37.65,0
+0.5,Bryan Ruiz,MF,Costa Rica,37,Completed,8,33.35,0
+0.5,Bukayo Saka,FW,England,21,Completed,66,39.75,1.5
+0.5,Callum Wilson,FW,England,30,Completed,9,45,0
+0.5,Cameron Carter-Vickers,DF,United States,24,Completed,50,43.1,0
+0.5,Carlos Gruezo,MF,Ecuador,27,Completed,15,50,0
+0.5,Carlos Martínez,DF,Costa Rica,23,Completed,10,33.35,0
+0.5,Carlos Soler,MF,Spain,25,Completed,78,47,0.5
+0.5,Casemiro,MF,Brazil,30,Completed,157,42.2,0.5
+0.5,Celso Borges,MF,Costa Rica,34,Completed,98,40.85,0
+0.5,Charles De Ketelaere,FW,Belgium,21,Completed,3,37.5,0
+0.5,Charly Rodríguez,MF,Mexico,25,Completed,21,35,0
+0.5,Cheikhou Kouyaté,MF,Senegal,32,Completed,19,41.3,0
+0.5,Cho Guesung,FW,Korea Republic,24,Completed,40,31.75,1
+0.5,Cho Yumin,FW,Korea Republic,26,Completed,0,0,0
+0.5,Chris Mepham,DF,Wales,25,Completed,141,41,0
+0.5,Christian Bassogog,MF,Cameroon,27,Completed,5,27.8,0
+0.5,Christian Eriksen,MF,Denmark,30,Completed,188,40.85,0
+0.5,Christian Fassnacht,FW,Switzerland,29,Completed,7,35,0
+0.5,Christian Nørgaard,MF,Denmark,28,Completed,14,46.65,0
+0.5,Christian Pulisic,FW,United States,24,Completed,83,29.45,0.5
+0.5,Christopher Wooh,DF,Cameroon,21,Completed,25,40.3,0
+0.5,Cody Gakpo,FW,Netherlands,23,Completed,73,32.9,1.5
+0.5,Collins Fai,DF,Cameroon,30,Completed,99,33.9,0
+0.5,Connor Roberts,DF,Wales,27,Completed,92,39,0
+0.5,Craig Goodwin,MF,Australia,30,Completed,58,30.55,0.5
+0.5,Cristian Romero,DF,Argentina,24,Completed,205,45.55,0
+0.5,Cristiano Ronaldo,FW,Portugal,37,Completed,65,38.7,0.5
+0.5,Cyle Larin,FW,Canada,27,Completed,21,36.2,0
+0.5,César Azpilicueta,DF,Spain,33,Completed,171,47.25,0
+0.5,César Montes,DF,Mexico,25,Completed,159,40.35,0
+0.5,Daichi Kamada,FW,Japan,26,Completed,83,39.9,0
+0.5,Daizen Maeda,FW,Japan,25,Completed,8,23.55,0.5
+0.5,Daley Blind,DF,Netherlands,32,Completed,230,42.1,0.5
+0.5,Damian Szymański,MF,Poland,27,Completed,8,50,0
+0.5,Dani Alves,DF,Brazil,39,Completed,83,42.8,0
+0.5,Dani Carvajal,DF,Spain,30,Completed,121,44.8,0
+0.5,Dani Olmo,FW,Spain,24,Completed,162,40.9,0.5
+0.5,Daniel Amartey,DF,Ghana,27,Completed,128,45.4,0
+0.5,Daniel Chacón,MF,Costa Rica,21,Completed,1,50,0
+0.5,Daniel James,FW,Wales,25,Completed,24,33.35,0
+0.5,Daniel Kyereh,MF,Ghana,26,Completed,18,39.15,0
+0.5,Danilo,DF,Brazil,31,Completed,139,43.15,0
+0.5,Danilo Pereira,DF,Portugal,31,Completed,68,43.6,0
+0.5,Danny Ward,GK,Wales,29,Completed,24,30.75,0
+0.5,Darko Lazović,DF,Serbia,32,Completed,7,29.15,0
+0.5,Darwin Núñez,FW,Uruguay,23,Completed,35,31.25,0
+0.5,David Raum,DF,Germany,24,Completed,153,39.25,0
+0.5,David Wotherspoon,MF,Canada,32,Completed,4,28.55,0
+0.5,Davy Klaassen,MF,Netherlands,29,Completed,59,38.3,0.5
+0.5,Dayot Upamecano,DF,France,24,Completed,222,47.05,0
+0.5,DeAndre Yedlin,DF,United States,29,Completed,19,33.95,0
+0.5,Declan Rice,MF,England,23,Completed,242,46.55,0
+0.5,Dejan Lovren,DF,Croatia,33,Completed,256,43.25,0
+0.5,Denis Odoi,DF,Ghana,34,Completed,2,50,0
+0.5,Denis Zakaria,MF,Switzerland,26,Completed,20,43.5,0
+0.5,Denzel Dumfries,DF,Netherlands,26,Completed,119,33.8,0.5
+0.5,Devis Epassy,GK,Cameroon,29,Completed,57,34.35,0
+0.5,Diego Godín,DF,Uruguay,36,Completed,87,42.25,0
+0.5,Diogo Costa,GK,Portugal,23,Completed,91,33.7,0
+0.5,Diogo Dalot,DF,Portugal,23,Completed,83,39.15,0
+0.5,Djibril Sow,MF,Switzerland,25,Completed,84,43.3,0
+0.5,Djorkaeff Reasco,FW,Ecuador,23,Completed,2,50,0
+0.5,Dominik Livaković,GK,Croatia,27,Completed,103,41.85,0
+0.5,Dries Mertens,MF,Belgium,35,Completed,22,33.35,0
+0.5,Dušan Tadić,MF,Serbia,34,Completed,90,35.45,0
+0.5,Dušan Vlahović,FW,Serbia,22,Completed,6,27.25,0.5
+0.5,Dylan Bronn,DF,Tunisia,27,Completed,75,38.25,0
+0.5,Eden Hazard,MF,Belgium,31,Completed,46,39.65,0
+0.5,Ederson,GK,Brazil,29,Completed,28,45.15,0
+0.5,Edimilson Fernandes,FW,Switzerland,26,Completed,65,39.65,0
+0.5,Edinson Cavani,FW,Uruguay,35,Completed,27,36.5,0
+0.5,Edouard Mendy,GK,Senegal,30,Completed,88,36.65,0
+0.5,Edson Álvarez,MF,Mexico,25,Completed,86,37.7,0
+0.5,Eduardo Camavinga,DF,France,20,Completed,67,42.95,0
+0.5,Ehsan Hajsafi,MF,IR Iran,32,Completed,61,31.1,0
+0.5,Ellyes Skhiri,MF,Tunisia,27,Completed,109,42.9,0
+0.5,Emiliano Martínez,GK,Argentina,30,Completed,73,38.85,0
+0.5,Enner Valencia,FW,Ecuador,33,Completed,40,35.1,1.5
+0.5,Enzo Ebosse,DF,Cameroon,23,Completed,34,44.75,0
+0.5,Enzo Fernández,MF,Argentina,21,Completed,232,44.6,0.5
+0.5,Eray Cömert,DF,Switzerland,24,Completed,38,45.25,0
+0.5,Eric Dier,DF,England,28,Completed,40,48.8,0
+0.5,Eric Maxim Choupo-Moting,FW,Cameroon,33,Completed,44,33.35,0.5
+0.5,Erick Gutiérrez,MF,Mexico,27,Completed,24,41.4,0
+0.5,Ethan Ampadu,MF,Wales,22,Completed,108,37.5,0
+0.5,Everton Ribeiro,MF,Brazil,33,Completed,15,41.65,0
+0.5,Exequiel Palacios,MF,Argentina,24,Completed,11,42.3,0
+0.5,Fabian Frei,MF,Switzerland,33,Completed,9,32.15,0
+0.5,Fabian Rieder,FW,Switzerland,20,Completed,13,25,0
+0.5,Fabian Schär,DF,Switzerland,30,Completed,65,39.65,0
+0.5,Fabinho,MF,Brazil,29,Completed,51,44.75,0
+0.5,Facundo Pellistri,MF,Uruguay,20,Completed,32,34.8,0
+0.5,Famara Diedhiou,FW,Senegal,29,Completed,10,35.7,0.5
+0.5,Federico Valverde,MF,Uruguay,24,Completed,159,42.05,0
+0.5,Ferjani Sassi,MF,Tunisia,30,Completed,25,36.75,0
+0.5,Ferrán Torres,FW,Spain,22,Completed,59,34.7,1
+0.5,Filip Kostić,DF,Serbia,30,Completed,72,31.85,0
+0.5,Filip Mladenović,DF,Serbia,31,Completed,20,40,0
+0.5,Filip Đuričić,MF,Serbia,30,Completed,5,41.65,0
+0.5,Firas Al-Buraikan,MF,Saudi Arabia,22,Completed,42,33.35,0
+0.5,Fodé Ballo-Touré,DF,Senegal,25,Completed,5,31.25,0
+0.5,Fran Karačić,DF,Australia,26,Completed,33,30.55,0
+0.5,Francisco Calvo,DF,Costa Rica,30,Completed,86,41.35,0
+0.5,Fred,MF,Brazil,29,Completed,69,42.6,0
+0.5,Frenkie de Jong,MF,Netherlands,25,Completed,240,44.3,0.5
+0.5,Félix Torres Caicedo,DF,Ecuador,25,Completed,168,40.4,0
+0.5,Gabriel Jesus,FW,Brazil,25,Completed,22,39.3,0
+0.5,Garang Kuol,FW,Australia,18,Completed,3,30,0
+0.5,Gareth Bale,FW,Wales,33,Completed,33,31.15,0.5
+0.5,Gavi,MF,Spain,18,Completed,133,43.2,0.5
+0.5,Gaël Ondoua,MF,Cameroon,27,Completed,17,44.75,0
+0.5,Georges-Kévin N'Koudou,FW,Cameroon,27,Completed,9,37.5,0
+0.5,Germán Pezzella,DF,Argentina,31,Completed,18,50,0
+0.5,Gerson Torres,MF,Costa Rica,25,Completed,16,50,0
+0.5,Ghaylène Chaalali,MF,Tunisia,28,Completed,3,37.5,0
+0.5,Gideon Mensah,DF,Ghana,24,Completed,36,39.15,0
+0.5,Gio Reyna,FW,United States,20,Completed,26,34.2,0
+0.5,Giorgian De Arrascaeta,MF,Uruguay,28,Completed,32,30.75,1
+0.5,Gleison Bremer,DF,Brazil,25,Completed,78,46.45,0
+0.5,Gonzalo Montiel,DF,Argentina,25,Completed,52,45.6,0
+0.5,Gonzalo Plata,MF,Ecuador,22,Completed,77,37,0
+0.5,Gonçalo Ramos,FW,Portugal,21,Completed,18,40.9,1.5
+0.5,Granit Xhaka,MF,Switzerland,30,Completed,215,44.25,0
+0.5,Gregor Kobel,GK,Switzerland,25,Completed,21,36.2,0
+0.5,Grzegorz Krychowiak,MF,Poland,32,Completed,93,36.6,0
+0.5,Guido Rodríguez,MF,Argentina,28,Completed,54,42.2,0
+0.5,Guillermo Ochoa,GK,Mexico,37,Completed,93,42.65,0
+0.5,Guillermo Varela,DF,Uruguay,29,Completed,62,33.7,0
+0.5,Haji Wright,FW,United States,24,Completed,20,37.05,0.5
+0.5,Hakim Ziyech,FW,Morocco,29,Completed,92,31.7,0.5
+0.5,Hannibal Mejbri,MF,Tunisia,19,Completed,2,50,0
+0.5,Haris Seferović,FW,Switzerland,30,Completed,10,35.7,0
+0.5,Harry Kane,FW,England,29,Completed,49,32.65,0.5
+0.5,Harry Maguire,DF,England,29,Completed,276,43.65,0
+0.5,Harry Souttar,DF,Australia,24,Completed,138,41.3,0
+0.5,Harry Wilson,MF,Wales,25,Completed,48,37.5,0
+0.5,Hassan Al Tambakti,DF,Saudi Arabia,23,Completed,40,36.35,0
+0.5,Hassan Al-Haydos,MF,Qatar,31,Completed,65,40.65,0
+0.5,Hattan Bahebri,MF,Saudi Arabia,30,Completed,4,28.55,0
+0.5,Henry Martín,FW,Mexico,30,Completed,13,32.5,0.5
+0.5,Hernán Galíndez,GK,Ecuador,35,Completed,44,29.75,0
+0.5,Hidemasa Morita,MF,Japan,27,Completed,129,41.1,0
+0.5,Hiroki Ito,DF,Japan,23,Completed,58,46.05,0
+0.5,Hiroki Sakai,MF,Japan,32,Completed,28,29.8,0
+0.5,Hirving Lozano,FW,Mexico,27,Completed,42,27.25,0
+0.5,Homam Ahmed,DF,Qatar,23,Completed,77,36.65,0
+0.5,Hong Chul,DF,Korea Republic,32,Completed,17,42.5,0
+0.5,Hossein Hosseini,GK,IR Iran,30,Completed,23,24.45,0
+0.5,Hossein Kanaanizadegan,DF,IR Iran,28,Completed,8,36.35,0
+0.5,Hugo Lloris,GK,France,35,Completed,56,32.2,0
+0.5,Hwang Hee-chan,MF,Korea Republic,26,Completed,45,38.15,0.5
+0.5,Hwang In-beom,MF,Korea Republic,26,Completed,194,39.25,0
+0.5,Hwang Ui-jo,FW,Korea Republic,30,Completed,9,40.9,0
+0.5,Héctor Herrera,MF,Mexico,32,Completed,64,41.05,0
+0.5,Héctor Moreno,DF,Mexico,34,Completed,165,42.3,0
+0.5,Ibrahima Konaté,DF,France,23,Completed,170,45.95,0
+0.5,Idrissa Gana Gueye,MF,Senegal,33,Completed,107,40.25,0
+0.5,Iliman Ndiaye,FW,Senegal,22,Completed,25,39.05,0
+0.5,Ismail Jakobs,DF,Senegal,23,Completed,107,34.3,0
+0.5,Ismail Mohamad,FW,Qatar,32,Completed,,0,0
+0.5,Ismaila Sarr,FW,Senegal,24,Completed,52,32.1,0.5
+0.5,Ismaël Koné,MF,Canada,20,Completed,96,47.5,0
+0.5,Issam Jebali,FW,Tunisia,30,Completed,25,35.7,0
+0.5,Ivan Ilić,MF,Serbia,21,Completed,19,47.5,0
+0.5,Ivan Perišić,FW,Croatia,33,Completed,107,34.95,0.5
+0.5,Iñaki Williams,FW,Ghana,28,Completed,29,34.5,0
+0.5,Jack Grealish,FW,England,27,Completed,48,44.45,0.5
+0.5,Jackson Irvine,MF,Australia,29,Completed,103,40.25,0
+0.5,Jackson Porozo,DF,Ecuador,22,Completed,39,44.3,0
+0.5,Jakub Kamiński,MF,Poland,20,Completed,37,30.35,0
+0.5,Jakub Kiwior,DF,Poland,22,Completed,174,42.45,0
+0.5,Jamal Musiala,MF,Germany,19,Completed,85,40.5,0
+0.5,Jamie Maclaren,FW,Australia,29,Completed,7,23.35,0
+0.5,Jan Bednarek,DF,Poland,26,Completed,6,50,0
+0.5,Jan Vertonghen,DF,Belgium,35,Completed,238,44.25,0
+0.5,Jason Cummings,FW,Australia,27,Completed,4,33.35,0
+0.5,Jawad El Yamiq,DF,Morocco,30,Completed,5,27.8,0
+0.5,Jean-Charles Castelletto,DF,Cameroon,27,Completed,66,40.25,0.5
+0.5,Jeong Woo-yeong,MF,Korea Republic,23,Completed,12,40,0
+0.5,Jeremy Doku,MF,Belgium,20,Completed,8,28.55,0
+0.5,Jeremy Sarmiento,MF,Ecuador,20,Completed,23,31.1,0
+0.5,Jerome Ngom Mbekeli,MF,Cameroon,24,Completed,1,25,0
+0.5,Jesper Lindstrøm,MF,Denmark,22,Completed,36,34.6,0
+0.5,Jesús Ferreira,FW,United States,21,Completed,16,42.1,0
+0.5,Jesús Gallardo,DF,Mexico,28,Completed,93,34.7,0
+0.5,Jewison Bennette,MF,Costa Rica,18,Completed,11,39.3,0
+0.5,Jhegson Méndez,MF,Ecuador,25,Completed,128,45.7,0
+0.5,Joachim Andersen,DF,Denmark,26,Completed,198,39.6,0
+0.5,Joakim Mæhle,DF,Denmark,25,Completed,119,40.75,0
+0.5,Joe Allen,MF,Wales,32,Completed,30,41.65,0
+0.5,Joe Morrell,MF,Wales,25,Completed,12,42.85,0
+0.5,Joe Rodon,DF,Wales,25,Completed,152,44.95,0
+0.5,Joel Campbell,FW,Costa Rica,30,Completed,104,37.7,0
+0.5,Johan Venegas,FW,Costa Rica,34,Completed,11,39.3,0
+0.5,John Stones,DF,England,28,Completed,363,47.5,0
+0.5,Jonas Hofmann,FW,Germany,30,Completed,16,40,0
+0.5,Jonathan David,FW,Canada,22,Completed,41,34.15,0
+0.5,Jonathan Osorio,MF,Canada,30,Completed,52,45.6,0
+0.5,Jordan Ayew,FW,Ghana,31,Completed,35,38.05,0
+0.5,Jordan Henderson,MF,England,32,Completed,98,40.85,0.5
+0.5,Jordan Morris,FW,United States,28,Completed,1,12.5,0
+0.5,Jordan Pickford,GK,England,28,Completed,106,38.95,0
+0.5,Jordan Veretout,MF,France,29,Completed,33,45.85,0
+0.5,Jordi Alba,DF,Spain,33,Completed,328,44.1,0
+0.5,Jorge Eduardo Sánchez,DF,Mexico,24,Completed,69,39.65,0
+0.5,Josh Sargent,FW,United States,22,Completed,29,43.95,0
+0.5,Joshua Kimmich,MF,Germany,27,Completed,226,42.3,0
+0.5,Josip Juranović,DF,Croatia,27,Completed,202,38.1,0
+0.5,José Cifuentes,MF,Ecuador,23,Completed,33,37.5,0
+0.5,José María Giménez,DF,Uruguay,27,Completed,141,40.5,0
+0.5,João Cancelo,DF,Portugal,28,Completed,184,40.9,0
+0.5,João Félix,FW,Portugal,23,Completed,78,38.6,0.5
+0.5,João Mário,FW,Portugal,29,Completed,37,46.25,0
+0.5,João Palhinha,MF,Portugal,27,Completed,26,41.95,0
+0.5,Joško Gvardiol,DF,Croatia,20,Completed,282,43.95,0
+0.5,Juan Pablo Vargas,DF,Costa Rica,27,Completed,19,39.6,0.5
+0.5,Jude Bellingham,MF,England,19,Completed,199,45.65,0.5
+0.5,Jules Koundé,DF,France,24,Completed,119,41.05,0
+0.5,Julián Álvarez,FW,Argentina,22,Completed,41,36.6,1
+0.5,Jung Woo-young,MF,Korea Republic,32,Completed,178,42.2,0
+0.5,Junior Hoilett,FW,Canada,32,Completed,43,36.45,0
+0.5,Junya Ito,MF,Japan,29,Completed,59,30.4,0
+0.5,Jurriën Timber,DF,Netherlands,21,Completed,195,45.15,0
+0.5,Kai Havertz,FW,Germany,23,Completed,27,39.7,1
+0.5,Kalidou Koulibaly,DF,Senegal,31,Completed,156,38.05,0.5
+0.5,Kalvin Phillips,MF,England,27,Completed,17,44.75,0
+0.5,Kamal Miller,DF,Canada,25,Completed,186,45.35,0
+0.5,Kamaldeen Sulemana,FW,Ghana,20,Completed,10,26.3,0
+0.5,Kamil Glik,DF,Poland,34,Completed,118,45.4,0
+0.5,Kamil Grosicki,MF,Poland,34,Completed,4,33.35,0
+0.5,Kaoru Mitoma,MF,Japan,25,Completed,50,35.7,0
+0.5,Karim Ansarifard,FW,IR Iran,32,Completed,4,40,0
+0.5,Karim Boudiaf,MF,Qatar,32,Completed,94,44.35,0
+0.5,Karl Toko Ekambi,FW,Cameroon,30,Completed,43,40.55,0
+0.5,Karol Świderski,FW,Poland,25,Completed,7,50,0
+0.5,Kasper Dolberg,FW,Denmark,25,Completed,15,41.65,0
+0.5,Kasper Schmeichel,GK,Denmark,36,Completed,72,41.4,0
+0.5,Keanu Baccus,MF,Australia,24,Completed,26,31.7,0
+0.5,Kellyn Acosta,MF,United States,27,Completed,10,41.65,0
+0.5,Kendall Waston,DF,Costa Rica,34,Completed,57,40.15,0
+0.5,Kenneth Taylor,MF,Netherlands,20,Completed,8,50,0
+0.5,Kevin De Bruyne,FW,Belgium,31,Completed,93,34.2,0
+0.5,Kevin Rodríguez,FW,Ecuador,22,Completed,,0,0
+0.5,Kevin Álvarez,DF,Mexico,23,Completed,19,32.75,0
+0.5,Keylor Navas,GK,Costa Rica,35,Completed,61,29.9,0
+0.5,Keysher Fuller,DF,Costa Rica,28,Completed,44,34.9,0.5
+0.5,Kieffer Moore,FW,Wales,30,Completed,36,32.15,0
+0.5,Kieran Trippier,DF,England,32,Completed,165,42.3,0
+0.5,Kim Jin-su,DF,Korea Republic,30,Completed,105,35.95,0
+0.5,Kim Min-jae,DF,Korea Republic,26,Completed,167,43.7,0
+0.5,Kim Moonhwan,DF,Korea Republic,27,Completed,201,41.55,0
+0.5,Kim Seung-gyu,GK,Korea Republic,32,Completed,93,36.35,0
+0.5,Kim Young-gwon,DF,Korea Republic,32,Completed,178,42.6,0.5
+0.5,Kingsley Coman,FW,France,26,Completed,50,44.65,0
+0.5,Ko Itakura,DF,Japan,25,Completed,98,44.15,0
+0.5,Koke,MF,Spain,30,Completed,56,45.15,0
+0.5,Krystian Bielik,MF,Poland,24,Completed,86,43.45,0
+0.5,Krzysztof Piątek,FW,Poland,27,Completed,2,16.65,0
+0.5,Krépin Diatta,FW,Senegal,23,Completed,60,41.1,0
+0.5,Kudus Mohammed,FW,Ghana,22,Completed,62,35.65,1
+0.5,Kwon Chang-hoon,FW,Korea Republic,28,Completed,19,38,0
+0.5,Kwon Kyung-won,DF,Korea Republic,30,Completed,39,45.35,0
+0.5,Kye Rowles,DF,Australia,24,Completed,165,44.1,0
+0.5,Kyle Walker,DF,England,32,Completed,119,44.4,0
+0.5,Kylian Mbappé,FW,France,23,Completed,120,37.5,2.5
+0.5,Lautaro Martínez,FW,Argentina,25,Completed,32,38.1,0
+0.5,Lawrence Ati-Zigi,GK,Ghana,26,Completed,54,34.6,0
+0.5,Leander Dendoncker,DF,Belgium,27,Completed,119,48.75,0
+0.5,Leandro Paredes,MF,Argentina,28,Completed,133,47.15,0
+0.5,Leandro Trossard,FW,Belgium,28,Completed,43,37.7,0
+0.5,Lee Jae-sung,MF,Korea Republic,30,Completed,84,43.3,0
+0.5,Lee Kangin,MF,Korea Republic,21,Completed,62,40.25,0
+0.5,Leon Goretzka,MF,Germany,27,Completed,42,36.85,0
+0.5,Leroy Sané,FW,Germany,26,Completed,47,40.5,0
+0.5,Liam Millar,DF,Canada,23,Completed,4,22.2,0
+0.5,Lionel Messi,FW,Argentina,35,Completed,180,40.55,1.5
+0.5,Lisandro Martínez,DF,Argentina,24,Completed,96,43.25,0
+0.5,Lovro Majer,MF,Croatia,24,Completed,29,42.65,0.5
+0.5,Loïs Openda,FW,Belgium,22,Completed,3,30,0
+0.5,Lucas Cavallini,FW,Canada,29,Completed,2,50,0
+0.5,Lucas Hernández,DF,France,26,Completed,5,25,0
+0.5,Lucas Paquetá,MF,Brazil,25,Completed,115,40.8,0.5
+0.5,Luis Chávez,MF,Mexico,26,Completed,99,35.6,0.5
+0.5,Luis Suárez,FW,Uruguay,35,Completed,25,31.25,0
+0.5,Luka Jović,FW,Serbia,24,Completed,6,30,0
+0.5,Luka Modrić,MF,Croatia,37,Completed,230,40.95,0
+0.5,Lukas Klostermann,DF,Germany,26,Completed,51,49.05,0
+0.5,Luke Shaw,DF,England,27,Completed,280,42.55,0
+0.5,Majid Hosseini,DF,IR Iran,26,Completed,86,40.55,0
+0.5,Manuel Akanji,DF,Switzerland,27,Completed,229,44.2,0.5
+0.5,Manuel Neuer,GK,Germany,36,Completed,115,45.3,0
+0.5,Marcelo Brozović,MF,Croatia,30,Completed,323,43.65,0
+0.5,Marco Asensio,FW,Spain,26,Completed,89,37.4,0.5
+0.5,Marcos Acuña,DF,Argentina,31,Completed,129,39.8,0
+0.5,Marcos Llorente,DF,Spain,27,Completed,95,44.8,0
+0.5,Marcus Rashford,FW,England,25,Completed,46,36.5,1.5
+0.5,Marcus Thuram,FW,France,25,Completed,9,40.9,0
+0.5,Mario Götze,MF,Germany,30,Completed,21,45.65,0
+0.5,Mario Pašalić,FW,Croatia,27,Completed,33,40.25,0
+0.5,Mark-Anthony Kaye,MF,Canada,28,Completed,51,41.8,0
+0.5,Marko Grujić,MF,Serbia,26,Completed,14,41.2,0
+0.5,Marko Livaja,FW,Croatia,29,Completed,22,28.2,0.5
+0.5,Marquinhos,DF,Brazil,28,Completed,258,47.45,0
+0.5,Marten de Roon,MF,Netherlands,31,Completed,75,40.75,0
+0.5,Martin Braithwaite,FW,Denmark,31,Completed,14,35,0
+0.5,Martin Hongla,MF,Cameroon,24,Completed,49,40.15,0
+0.5,Martinelli,FW,Brazil,21,Completed,34,37.8,0
+0.5,Martín Cáceres,DF,Uruguay,35,Completed,68,43.05,0
+0.5,Mason Mount,MF,England,23,Completed,59,41.55,0
+0.5,Mateo Kovačić,MF,Croatia,28,Completed,199,44.2,0
+0.5,Matheus Nunes,MF,Portugal,24,Completed,28,42.4,0
+0.5,Mathew Leckie,MF,Australia,31,Completed,67,32.5,0.5
+0.5,Mathew Ryan,GK,Australia,30,Completed,113,34.45,0
+0.5,Mathias Jensen,MF,Denmark,26,Completed,52,38.8,0
+0.5,Mathías Olivera,DF,Uruguay,25,Completed,104,39.1,0
+0.5,Matt Turner,GK,United States,28,Completed,101,39.45,0
+0.5,Matthias Ginter,DF,Germany,28,Completed,3,50,0
+0.5,Matthijs de Ligt,DF,Netherlands,23,Completed,41,45.55,0
+0.5,Matty Cash,DF,Poland,25,Completed,123,38.45,0
+0.5,Mattéo Guendouzi,FW,France,23,Completed,27,40.9,0
+0.5,Matías Vecino,MF,Uruguay,31,Completed,76,35.85,0
+0.5,Matías Viña,DF,Uruguay,25,Completed,11,26.2,0
+0.5,Maxi Gómez,FW,Uruguay,26,Completed,5,35.7,0
+0.5,Maya Yoshida,DF,Japan,34,Completed,198,42.65,0
+0.5,Mehdi Taremi,FW,IR Iran,30,Completed,58,37.2,1
+0.5,Mehdi Torabi,MF,IR Iran,28,Completed,30,40.55,0
+0.5,Memphis,FW,Netherlands,28,Completed,69,40.1,0.5
+0.5,Meshaal Barsham,GK,Qatar,24,Completed,45,35.7,0
+0.5,Michael Estrada,FW,Ecuador,26,Completed,28,28,0
+0.5,Michał Skóraś,MF,Poland,22,Completed,8,44.45,0
+0.5,Michel Aebischer,MF,Switzerland,25,Completed,2,25,0
+0.5,Michy Batshuayi,FW,Belgium,29,Completed,16,33.35,0.5
+0.5,Miki Yamane,DF,Japan,28,Completed,24,36.35,0
+0.5,Mikkel Damsgaard,MF,Denmark,22,Completed,55,38.2,0
+0.5,Milad Mohammadi,DF,IR Iran,29,Completed,44,32.35,0
+0.5,Milan Borjan,GK,Canada,35,Completed,76,38.8,0
+0.5,Miloš Degenek,DF,Australia,28,Completed,67,33.15,0
+0.5,Miloš Veljković,DF,Serbia,27,Completed,98,43.75,0
+0.5,Mislav Oršić,FW,Croatia,29,Completed,6,30,0
+0.5,Mitchell Duke,FW,Australia,31,Completed,36,28.55,0.5
+0.5,Mohamed Ali Ben Romdhane,MF,Tunisia,23,Completed,14,33.35,0
+0.5,Mohamed Dräger,DF,Tunisia,26,Completed,36,36,0
+0.5,Mohamed Kanno,MF,Saudi Arabia,28,Completed,119,40.5,0
+0.5,Mohammed Al-Breik,DF,Saudi Arabia,30,Completed,39,40.65,0
+0.5,Mohammed Al-Owais,GK,Saudi Arabia,31,Completed,57,28.5,0
+0.5,Mohammed Muntari,FW,Qatar,28,Completed,17,44.75,0.5
+0.5,Mohammed Salisu,DF,Ghana,23,Completed,109,36.1,0.5
+0.5,Mohammed Waad,MF,Qatar,23,Completed,9,37.5,0
+0.5,Moisés Caicedo,MF,Ecuador,21,Completed,126,41.2,0.5
+0.5,Montassar Talbi,DF,Tunisia,24,Completed,118,43.05,0
+0.5,Morteza Pouraliganji,DF,IR Iran,30,Completed,92,35.95,0
+0.5,Moumi Ngamaleu,FW,Cameroon,28,Completed,21,42,0
+0.5,Munir,GK,Morocco,33,Completed,19,33.95,0
+0.5,Musab Kheder,DF,Qatar,29,Completed,3,50,0
+0.5,Na Sang-ho,FW,Korea Republic,26,Completed,24,32.45,0
+0.5,Nader Ghandri,DF,Tunisia,27,Completed,27,40.9,0
+0.5,Nahuel Molina,DF,Argentina,24,Completed,191,43.4,0
+0.5,Nampalys Mendy,MF,Senegal,30,Completed,141,44.35,0
+0.5,Nasser Al-Dawsari,FW,Saudi Arabia,23,Completed,11,50,0
+0.5,Nathan Aké,DF,Netherlands,27,Completed,253,46.15,0
+0.5,Nathaniel Atkinson,DF,Australia,23,Completed,27,39.7,0
+0.5,Nawaf Al Abed,MF,Saudi Arabia,32,Completed,33,42.3,0
+0.5,Nayef Aguerd,DF,Morocco,26,Completed,137,43.35,0
+0.5,Naïm Sliti,MF,Tunisia,30,Completed,29,28.45,0
+0.5,Neco Williams,DF,Wales,21,Completed,69,34.15,0
+0.5,Nemanja Gudelj,MF,Serbia,31,Completed,44,42.3,0
+0.5,Nemanja Maksimović,MF,Serbia,27,Completed,50,43.85,0
+0.5,Nemanja Radonjić,DF,Serbia,26,Completed,15,31.25,0
+0.5,Neymar,MF,Brazil,30,Completed,72,40,0.5
+0.5,Niclas Füllkrug,FW,Germany,29,Completed,15,31.25,1
+0.5,Nico Elvedi,DF,Switzerland,26,Completed,131,46.15,0
+0.5,Nico Schlotterbeck,DF,Germany,23,Completed,110,44.7,0
+0.5,Nico Williams,FW,Spain,20,Completed,50,39.7,0
+0.5,Nicola Zalewski,MF,Poland,20,Completed,15,44.1,0
+0.5,Nicolas Jackson,FW,Senegal,21,Completed,9,45,0
+0.5,Nicolas Nkoulou,DF,Cameroon,32,Completed,79,43.4,0
+0.5,Nicolás De La Cruz,MF,Uruguay,25,Completed,20,40,0
+0.5,Nicolás Otamendi,DF,Argentina,34,Completed,343,46.1,0
+0.5,Nicolás Tagliafico,DF,Argentina,30,Completed,73,42.45,0
+0.5,Niklas Süle,DF,Germany,27,Completed,231,45.3,0
+0.5,Nikola Milenković,DF,Serbia,25,Completed,141,43.25,0
+0.5,Nikola Vlašić,FW,Croatia,25,Completed,22,44,0
+0.5,Noah Okafor,FW,Switzerland,22,Completed,17,38.65,0
+0.5,Nouhou Tolo,DF,Cameroon,25,Completed,83,38.05,0
+0.5,Noussair Mazraoui,DF,Morocco,25,Completed,79,39.9,0
+0.5,Nuno Mendes,DF,Portugal,20,Completed,29,45.3,0
+0.5,Néstor Araujo,DF,Mexico,31,Completed,44,41.5,0
+0.5,Olivier Giroud,FW,France,36,Completed,30,38.45,1.5
+0.5,Olivier Ntcham,MF,Cameroon,26,Completed,11,45.85,0
+0.5,Orbelín Pineda,MF,Mexico,26,Completed,18,36,0
+0.5,Osman Bukari,MF,Ghana,23,Completed,14,35,0.5
+0.5,Otávio,MF,Portugal,27,Completed,60,40,0
+0.5,Ousmane Dembélé,FW,France,25,Completed,92,38,0
+0.5,Pablo Sarabia,FW,Spain,30,Completed,2,20,0
+0.5,Paik Seung-ho,MF,Korea Republic,25,Completed,20,37.05,0.5
+0.5,Pape Abou Cissé,DF,Senegal,27,Completed,28,37.85,0
+0.5,Pape Gueye,MF,Senegal,23,Completed,45,36.3,0
+0.5,Pape Matar Sarr,MF,Senegal,20,Completed,36,41.85,0
+0.5,Papu Gómez,MF,Argentina,34,Completed,53,44.15,0
+0.5,Pathé Ciss,MF,Senegal,28,Completed,46,40.35,0
+0.5,Pau Torres,DF,Spain,25,Completed,174,45.55,0
+0.5,Pedri,MF,Spain,20,Completed,393,45.3,0
+0.5,Pedro,FW,Brazil,25,Completed,4,33.35,0
+0.5,Pepe,DF,Portugal,39,Completed,152,39.6,0.5
+0.5,Pervis Estupiñán,DF,Ecuador,24,Completed,148,38.95,0
+0.5,Phil Foden,FW,England,22,Completed,68,37.35,0.5
+0.5,Piero Hincapié,DF,Ecuador,20,Completed,168,42,0
+0.5,Pierre Højbjerg,MF,Denmark,27,Completed,200,44.65,0
+0.5,Pierre Kunde,MF,Cameroon,27,Completed,38,38.8,0
+0.5,Piotr Zieliński,MF,Poland,28,Completed,124,40.5,0.5
+0.5,Przemysław Frankowski,MF,Poland,27,Completed,49,33.1,0
+0.5,Rafael Leão,FW,Portugal,23,Completed,24,35.3,1
+0.5,Raheem Sterling,FW,England,27,Completed,41,42.7,0.5
+0.5,Ramin Rezaeian,DF,IR Iran,32,Completed,73,34.75,0.5
+0.5,Randal Kolo Muani,FW,France,24,Completed,11,27.5,0
+0.5,Raphaël Guerreiro,DF,Portugal,28,Completed,133,43.2,0.5
+0.5,Raphaël Varane,DF,France,29,Completed,115,44.55,0
+0.5,Raphinha,FW,Brazil,25,Completed,92,36.5,0
+0.5,Rasmus Nissen,DF,Denmark,25,Completed,137,38.25,0
+0.5,Raúl Jiménez,FW,Mexico,31,Completed,20,31.25,0
+0.5,Remo Freuler,MF,Switzerland,30,Completed,127,41.25,0.5
+0.5,Renato Steffen,FW,Switzerland,31,Completed,13,43.35,0
+0.5,Ricardo Horta,FW,Portugal,28,Completed,23,33.8,0.5
+0.5,Ricardo Rodríguez,DF,Switzerland,30,Completed,164,35.8,0
+0.5,Richarlison,FW,Brazil,25,Completed,33,37.5,1.5
+0.5,Richie Laryea,DF,Canada,27,Completed,35,37.25,0
+0.5,Riley McGree,FW,Australia,24,Completed,57,38,0
+0.5,Ritsu Doan,FW,Japan,24,Completed,36,32.15,1
+0.5,Riyadh Sharahili,MF,Saudi Arabia,29,Completed,14,41.2,0
+0.5,Roan Wilson,MF,Costa Rica,20,Completed,4,50,0
+0.5,Robert Lewandowski,FW,Poland,34,Completed,61,33.5,1
+0.5,Robert Skov,DF,Denmark,26,Completed,17,40.5,0
+0.5,Roberto Alvarado,FW,Mexico,24,Completed,5,25,0
+0.5,Rodri,DF,Spain,26,Completed,642,46.6,0
+0.5,Rodrigo Bentancur,MF,Uruguay,25,Completed,136,42.5,0
+0.5,Rodrigo De Paul,MF,Argentina,28,Completed,335,42.3,0
+0.5,Rodrygo,MF,Brazil,21,Completed,62,39.75,0
+0.5,Rogelio Funes Mori,FW,Mexico,31,Completed,0,0,0
+0.5,Romain Saïss,DF,Morocco,32,Completed,130,39.4,0.5
+0.5,Romario Ibarra,MF,Ecuador,28,Completed,10,35.7,0
+0.5,Romelu Lukaku,FW,Belgium,29,Completed,6,33.35,0
+0.5,Roozbeh Cheshmi,DF,IR Iran,29,Completed,7,31.8,0.5
+0.5,Ruben Vargas,FW,Switzerland,24,Completed,80,34.2,0
+0.5,Rubin Colwill,MF,Wales,20,Completed,2,25,0
+0.5,Ró-Ró,DF,Qatar,32,Completed,78,36.1,0
+0.5,Rónald Matarrita,DF,Costa Rica,28,Completed,18,31.05,0
+0.5,Rúben Dias,DF,Portugal,25,Completed,160,44.95,0
+0.5,Rúben Neves,MF,Portugal,25,Completed,175,45.8,0
+0.5,Saad Al Sheeb,GK,Qatar,32,Completed,18,45,0
+0.5,Sadegh Moharrami,DF,IR Iran,26,Completed,18,34.6,0
+0.5,Saeid Ezatolahi,MF,IR Iran,26,Completed,66,37.5,0
+0.5,Saleh Al-Shehri,FW,Saudi Arabia,29,Completed,29,30.85,0.5
+0.5,Salem Al-Dawsari,MF,Saudi Arabia,31,Completed,86,38.75,1
+0.5,Salis Abdul Samed,MF,Ghana,22,Completed,129,44.5,0
+0.5,Salman Al-Faraj,MF,Saudi Arabia,33,Completed,12,37.5,0
+0.5,Sam Adekugbe,DF,Canada,27,Completed,63,44.35,0
+0.5,Saman Ghoddos,MF,IR Iran,29,Completed,15,37.5,0
+0.5,Sami Al-Najei,MF,Saudi Arabia,25,Completed,13,30.95,0
+0.5,Samuel Oum Gouet,MF,Cameroon,24,Completed,52,44.05,0
+0.5,Sardar Azmoun,FW,IR Iran,27,Completed,18,30,0
+0.5,Saud Abdulhamid,DF,Saudi Arabia,23,Completed,88,36.05,0
+0.5,Saša Lukić,MF,Serbia,26,Completed,143,44.15,0
+0.5,Sebastian Szymański,MF,Poland,23,Completed,26,31.7,0
+0.5,Sebastián Coates,DF,Uruguay,32,Completed,76,40.85,0
+0.5,Selim Amallah,MF,Morocco,26,Completed,34,39.55,0
+0.5,Serge Gnabry,FW,Germany,27,Completed,86,36.45,0.5
+0.5,Sergej Milinković-Savić,MF,Serbia,27,Completed,87,36.25,0.5
+0.5,Sergio Busquets,MF,Spain,34,Completed,261,45.15,0
+0.5,Sergio Rochet,GK,Uruguay,29,Completed,54,34.6,0
+0.5,Sergiño Dest,DF,United States,22,Completed,172,43,0
+0.5,Shaquell Moore,DF,United States,26,Completed,14,33.35,0
+0.5,Shogo Taniguchi,DF,Japan,31,Completed,72,42.35,0
+0.5,Shūichi Gonda,GK,Japan,33,Completed,68,30.1,0
+0.5,Silvan Widmer,DF,Switzerland,29,Completed,127,37.55,0
+0.5,Simon Kjær,DF,Denmark,33,Completed,50,42.35,0
+0.5,Sofiane Boufal,FW,Morocco,29,Completed,55,38.75,0
+0.5,Sofyan Amrabat,MF,Morocco,26,Completed,144,42.85,0
+0.5,Son Heung-min,FW,Korea Republic,30,Completed,77,33.5,0
+0.5,Son Jun-ho,MF,Korea Republic,30,Completed,55,46.6,0
+0.5,Sorba Thomas,MF,Wales,23,Completed,3,37.5,0
+0.5,Srđan Babić,DF,Serbia,26,Completed,10,31.25,0
+0.5,Stefan Mitrović,DF,Serbia,32,Completed,18,42.85,0
+0.5,Stephen Eustáquio,MF,Canada,25,Completed,83,44.6,0
+0.5,Steve Mandanda,GK,France,37,Completed,19,30.65,0
+0.5,Steven Berghuis,MF,Netherlands,30,Completed,72,38.3,0
+0.5,Steven Bergwijn,FW,Netherlands,25,Completed,49,43.75,0
+0.5,Steven Vitória,DF,Canada,35,Completed,160,43,0
+0.5,Strahinja Pavlović,DF,Serbia,21,Completed,121,38.8,0.5
+0.5,Sultan Al-Ghanam,DF,Saudi Arabia,28,Completed,34,32.7,0
+0.5,Taha Yassine Khenissi,FW,Tunisia,30,Completed,2,16.65,0
+0.5,Tajon Buchanan,MF,Canada,23,Completed,61,34.25,0
+0.5,Takefusa Kubo,FW,Japan,21,Completed,6,27.25,0
+0.5,Takehiro Tomiyasu,DF,Japan,24,Completed,73,35.45,0
+0.5,Takuma Asano,FW,Japan,28,Completed,21,37.5,0.5
+0.5,Takumi Minamino,FW,Japan,27,Completed,14,31.8,0
+0.5,Tarek Salman,DF,Qatar,25,Completed,7,35,0
+0.5,Tariq Lamptey,DF,Ghana,22,Completed,21,30.9,0
+0.5,Teun Koopmeiners,MF,Netherlands,24,Completed,56,34.55,0
+0.5,Theo Hernández,DF,France,25,Completed,193,45.1,0
+0.5,Thiago Almada,MF,Argentina,21,Completed,13,50,0
+0.5,Thiago Silva,DF,Brazil,38,Completed,229,46.75,0
+0.5,Thibaut Courtois,GK,Belgium,30,Completed,108,43.9,0
+0.5,Thilo Kehrer,DF,Germany,26,Completed,22,37.95,0
+0.5,Thomas Delaney,MF,Denmark,31,Completed,24,41.4,0
+0.5,Thomas Meunier,DF,Belgium,31,Completed,110,37.4,0
+0.5,Thomas Müller,FW,Germany,33,Completed,56,35.9,0
+0.5,Thomas Partey,MF,Ghana,29,Completed,146,41.5,0
+0.5,Thorgan Hazard,FW,Belgium,29,Completed,40,34.5,0
+0.5,Tim Ream,DF,United States,35,Completed,245,44.4,0
+0.5,Timothy Castagne,DF,Belgium,27,Completed,176,43.55,0
+0.5,Timothy Weah,FW,United States,22,Completed,90,41.65,0.5
+0.5,Toby Alderweireld,DF,Belgium,33,Completed,248,45.4,0
+0.5,Trent Alexander-Arnold,DF,England,24,Completed,21,45.65,0
+0.5,Tyler Adams,MF,United States,23,Completed,241,44.45,0
+0.5,Unai Simón,GK,Spain,25,Completed,150,46.9,0
+0.5,Uriel Antuna,FW,Mexico,25,Completed,12,30,0
+0.5,Vanja Milinković-Savić,GK,Serbia,25,Completed,90,36,0
+0.5,Victor Nelsson,DF,Denmark,24,Completed,69,46.6,0
+0.5,Vincent Aboubakar,FW,Cameroon,30,Completed,20,32.25,1
+0.5,Vincent Janssen,FW,Netherlands,28,Completed,16,40,0
+0.5,Vinicius Júnior,FW,Brazil,22,Completed,60,38.95,0.5
+0.5,Virgil van Dijk,DF,Netherlands,31,Completed,225,43.45,0
+0.5,Vitinha,MF,Portugal,22,Completed,68,45.95,0
+0.5,Wahbi Khazri,FW,Tunisia,31,Completed,13,32.5,0.5
+0.5,Wajdi Kechrida,DF,Tunisia,27,Completed,44,31.9,0
+0.5,Walid Cheddira,FW,Morocco,24,Completed,2,25,0
+0.5,Walker Zimmerman,DF,United States,29,Completed,217,44.45,0
+0.5,Wataru Endo,MF,Japan,29,Completed,155,40.35,0
+0.5,Wayne Hennessey,GK,Wales,35,Completed,50,37.9,0
+0.5,Weston McKennie,MF,United States,24,Completed,117,38.25,0
+0.5,William Carvalho,MF,Portugal,30,Completed,156,45.9,0
+0.5,William Saliba,DF,France,21,Completed,37,50,0
+0.5,Wojciech Szczęsny,GK,Poland,32,Completed,84,29.6,0
+0.5,Wout Weghorst,FW,Netherlands,30,Completed,3,30,0
+0.5,Wéverton,GK,Brazil,34,Completed,3,30,0
+0.5,Xavi Simons,FW,Netherlands,19,Completed,6,30,0
+0.5,Xherdan Shaqiri,FW,Switzerland,31,Completed,67,32.2,0.5
+0.5,Yahya Attiat Allah,DF,Morocco,27,Completed,21,30.9,0
+0.5,Yahya Jabrane,MF,Morocco,31,Completed,,0,0
+0.5,Yann Sommer,GK,Switzerland,33,Completed,108,45.75,0
+0.5,Yannick Carrasco,FW,Belgium,29,Completed,39,42.4,0
+0.5,Yasser Al-Shahrani,DF,Saudi Arabia,30,Completed,13,22.4,0
+0.5,Yassine Bounou,GK,Morocco,31,Completed,62,30.7,0
+0.5,Yassine Meriah,DF,Tunisia,29,Completed,139,40.65,0
+0.5,Yeltsin Tejeda,MF,Costa Rica,30,Completed,78,39.4,0.5
+0.5,Youri Tielemans,MF,Belgium,25,Completed,53,41.4,0
+0.5,Youssef En-Nesyri,FW,Morocco,25,Completed,32,31.35,0.5
+0.5,Youssef Msakni,MF,Tunisia,32,Completed,50,36.25,0
+0.5,Youssouf Fofana,MF,France,23,Completed,60,44.1,0
+0.5,Youssouf Sabaly,DF,Senegal,29,Completed,189,43.15,0
+0.5,Youssoufa Moukoko,FW,Germany,18,Completed,1,25,0
+0.5,Youstin Salas,DF,Costa Rica,26,Completed,15,39.45,0
+0.5,Yuki Soma,FW,Japan,25,Completed,11,28.95,0
+0.5,Yunus Musah,MF,United States,20,Completed,151,41.5,0
+0.5,Yuto Nagatomo,MF,Japan,36,Completed,78,35.8,0
+0.5,Zakaria Aboukhlal,MF,Morocco,22,Completed,5,27.8,0.5
+0.5,Álvaro Morata,FW,Spain,30,Completed,28,34.15,1.5
+0.5,Álvaro Zamora,MF,Costa Rica,20,Completed,5,50,0
+0.5,Ángel Di María,MF,Argentina,34,Completed,93,38.1,0
+0.5,Ángelo Preciado,DF,Ecuador,24,Completed,94,36.45,0
+0.5,Éder Militão,DF,Brazil,24,Completed,173,45.3,0
+0.5,Óscar Duarte,DF,Costa Rica,33,Completed,68,34.7,0
+0.5,İlkay Gündoğan,MF,Germany,32,Completed,150,44.65,0.5
+0.5,Aaron Mooy,MF,Australia,32,Failed,47,39.15,0
+0.5,Aaron Ramsey,MF,Wales,31,Failed,24,39.3,0
+0.5,Abdelhamid Sabiri,MF,Morocco,26,Failed,12,37.5,0
+0.5,Abdelkarim Hassan,DF,Qatar,29,Failed,39,37.9,0
+0.5,Abderrazak Hamdallah,FW,Morocco,31,Failed,3,33.35,0
+0.5,Abdessamad Ezzalzouli,FW,Morocco,20,Failed,3,33.35,0
+0.5,Abdou Diallo,DF,Senegal,26,Failed,47,37.35,0
+0.5,Abdul Fatawu Issahaku,FW,Ghana,18,Failed,0,50,0
+0.5,Abdulaziz Hatem,MF,Qatar,32,Failed,19,39.55,0
+0.5,Abdulelah Al-Amri,DF,Saudi Arabia,25,Failed,30,35.6,0
+0.5,Abdulellah Al-Malki,MF,Saudi Arabia,28,Failed,18,39.3,0
+0.5,Abdullah Madu,DF,Saudi Arabia,29,Failed,8,19.25,0
+0.5,Abdulrahman Al-Aboud,MF,Saudi Arabia,27,Failed,5,30.75,0
+0.5,Abolfazl Jalali,DF,IR Iran,24,Failed,9,34.5,0
+0.5,Achraf Hakimi,DF,Morocco,24,Failed,39,40.4,0
+0.5,Adrien Rabiot,MF,France,27,Failed,25,43.35,0.5
+0.5,Agustín Canobbio,MF,Uruguay,24,Failed,2,35.7,0
+0.5,Ahmad Nourollahi,MF,IR Iran,29,Failed,19,32.4,0
+0.5,Ahmed Alaaeldin,FW,Qatar,29,Failed,2,0,0
+0.5,Aimen Dahmen,GK,Tunisia,25,Failed,29,31.15,0
+0.5,Ajdin Hrustic,MF,Australia,26,Failed,4,40.5,0
+0.5,Akram Afif,FW,Qatar,26,Failed,26,42.1,0
+0.5,Alan Franco,MF,Ecuador,24,Failed,1,45.45,0
+0.5,Alejandro Balde,DF,Spain,19,Failed,11,45.55,0
+0.5,Aleksandar Mitrović,FW,Serbia,28,Failed,15,39.15,1
+0.5,Alex Sandro,DF,Brazil,31,Failed,18,44.5,0
+0.5,Alex Telles,DF,Brazil,29,Failed,9,39.3,0
+0.5,Alexander Bah,DF,Denmark,24,Failed,16,34.9,0
+0.5,Alexander Djiku,DF,Ghana,28,Failed,6,39.3,0
+0.5,Alexis Mac Allister,MF,Argentina,23,Failed,11,45.85,0.5
+0.5,Alexis Vega,FW,Mexico,25,Failed,16,35.7,0
+0.5,Ali Abdi,DF,Tunisia,28,Failed,44,31.05,0
+0.5,Ali Al Hassan,MF,Saudi Arabia,25,Failed,3,28.55,0
+0.5,Ali Al-Bulaihi,DF,Saudi Arabia,33,Failed,19,40.2,0
+0.5,Ali Assadalla,MF,Qatar,29,Failed,2,45.65,0
+0.5,Ali Gholizadeh,MF,IR Iran,26,Failed,26,31.95,0
+0.5,Ali Karimi,MF,IR Iran,28,Failed,11,37.8,0
+0.5,Ali Maâloul,DF,Tunisia,32,Failed,24,30.95,0
+0.5,Alidu Seidu,DF,Ghana,22,Failed,19,37.8,0
+0.5,Alireza Beiranvand,GK,IR Iran,30,Failed,11,32.25,0
+0.5,Alireza Jahanbakhsh,MF,IR Iran,29,Failed,6,32.35,0
+0.5,Alisson,GK,Brazil,30,Failed,11,41.25,0
+0.5,Alistair Johnston,DF,Canada,24,Failed,39,39.5,0
+0.5,Almoez Ali,FW,Qatar,26,Failed,12,36.65,0
+0.5,Alphonso Davies,MF,Canada,22,Failed,32,35.95,0.5
+0.5,Amadou Onana,MF,Belgium,21,Failed,6,45.3,0
+0.5,Andre-Frank Zambo Anguissa,MF,Cameroon,27,Failed,17,43.45,0
+0.5,Andreas Christensen,DF,Denmark,26,Failed,14,47.2,0.5
+0.5,Andreas Cornelius,FW,Denmark,29,Failed,13,30.9,0
+0.5,Andreas Skov Olsen,FW,Denmark,22,Failed,20,34.15,0
+0.5,Andrej Kramarić,FW,Croatia,31,Failed,12,43.95,1
+0.5,Andries Noppert,GK,Netherlands,28,Failed,27,40.2,0
+0.5,Andrija Živković,DF,Serbia,26,Failed,25,37,0
+0.5,André Ayew,MF,Ghana,32,Failed,7,40.55,0.5
+0.5,André Onana,GK,Cameroon,26,Failed,14,38.15,0
+0.5,André Silva,FW,Portugal,27,Failed,2,40.9,0
+0.5,Andrés Guardado,MF,Mexico,36,Failed,5,34.4,0
+0.5,Anis Ben Slimane,MF,Tunisia,21,Failed,17,31.5,0
+0.5,Ansu Fati,FW,Spain,20,Failed,4,43.1,0
+0.5,Ante Budimir,FW,Croatia,31,Failed,3,20,0
+0.5,Anthony Contreras,FW,Costa Rica,22,Failed,11,28.85,0
+0.5,Antoine Griezmann,MF,France,31,Failed,46,39.45,0
+0.5,Antoine Semenyo,FW,Ghana,22,Failed,1,25,0
+0.5,Antonee Robinson,DF,United States,25,Failed,68,35.9,0
+0.5,Antonio Rüdiger,DF,Germany,29,Failed,23,45.45,0
+0.5,Antony,FW,Brazil,22,Failed,18,38.6,0
+0.5,António Silva,DF,Portugal,19,Failed,2,48.4,0
+0.5,Ao Tanaka,MF,Japan,24,Failed,21,34.8,0.5
+0.5,Ardon Jasari,FW,Switzerland,20,Failed,1,41.65,0
+0.5,Arkadiusz Milik,FW,Poland,28,Failed,10,32.75,0
+0.5,Artur Jędrzejczyk,DF,Poland,35,Failed,1,37.5,0
+0.5,Asiri Haitham,FW,Saudi Arabia,21,Failed,1,25,0
+0.5,Assim Madibo,MF,Qatar,26,Failed,12,41.45,0
+0.5,Atiba Hutchinson,MF,Canada,39,Failed,12,44.65,0
+0.5,Aurélien Tchouaméni,MF,France,22,Failed,20,46.8,0
+0.5,Awer Mabil,MF,Australia,27,Failed,4,35.7,0
+0.5,Axel Disasi,DF,France,24,Failed,17,39.1,0
+0.5,Axel Witsel,MF,Belgium,33,Failed,8,47.75,0
+0.5,Ayase Ueda,FW,Japan,24,Failed,5,29.15,0
+0.5,Aymeric Laporte,DF,Spain,28,Failed,25,47.15,0
+0.5,Aziz Behich,DF,Australia,31,Failed,51,37.45,0
+0.5,Azzedine Ounahi,MF,Morocco,22,Failed,31,38.7,0
+0.5,Aïssa Laïdouni,MF,Tunisia,25,Failed,24,40.25,0
+0.5,Baba Rahman,DF,Ghana,28,Failed,34,33,0
+0.5,Badr Banoun,DF,Morocco,29,Failed,0,0,0
+0.5,Bailey Wright,DF,Australia,30,Failed,2,16.65,0
+0.5,Bamba Dieng,FW,Senegal,22,Failed,7,28.15,0.5
+0.5,Bartosz Bereszyński,DF,Poland,30,Failed,34,39.1,0
+0.5,Bassam Al-Rawi,DF,Qatar,24,Failed,10,41.25,0
+0.5,Ben Davies,DF,Wales,29,Failed,39,37.9,0
+0.5,Benjamin Pavard,DF,France,26,Failed,8,45.55,0
+0.5,Bernardo Silva,MF,Portugal,28,Failed,23,44,0
+0.5,Borna Barišić,DF,Croatia,30,Failed,19,36.25,0
+0.5,Borna Sosa,DF,Croatia,24,Failed,40,40.25,0
+0.5,Boualem Khoukhi,DF,Qatar,32,Failed,28,42.9,0
+0.5,Boulaye Dia,FW,Senegal,26,Failed,14,36.8,0.5
+0.5,Brandon Aguilera,MF,Costa Rica,19,Failed,11,35.55,0
+0.5,Breel Embolo,FW,Switzerland,25,Failed,16,37.1,1
+0.5,Brenden Aaronson,MF,United States,22,Failed,9,41,0
+0.5,Brennan Johnson,FW,Wales,21,Failed,7,29.4,0
+0.5,Bruno Fernandes,FW,Portugal,28,Failed,28,41.15,1
+0.5,Bruno Guimarães,MF,Brazil,25,Failed,11,39.8,0
+0.5,Bruno Petković,FW,Croatia,28,Failed,24,24.45,0
+0.5,Bryan Mbeumo,FW,Cameroon,23,Failed,36,28.8,0
+0.5,Bryan Oviedo,DF,Costa Rica,32,Failed,22,37.65,0
+0.5,Bryan Ruiz,MF,Costa Rica,37,Failed,4,33.35,0
+0.5,Bukayo Saka,FW,England,21,Failed,17,39.75,1.5
+0.5,Callum Wilson,FW,England,30,Failed,1,45,0
+0.5,Cameron Carter-Vickers,DF,United States,24,Failed,8,43.1,0
+0.5,Carlos Gruezo,MF,Ecuador,27,Failed,0,50,0
+0.5,Carlos Martínez,DF,Costa Rica,23,Failed,5,33.35,0
+0.5,Carlos Soler,MF,Spain,25,Failed,5,47,0.5
+0.5,Casemiro,MF,Brazil,30,Failed,29,42.2,0.5
+0.5,Celso Borges,MF,Costa Rica,34,Failed,22,40.85,0
+0.5,Charles De Ketelaere,FW,Belgium,21,Failed,1,37.5,0
+0.5,Charly Rodríguez,MF,Mexico,25,Failed,9,35,0
+0.5,Cheikhou Kouyaté,MF,Senegal,32,Failed,4,41.3,0
+0.5,Cho Guesung,FW,Korea Republic,24,Failed,23,31.75,1
+0.5,Cho Yumin,FW,Korea Republic,26,Failed,0,0,0
+0.5,Chris Mepham,DF,Wales,25,Failed,31,41,0
+0.5,Christian Bassogog,MF,Cameroon,27,Failed,4,27.8,0
+0.5,Christian Eriksen,MF,Denmark,30,Failed,42,40.85,0
+0.5,Christian Fassnacht,FW,Switzerland,29,Failed,3,35,0
+0.5,Christian Nørgaard,MF,Denmark,28,Failed,1,46.65,0
+0.5,Christian Pulisic,FW,United States,24,Failed,58,29.45,0.5
+0.5,Christopher Wooh,DF,Cameroon,21,Failed,6,40.3,0
+0.5,Cody Gakpo,FW,Netherlands,23,Failed,38,32.9,1.5
+0.5,Collins Fai,DF,Cameroon,30,Failed,47,33.9,0
+0.5,Connor Roberts,DF,Wales,27,Failed,26,39,0
+0.5,Craig Goodwin,MF,Australia,30,Failed,37,30.55,0.5
+0.5,Cristian Romero,DF,Argentina,24,Failed,20,45.55,0
+0.5,Cristiano Ronaldo,FW,Portugal,37,Failed,19,38.7,0.5
+0.5,Cyle Larin,FW,Canada,27,Failed,8,36.2,0
+0.5,César Azpilicueta,DF,Spain,33,Failed,10,47.25,0
+0.5,César Montes,DF,Mexico,25,Failed,38,40.35,0
+0.5,Daichi Kamada,FW,Japan,26,Failed,21,39.9,0
+0.5,Daizen Maeda,FW,Japan,25,Failed,9,23.55,0.5
+0.5,Daley Blind,DF,Netherlands,32,Failed,43,42.1,0.5
+0.5,Damian Szymański,MF,Poland,27,Failed,0,50,0
+0.5,Dani Alves,DF,Brazil,39,Failed,14,42.8,0
+0.5,Dani Carvajal,DF,Spain,30,Failed,14,44.8,0
+0.5,Dani Olmo,FW,Spain,24,Failed,36,40.9,0.5
+0.5,Daniel Amartey,DF,Ghana,27,Failed,13,45.4,0
+0.5,Daniel Chacón,MF,Costa Rica,21,Failed,0,50,0
+0.5,Daniel James,FW,Wales,25,Failed,12,33.35,0
+0.5,Daniel Kyereh,MF,Ghana,26,Failed,5,39.15,0
+0.5,Danilo,DF,Brazil,31,Failed,22,43.15,0
+0.5,Danilo Pereira,DF,Portugal,31,Failed,10,43.6,0
+0.5,Danny Ward,GK,Wales,29,Failed,15,30.75,0
+0.5,Darko Lazović,DF,Serbia,32,Failed,5,29.15,0
+0.5,Darwin Núñez,FW,Uruguay,23,Failed,21,31.25,0
+0.5,David Raum,DF,Germany,24,Failed,42,39.25,0
+0.5,David Wotherspoon,MF,Canada,32,Failed,3,28.55,0
+0.5,Davy Klaassen,MF,Netherlands,29,Failed,18,38.3,0.5
+0.5,Dayot Upamecano,DF,France,24,Failed,14,47.05,0
+0.5,DeAndre Yedlin,DF,United States,29,Failed,9,33.95,0
+0.5,Declan Rice,MF,England,23,Failed,18,46.55,0
+0.5,Dejan Lovren,DF,Croatia,33,Failed,40,43.25,0
+0.5,Denis Odoi,DF,Ghana,34,Failed,0,50,0
+0.5,Denis Zakaria,MF,Switzerland,26,Failed,3,43.5,0
+0.5,Denzel Dumfries,DF,Netherlands,26,Failed,57,33.8,0.5
+0.5,Devis Epassy,GK,Cameroon,29,Failed,26,34.35,0
+0.5,Diego Godín,DF,Uruguay,36,Failed,16,42.25,0
+0.5,Diogo Costa,GK,Portugal,23,Failed,44,33.7,0
+0.5,Diogo Dalot,DF,Portugal,23,Failed,23,39.15,0
+0.5,Djibril Sow,MF,Switzerland,25,Failed,13,43.3,0
+0.5,Djorkaeff Reasco,FW,Ecuador,23,Failed,0,50,0
+0.5,Dominik Livaković,GK,Croatia,27,Failed,20,41.85,0
+0.5,Dries Mertens,MF,Belgium,35,Failed,11,33.35,0
+0.5,Dušan Tadić,MF,Serbia,34,Failed,37,35.45,0
+0.5,Dušan Vlahović,FW,Serbia,22,Failed,5,27.25,0.5
+0.5,Dylan Bronn,DF,Tunisia,27,Failed,23,38.25,0
+0.5,Eden Hazard,MF,Belgium,31,Failed,12,39.65,0
+0.5,Ederson,GK,Brazil,29,Failed,3,45.15,0
+0.5,Edimilson Fernandes,FW,Switzerland,26,Failed,17,39.65,0
+0.5,Edinson Cavani,FW,Uruguay,35,Failed,10,36.5,0
+0.5,Edouard Mendy,GK,Senegal,30,Failed,32,36.65,0
+0.5,Edson Álvarez,MF,Mexico,25,Failed,28,37.7,0
+0.5,Eduardo Camavinga,DF,France,20,Failed,11,42.95,0
+0.5,Ehsan Hajsafi,MF,IR Iran,32,Failed,37,31.1,0
+0.5,Ellyes Skhiri,MF,Tunisia,27,Failed,18,42.9,0
+0.5,Emiliano Martínez,GK,Argentina,30,Failed,21,38.85,0
+0.5,Enner Valencia,FW,Ecuador,33,Failed,17,35.1,1.5
+0.5,Enzo Ebosse,DF,Cameroon,23,Failed,4,44.75,0
+0.5,Enzo Fernández,MF,Argentina,21,Failed,28,44.6,0.5
+0.5,Eray Cömert,DF,Switzerland,24,Failed,4,45.25,0
+0.5,Eric Dier,DF,England,28,Failed,1,48.8,0
+0.5,Eric Maxim Choupo-Moting,FW,Cameroon,33,Failed,22,33.35,0.5
+0.5,Erick Gutiérrez,MF,Mexico,27,Failed,5,41.4,0
+0.5,Ethan Ampadu,MF,Wales,22,Failed,36,37.5,0
+0.5,Everton Ribeiro,MF,Brazil,33,Failed,3,41.65,0
+0.5,Exequiel Palacios,MF,Argentina,24,Failed,2,42.3,0
+0.5,Fabian Frei,MF,Switzerland,33,Failed,5,32.15,0
+0.5,Fabian Rieder,FW,Switzerland,20,Failed,13,25,0
+0.5,Fabian Schär,DF,Switzerland,30,Failed,17,39.65,0
+0.5,Fabinho,MF,Brazil,29,Failed,6,44.75,0
+0.5,Facundo Pellistri,MF,Uruguay,20,Failed,14,34.8,0
+0.5,Famara Diedhiou,FW,Senegal,29,Failed,4,35.7,0.5
+0.5,Federico Valverde,MF,Uruguay,24,Failed,30,42.05,0
+0.5,Ferjani Sassi,MF,Tunisia,30,Failed,9,36.75,0
+0.5,Ferrán Torres,FW,Spain,22,Failed,26,34.7,1
+0.5,Filip Kostić,DF,Serbia,30,Failed,41,31.85,0
+0.5,Filip Mladenović,DF,Serbia,31,Failed,5,40,0
+0.5,Filip Đuričić,MF,Serbia,30,Failed,1,41.65,0
+0.5,Firas Al-Buraikan,MF,Saudi Arabia,22,Failed,21,33.35,0
+0.5,Fodé Ballo-Touré,DF,Senegal,25,Failed,3,31.25,0
+0.5,Fran Karačić,DF,Australia,26,Failed,21,30.55,0
+0.5,Francisco Calvo,DF,Costa Rica,30,Failed,18,41.35,0
+0.5,Fred,MF,Brazil,29,Failed,12,42.6,0
+0.5,Frenkie de Jong,MF,Netherlands,25,Failed,31,44.3,0.5
+0.5,Félix Torres Caicedo,DF,Ecuador,25,Failed,40,40.4,0
+0.5,Gabriel Jesus,FW,Brazil,25,Failed,6,39.3,0
+0.5,Garang Kuol,FW,Australia,18,Failed,2,30,0
+0.5,Gareth Bale,FW,Wales,33,Failed,20,31.15,0.5
+0.5,Gavi,MF,Spain,18,Failed,21,43.2,0.5
+0.5,Gaël Ondoua,MF,Cameroon,27,Failed,2,44.75,0
+0.5,Georges-Kévin N'Koudou,FW,Cameroon,27,Failed,3,37.5,0
+0.5,Germán Pezzella,DF,Argentina,31,Failed,0,50,0
+0.5,Gerson Torres,MF,Costa Rica,25,Failed,0,50,0
+0.5,Ghaylène Chaalali,MF,Tunisia,28,Failed,1,37.5,0
+0.5,Gideon Mensah,DF,Ghana,24,Failed,10,39.15,0
+0.5,Gio Reyna,FW,United States,20,Failed,12,34.2,0
+0.5,Giorgian De Arrascaeta,MF,Uruguay,28,Failed,20,30.75,1
+0.5,Gleison Bremer,DF,Brazil,25,Failed,6,46.45,0
+0.5,Gonzalo Montiel,DF,Argentina,25,Failed,5,45.6,0
+0.5,Gonzalo Plata,MF,Ecuador,22,Failed,27,37,0
+0.5,Gonçalo Ramos,FW,Portugal,21,Failed,4,40.9,1.5
+0.5,Granit Xhaka,MF,Switzerland,30,Failed,28,44.25,0
+0.5,Gregor Kobel,GK,Switzerland,25,Failed,8,36.2,0
+0.5,Grzegorz Krychowiak,MF,Poland,32,Failed,34,36.6,0
+0.5,Guido Rodríguez,MF,Argentina,28,Failed,10,42.2,0
+0.5,Guillermo Ochoa,GK,Mexico,37,Failed,16,42.65,0
+0.5,Guillermo Varela,DF,Uruguay,29,Failed,30,33.7,0
+0.5,Haji Wright,FW,United States,24,Failed,7,37.05,0.5
+0.5,Hakim Ziyech,FW,Morocco,29,Failed,53,31.7,0.5
+0.5,Hannibal Mejbri,MF,Tunisia,19,Failed,0,50,0
+0.5,Haris Seferović,FW,Switzerland,30,Failed,4,35.7,0
+0.5,Harry Kane,FW,England,29,Failed,26,32.65,0.5
+0.5,Harry Maguire,DF,England,29,Failed,40,43.65,0
+0.5,Harry Souttar,DF,Australia,24,Failed,29,41.3,0
+0.5,Harry Wilson,MF,Wales,25,Failed,16,37.5,0
+0.5,Hassan Al Tambakti,DF,Saudi Arabia,23,Failed,15,36.35,0
+0.5,Hassan Al-Haydos,MF,Qatar,31,Failed,15,40.65,0
+0.5,Hattan Bahebri,MF,Saudi Arabia,30,Failed,3,28.55,0
+0.5,Henry Martín,FW,Mexico,30,Failed,7,32.5,0.5
+0.5,Hernán Galíndez,GK,Ecuador,35,Failed,30,29.75,0
+0.5,Hidemasa Morita,MF,Japan,27,Failed,28,41.1,0
+0.5,Hiroki Ito,DF,Japan,23,Failed,5,46.05,0
+0.5,Hiroki Sakai,MF,Japan,32,Failed,19,29.8,0
+0.5,Hirving Lozano,FW,Mexico,27,Failed,35,27.25,0
+0.5,Homam Ahmed,DF,Qatar,23,Failed,28,36.65,0
+0.5,Hong Chul,DF,Korea Republic,32,Failed,3,42.5,0
+0.5,Hossein Hosseini,GK,IR Iran,30,Failed,24,24.45,0
+0.5,Hossein Kanaanizadegan,DF,IR Iran,28,Failed,3,36.35,0
+0.5,Hugo Lloris,GK,France,35,Failed,31,32.2,0
+0.5,Hwang Hee-chan,MF,Korea Republic,26,Failed,14,38.15,0.5
+0.5,Hwang In-beom,MF,Korea Republic,26,Failed,53,39.25,0
+0.5,Hwang Ui-jo,FW,Korea Republic,30,Failed,2,40.9,0
+0.5,Héctor Herrera,MF,Mexico,32,Failed,14,41.05,0
+0.5,Héctor Moreno,DF,Mexico,34,Failed,30,42.3,0
+0.5,Ibrahima Konaté,DF,France,23,Failed,15,45.95,0
+0.5,Idrissa Gana Gueye,MF,Senegal,33,Failed,26,40.25,0
+0.5,Iliman Ndiaye,FW,Senegal,22,Failed,7,39.05,0
+0.5,Ismail Jakobs,DF,Senegal,23,Failed,49,34.3,0
+0.5,Ismail Mohamad,FW,Qatar,32,Failed,0,0,0
+0.5,Ismaila Sarr,FW,Senegal,24,Failed,29,32.1,0.5
+0.5,Ismaël Koné,MF,Canada,20,Failed,5,47.5,0
+0.5,Issam Jebali,FW,Tunisia,30,Failed,10,35.7,0
+0.5,Ivan Ilić,MF,Serbia,21,Failed,1,47.5,0
+0.5,Ivan Perišić,FW,Croatia,33,Failed,46,34.95,0.5
+0.5,Iñaki Williams,FW,Ghana,28,Failed,13,34.5,0
+0.5,Jack Grealish,FW,England,27,Failed,6,44.45,0.5
+0.5,Jackson Irvine,MF,Australia,29,Failed,25,40.25,0
+0.5,Jackson Porozo,DF,Ecuador,22,Failed,5,44.3,0
+0.5,Jakub Kamiński,MF,Poland,20,Failed,24,30.35,0
+0.5,Jakub Kiwior,DF,Poland,22,Failed,31,42.45,0
+0.5,Jamal Musiala,MF,Germany,19,Failed,20,40.5,0
+0.5,Jamie Maclaren,FW,Australia,29,Failed,8,23.35,0
+0.5,Jan Bednarek,DF,Poland,26,Failed,0,50,0
+0.5,Jan Vertonghen,DF,Belgium,35,Failed,31,44.25,0
+0.5,Jason Cummings,FW,Australia,27,Failed,2,33.35,0
+0.5,Jawad El Yamiq,DF,Morocco,30,Failed,4,27.8,0
+0.5,Jean-Charles Castelletto,DF,Cameroon,27,Failed,16,40.25,0.5
+0.5,Jeong Woo-yeong,MF,Korea Republic,23,Failed,3,40,0
+0.5,Jeremy Doku,MF,Belgium,20,Failed,6,28.55,0
+0.5,Jeremy Sarmiento,MF,Ecuador,20,Failed,14,31.1,0
+0.5,Jerome Ngom Mbekeli,MF,Cameroon,24,Failed,1,25,0
+0.5,Jesper Lindstrøm,MF,Denmark,22,Failed,16,34.6,0
+0.5,Jesús Ferreira,FW,United States,21,Failed,3,42.1,0
+0.5,Jesús Gallardo,DF,Mexico,28,Failed,41,34.7,0
+0.5,Jewison Bennette,MF,Costa Rica,18,Failed,3,39.3,0
+0.5,Jhegson Méndez,MF,Ecuador,25,Failed,12,45.7,0
+0.5,Joachim Andersen,DF,Denmark,26,Failed,52,39.6,0
+0.5,Joakim Mæhle,DF,Denmark,25,Failed,27,40.75,0
+0.5,Joe Allen,MF,Wales,32,Failed,6,41.65,0
+0.5,Joe Morrell,MF,Wales,25,Failed,2,42.85,0
+0.5,Joe Rodon,DF,Wales,25,Failed,17,44.95,0
+0.5,Joel Campbell,FW,Costa Rica,30,Failed,34,37.7,0
+0.5,Johan Venegas,FW,Costa Rica,34,Failed,3,39.3,0
+0.5,John Stones,DF,England,28,Failed,19,47.5,0
+0.5,Jonas Hofmann,FW,Germany,30,Failed,4,40,0
+0.5,Jonathan David,FW,Canada,22,Failed,19,34.15,0
+0.5,Jonathan Osorio,MF,Canada,30,Failed,5,45.6,0
+0.5,Jordan Ayew,FW,Ghana,31,Failed,11,38.05,0
+0.5,Jordan Henderson,MF,England,32,Failed,22,40.85,0.5
+0.5,Jordan Morris,FW,United States,28,Failed,3,12.5,0
+0.5,Jordan Pickford,GK,England,28,Failed,30,38.95,0
+0.5,Jordan Veretout,MF,France,29,Failed,3,45.85,0
+0.5,Jordi Alba,DF,Spain,33,Failed,44,44.1,0
+0.5,Jorge Eduardo Sánchez,DF,Mexico,24,Failed,18,39.65,0
+0.5,Josh Sargent,FW,United States,22,Failed,4,43.95,0
+0.5,Joshua Kimmich,MF,Germany,27,Failed,41,42.3,0
+0.5,Josip Juranović,DF,Croatia,27,Failed,63,38.1,0
+0.5,José Cifuentes,MF,Ecuador,23,Failed,11,37.5,0
+0.5,José María Giménez,DF,Uruguay,27,Failed,33,40.5,0
+0.5,João Cancelo,DF,Portugal,28,Failed,41,40.9,0
+0.5,João Félix,FW,Portugal,23,Failed,23,38.6,0.5
+0.5,João Mário,FW,Portugal,29,Failed,3,46.25,0
+0.5,João Palhinha,MF,Portugal,27,Failed,5,41.95,0
+0.5,Joško Gvardiol,DF,Croatia,20,Failed,39,43.95,0
+0.5,Juan Pablo Vargas,DF,Costa Rica,27,Failed,5,39.6,0.5
+0.5,Jude Bellingham,MF,England,19,Failed,19,45.65,0.5
+0.5,Jules Koundé,DF,France,24,Failed,26,41.05,0
+0.5,Julián Álvarez,FW,Argentina,22,Failed,15,36.6,1
+0.5,Jung Woo-young,MF,Korea Republic,32,Failed,33,42.2,0
+0.5,Junior Hoilett,FW,Canada,32,Failed,16,36.45,0
+0.5,Junya Ito,MF,Japan,29,Failed,38,30.4,0
+0.5,Jurriën Timber,DF,Netherlands,21,Failed,21,45.15,0
+0.5,Kai Havertz,FW,Germany,23,Failed,7,39.7,1
+0.5,Kalidou Koulibaly,DF,Senegal,31,Failed,49,38.05,0.5
+0.5,Kalvin Phillips,MF,England,27,Failed,2,44.75,0
+0.5,Kamal Miller,DF,Canada,25,Failed,19,45.35,0
+0.5,Kamaldeen Sulemana,FW,Ghana,20,Failed,9,26.3,0
+0.5,Kamil Glik,DF,Poland,34,Failed,12,45.4,0
+0.5,Kamil Grosicki,MF,Poland,34,Failed,2,33.35,0
+0.5,Kaoru Mitoma,MF,Japan,25,Failed,20,35.7,0
+0.5,Karim Ansarifard,FW,IR Iran,32,Failed,1,40,0
+0.5,Karim Boudiaf,MF,Qatar,32,Failed,12,44.35,0
+0.5,Karl Toko Ekambi,FW,Cameroon,30,Failed,10,40.55,0
+0.5,Karol Świderski,FW,Poland,25,Failed,0,50,0
+0.5,Kasper Dolberg,FW,Denmark,25,Failed,3,41.65,0
+0.5,Kasper Schmeichel,GK,Denmark,36,Failed,15,41.4,0
+0.5,Keanu Baccus,MF,Australia,24,Failed,15,31.7,0
+0.5,Kellyn Acosta,MF,United States,27,Failed,2,41.65,0
+0.5,Kendall Waston,DF,Costa Rica,34,Failed,14,40.15,0
+0.5,Kenneth Taylor,MF,Netherlands,20,Failed,0,50,0
+0.5,Kevin De Bruyne,FW,Belgium,31,Failed,43,34.2,0
+0.5,Kevin Rodríguez,FW,Ecuador,22,Failed,0,0,0
+0.5,Kevin Álvarez,DF,Mexico,23,Failed,10,32.75,0
+0.5,Keylor Navas,GK,Costa Rica,35,Failed,41,29.9,0
+0.5,Keysher Fuller,DF,Costa Rica,28,Failed,19,34.9,0.5
+0.5,Kieffer Moore,FW,Wales,30,Failed,20,32.15,0
+0.5,Kieran Trippier,DF,England,32,Failed,30,42.3,0
+0.5,Kim Jin-su,DF,Korea Republic,30,Failed,41,35.95,0
+0.5,Kim Min-jae,DF,Korea Republic,26,Failed,24,43.7,0
+0.5,Kim Moonhwan,DF,Korea Republic,27,Failed,41,41.55,0
+0.5,Kim Seung-gyu,GK,Korea Republic,32,Failed,35,36.35,0
+0.5,Kim Young-gwon,DF,Korea Republic,32,Failed,31,42.6,0.5
+0.5,Kingsley Coman,FW,France,26,Failed,6,44.65,0
+0.5,Ko Itakura,DF,Japan,25,Failed,13,44.15,0
+0.5,Koke,MF,Spain,30,Failed,6,45.15,0
+0.5,Krystian Bielik,MF,Poland,24,Failed,13,43.45,0
+0.5,Krzysztof Piątek,FW,Poland,27,Failed,4,16.65,0
+0.5,Krépin Diatta,FW,Senegal,23,Failed,13,41.1,0
+0.5,Kudus Mohammed,FW,Ghana,22,Failed,25,35.65,1
+0.5,Kwon Chang-hoon,FW,Korea Republic,28,Failed,6,38,0
+0.5,Kwon Kyung-won,DF,Korea Republic,30,Failed,4,45.35,0
+0.5,Kye Rowles,DF,Australia,24,Failed,22,44.1,0
+0.5,Kyle Walker,DF,England,32,Failed,15,44.4,0
+0.5,Kylian Mbappé,FW,France,23,Failed,40,37.5,2.5
+0.5,Lautaro Martínez,FW,Argentina,25,Failed,10,38.1,0
+0.5,Lawrence Ati-Zigi,GK,Ghana,26,Failed,24,34.6,0
+0.5,Leander Dendoncker,DF,Belgium,27,Failed,3,48.75,0
+0.5,Leandro Paredes,MF,Argentina,28,Failed,8,47.15,0
+0.5,Leandro Trossard,FW,Belgium,28,Failed,14,37.7,0
+0.5,Lee Jae-sung,MF,Korea Republic,30,Failed,13,43.3,0
+0.5,Lee Kangin,MF,Korea Republic,21,Failed,15,40.25,0
+0.5,Leon Goretzka,MF,Germany,27,Failed,15,36.85,0
+0.5,Leroy Sané,FW,Germany,26,Failed,11,40.5,0
+0.5,Liam Millar,DF,Canada,23,Failed,5,22.2,0
+0.5,Lionel Messi,FW,Argentina,35,Failed,42,40.55,1.5
+0.5,Lisandro Martínez,DF,Argentina,24,Failed,15,43.25,0
+0.5,Lovro Majer,MF,Croatia,24,Failed,5,42.65,0.5
+0.5,Loïs Openda,FW,Belgium,22,Failed,2,30,0
+0.5,Lucas Cavallini,FW,Canada,29,Failed,0,50,0
+0.5,Lucas Hernández,DF,France,26,Failed,5,25,0
+0.5,Lucas Paquetá,MF,Brazil,25,Failed,26,40.8,0.5
+0.5,Luis Chávez,MF,Mexico,26,Failed,40,35.6,0.5
+0.5,Luis Suárez,FW,Uruguay,35,Failed,15,31.25,0
+0.5,Luka Jović,FW,Serbia,24,Failed,4,30,0
+0.5,Luka Modrić,MF,Croatia,37,Failed,51,40.95,0
+0.5,Lukas Klostermann,DF,Germany,26,Failed,1,49.05,0
+0.5,Luke Shaw,DF,England,27,Failed,49,42.55,0
+0.5,Majid Hosseini,DF,IR Iran,26,Failed,20,40.55,0
+0.5,Manuel Akanji,DF,Switzerland,27,Failed,30,44.2,0.5
+0.5,Manuel Neuer,GK,Germany,36,Failed,12,45.3,0
+0.5,Marcelo Brozović,MF,Croatia,30,Failed,47,43.65,0
+0.5,Marco Asensio,FW,Spain,26,Failed,30,37.4,0.5
+0.5,Marcos Acuña,DF,Argentina,31,Failed,33,39.8,0
+0.5,Marcos Llorente,DF,Spain,27,Failed,11,44.8,0
+0.5,Marcus Rashford,FW,England,25,Failed,17,36.5,1.5
+0.5,Marcus Thuram,FW,France,25,Failed,2,40.9,0
+0.5,Mario Götze,MF,Germany,30,Failed,2,45.65,0
+0.5,Mario Pašalić,FW,Croatia,27,Failed,8,40.25,0
+0.5,Mark-Anthony Kaye,MF,Canada,28,Failed,10,41.8,0
+0.5,Marko Grujić,MF,Serbia,26,Failed,3,41.2,0
+0.5,Marko Livaja,FW,Croatia,29,Failed,17,28.2,0.5
+0.5,Marquinhos,DF,Brazil,28,Failed,14,47.45,0
+0.5,Marten de Roon,MF,Netherlands,31,Failed,17,40.75,0
+0.5,Martin Braithwaite,FW,Denmark,31,Failed,6,35,0
+0.5,Martin Hongla,MF,Cameroon,24,Failed,12,40.15,0
+0.5,Martinelli,FW,Brazil,21,Failed,11,37.8,0
+0.5,Martín Cáceres,DF,Uruguay,35,Failed,11,43.05,0
+0.5,Mason Mount,MF,England,23,Failed,12,41.55,0
+0.5,Mateo Kovačić,MF,Croatia,28,Failed,26,44.2,0
+0.5,Matheus Nunes,MF,Portugal,24,Failed,5,42.4,0
+0.5,Mathew Leckie,MF,Australia,31,Failed,36,32.5,0.5
+0.5,Mathew Ryan,GK,Australia,30,Failed,51,34.45,0
+0.5,Mathias Jensen,MF,Denmark,26,Failed,15,38.8,0
+0.5,Mathías Olivera,DF,Uruguay,25,Failed,29,39.1,0
+0.5,Matt Turner,GK,United States,28,Failed,27,39.45,0
+0.5,Matthias Ginter,DF,Germany,28,Failed,0,50,0
+0.5,Matthijs de Ligt,DF,Netherlands,23,Failed,4,45.55,0
+0.5,Matty Cash,DF,Poland,25,Failed,37,38.45,0
+0.5,Mattéo Guendouzi,FW,France,23,Failed,6,40.9,0
+0.5,Matías Vecino,MF,Uruguay,31,Failed,30,35.85,0
+0.5,Matías Viña,DF,Uruguay,25,Failed,10,26.2,0
+0.5,Maxi Gómez,FW,Uruguay,26,Failed,2,35.7,0
+0.5,Maya Yoshida,DF,Japan,34,Failed,34,42.65,0
+0.5,Mehdi Taremi,FW,IR Iran,30,Failed,20,37.2,1
+0.5,Mehdi Torabi,MF,IR Iran,28,Failed,7,40.55,0
+0.5,Memphis,FW,Netherlands,28,Failed,17,40.1,0.5
+0.5,Meshaal Barsham,GK,Qatar,24,Failed,18,35.7,0
+0.5,Michael Estrada,FW,Ecuador,26,Failed,22,28,0
+0.5,Michał Skóraś,MF,Poland,22,Failed,1,44.45,0
+0.5,Michel Aebischer,MF,Switzerland,25,Failed,2,25,0
+0.5,Michy Batshuayi,FW,Belgium,29,Failed,8,33.35,0.5
+0.5,Miki Yamane,DF,Japan,28,Failed,9,36.35,0
+0.5,Mikkel Damsgaard,MF,Denmark,22,Failed,17,38.2,0
+0.5,Milad Mohammadi,DF,IR Iran,29,Failed,24,32.35,0
+0.5,Milan Borjan,GK,Canada,35,Failed,22,38.8,0
+0.5,Miloš Degenek,DF,Australia,28,Failed,34,33.15,0
+0.5,Miloš Veljković,DF,Serbia,27,Failed,14,43.75,0
+0.5,Mislav Oršić,FW,Croatia,29,Failed,4,30,0
+0.5,Mitchell Duke,FW,Australia,31,Failed,27,28.55,0.5
+0.5,Mohamed Ali Ben Romdhane,MF,Tunisia,23,Failed,7,33.35,0
+0.5,Mohamed Dräger,DF,Tunisia,26,Failed,14,36,0
+0.5,Mohamed Kanno,MF,Saudi Arabia,28,Failed,28,40.5,0
+0.5,Mohammed Al-Breik,DF,Saudi Arabia,30,Failed,9,40.65,0
+0.5,Mohammed Al-Owais,GK,Saudi Arabia,31,Failed,43,28.5,0
+0.5,Mohammed Muntari,FW,Qatar,28,Failed,2,44.75,0.5
+0.5,Mohammed Salisu,DF,Ghana,23,Failed,42,36.1,0.5
+0.5,Mohammed Waad,MF,Qatar,23,Failed,3,37.5,0
+0.5,Moisés Caicedo,MF,Ecuador,21,Failed,27,41.2,0.5
+0.5,Montassar Talbi,DF,Tunisia,24,Failed,19,43.05,0
+0.5,Morteza Pouraliganji,DF,IR Iran,30,Failed,36,35.95,0
+0.5,Moumi Ngamaleu,FW,Cameroon,28,Failed,4,42,0
+0.5,Munir,GK,Morocco,33,Failed,9,33.95,0
+0.5,Musab Kheder,DF,Qatar,29,Failed,0,50,0
+0.5,Na Sang-ho,FW,Korea Republic,26,Failed,13,32.45,0
+0.5,Nader Ghandri,DF,Tunisia,27,Failed,6,40.9,0
+0.5,Nahuel Molina,DF,Argentina,24,Failed,29,43.4,0
+0.5,Nampalys Mendy,MF,Senegal,30,Failed,18,44.35,0
+0.5,Nasser Al-Dawsari,FW,Saudi Arabia,23,Failed,0,50,0
+0.5,Nathan Aké,DF,Netherlands,27,Failed,21,46.15,0
+0.5,Nathaniel Atkinson,DF,Australia,23,Failed,7,39.7,0
+0.5,Nawaf Al Abed,MF,Saudi Arabia,32,Failed,6,42.3,0
+0.5,Nayef Aguerd,DF,Morocco,26,Failed,21,43.35,0
+0.5,Naïm Sliti,MF,Tunisia,30,Failed,22,28.45,0
+0.5,Neco Williams,DF,Wales,21,Failed,32,34.15,0
+0.5,Nemanja Gudelj,MF,Serbia,31,Failed,8,42.3,0
+0.5,Nemanja Maksimović,MF,Serbia,27,Failed,7,43.85,0
+0.5,Nemanja Radonjić,DF,Serbia,26,Failed,9,31.25,0
+0.5,Neymar,MF,Brazil,30,Failed,18,40,0.5
+0.5,Niclas Füllkrug,FW,Germany,29,Failed,9,31.25,1
+0.5,Nico Elvedi,DF,Switzerland,26,Failed,11,46.15,0
+0.5,Nico Schlotterbeck,DF,Germany,23,Failed,13,44.7,0
+0.5,Nico Williams,FW,Spain,20,Failed,13,39.7,0
+0.5,Nicola Zalewski,MF,Poland,20,Failed,2,44.1,0
+0.5,Nicolas Jackson,FW,Senegal,21,Failed,1,45,0
+0.5,Nicolas Nkoulou,DF,Cameroon,32,Failed,12,43.4,0
+0.5,Nicolás De La Cruz,MF,Uruguay,25,Failed,5,40,0
+0.5,Nicolás Otamendi,DF,Argentina,34,Failed,29,46.1,0
+0.5,Nicolás Tagliafico,DF,Argentina,30,Failed,13,42.45,0
+0.5,Niklas Süle,DF,Germany,27,Failed,24,45.3,0
+0.5,Nikola Milenković,DF,Serbia,25,Failed,22,43.25,0
+0.5,Nikola Vlašić,FW,Croatia,25,Failed,3,44,0
+0.5,Noah Okafor,FW,Switzerland,22,Failed,5,38.65,0
+0.5,Nouhou Tolo,DF,Cameroon,25,Failed,26,38.05,0
+0.5,Noussair Mazraoui,DF,Morocco,25,Failed,20,39.9,0
+0.5,Nuno Mendes,DF,Portugal,20,Failed,3,45.3,0
+0.5,Néstor Araujo,DF,Mexico,31,Failed,9,41.5,0
+0.5,Olivier Giroud,FW,France,36,Failed,9,38.45,1.5
+0.5,Olivier Ntcham,MF,Cameroon,26,Failed,1,45.85,0
+0.5,Orbelín Pineda,MF,Mexico,26,Failed,7,36,0
+0.5,Osman Bukari,MF,Ghana,23,Failed,6,35,0.5
+0.5,Otávio,MF,Portugal,27,Failed,15,40,0
+0.5,Ousmane Dembélé,FW,France,25,Failed,29,38,0
+0.5,Pablo Sarabia,FW,Spain,30,Failed,3,20,0
+0.5,Paik Seung-ho,MF,Korea Republic,25,Failed,7,37.05,0.5
+0.5,Pape Abou Cissé,DF,Senegal,27,Failed,9,37.85,0
+0.5,Pape Gueye,MF,Senegal,23,Failed,17,36.3,0
+0.5,Pape Matar Sarr,MF,Senegal,20,Failed,7,41.85,0
+0.5,Papu Gómez,MF,Argentina,34,Failed,7,44.15,0
+0.5,Pathé Ciss,MF,Senegal,28,Failed,11,40.35,0
+0.5,Pau Torres,DF,Spain,25,Failed,17,45.55,0
+0.5,Pedri,MF,Spain,20,Failed,41,45.3,0
+0.5,Pedro,FW,Brazil,25,Failed,2,33.35,0
+0.5,Pepe,DF,Portugal,39,Failed,40,39.6,0.5
+0.5,Pervis Estupiñán,DF,Ecuador,24,Failed,42,38.95,0
+0.5,Phil Foden,FW,England,22,Failed,23,37.35,0.5
+0.5,Piero Hincapié,DF,Ecuador,20,Failed,32,42,0
+0.5,Pierre Højbjerg,MF,Denmark,27,Failed,24,44.65,0
+0.5,Pierre Kunde,MF,Cameroon,27,Failed,11,38.8,0
+0.5,Piotr Zieliński,MF,Poland,28,Failed,29,40.5,0.5
+0.5,Przemysław Frankowski,MF,Poland,27,Failed,25,33.1,0
+0.5,Rafael Leão,FW,Portugal,23,Failed,10,35.3,1
+0.5,Raheem Sterling,FW,England,27,Failed,7,42.7,0.5
+0.5,Ramin Rezaeian,DF,IR Iran,32,Failed,32,34.75,0.5
+0.5,Randal Kolo Muani,FW,France,24,Failed,9,27.5,0
+0.5,Raphaël Guerreiro,DF,Portugal,28,Failed,21,43.2,0.5
+0.5,Raphaël Varane,DF,France,29,Failed,14,44.55,0
+0.5,Raphinha,FW,Brazil,25,Failed,34,36.5,0
+0.5,Rasmus Nissen,DF,Denmark,25,Failed,42,38.25,0
+0.5,Raúl Jiménez,FW,Mexico,31,Failed,12,31.25,0
+0.5,Remo Freuler,MF,Switzerland,30,Failed,27,41.25,0.5
+0.5,Renato Steffen,FW,Switzerland,31,Failed,2,43.35,0
+0.5,Ricardo Horta,FW,Portugal,28,Failed,11,33.8,0.5
+0.5,Ricardo Rodríguez,DF,Switzerland,30,Failed,65,35.8,0
+0.5,Richarlison,FW,Brazil,25,Failed,11,37.5,1.5
+0.5,Richie Laryea,DF,Canada,27,Failed,12,37.25,0
+0.5,Riley McGree,FW,Australia,24,Failed,18,38,0
+0.5,Ritsu Doan,FW,Japan,24,Failed,20,32.15,1
+0.5,Riyadh Sharahili,MF,Saudi Arabia,29,Failed,3,41.2,0
+0.5,Roan Wilson,MF,Costa Rica,20,Failed,0,50,0
+0.5,Robert Lewandowski,FW,Poland,34,Failed,30,33.5,1
+0.5,Robert Skov,DF,Denmark,26,Failed,4,40.5,0
+0.5,Roberto Alvarado,FW,Mexico,24,Failed,5,25,0
+0.5,Rodri,DF,Spain,26,Failed,47,46.6,0
+0.5,Rodrigo Bentancur,MF,Uruguay,25,Failed,24,42.5,0
+0.5,Rodrigo De Paul,MF,Argentina,28,Failed,61,42.3,0
+0.5,Rodrygo,MF,Brazil,21,Failed,16,39.75,0
+0.5,Rogelio Funes Mori,FW,Mexico,31,Failed,0,0,0
+0.5,Romain Saïss,DF,Morocco,32,Failed,35,39.4,0.5
+0.5,Romario Ibarra,MF,Ecuador,28,Failed,4,35.7,0
+0.5,Romelu Lukaku,FW,Belgium,29,Failed,3,33.35,0
+0.5,Roozbeh Cheshmi,DF,IR Iran,29,Failed,4,31.8,0.5
+0.5,Ruben Vargas,FW,Switzerland,24,Failed,37,34.2,0
+0.5,Rubin Colwill,MF,Wales,20,Failed,2,25,0
+0.5,Ró-Ró,DF,Qatar,32,Failed,30,36.1,0
+0.5,Rónald Matarrita,DF,Costa Rica,28,Failed,11,31.05,0
+0.5,Rúben Dias,DF,Portugal,25,Failed,18,44.95,0
+0.5,Rúben Neves,MF,Portugal,25,Failed,16,45.8,0
+0.5,Saad Al Sheeb,GK,Qatar,32,Failed,2,45,0
+0.5,Sadegh Moharrami,DF,IR Iran,26,Failed,8,34.6,0
+0.5,Saeid Ezatolahi,MF,IR Iran,26,Failed,22,37.5,0
+0.5,Saleh Al-Shehri,FW,Saudi Arabia,29,Failed,18,30.85,0.5
+0.5,Salem Al-Dawsari,MF,Saudi Arabia,31,Failed,25,38.75,1
+0.5,Salis Abdul Samed,MF,Ghana,22,Failed,16,44.5,0
+0.5,Salman Al-Faraj,MF,Saudi Arabia,33,Failed,4,37.5,0
+0.5,Sam Adekugbe,DF,Canada,27,Failed,8,44.35,0
+0.5,Saman Ghoddos,MF,IR Iran,29,Failed,5,37.5,0
+0.5,Sami Al-Najei,MF,Saudi Arabia,25,Failed,8,30.95,0
+0.5,Samuel Oum Gouet,MF,Cameroon,24,Failed,7,44.05,0
+0.5,Sardar Azmoun,FW,IR Iran,27,Failed,12,30,0
+0.5,Saud Abdulhamid,DF,Saudi Arabia,23,Failed,34,36.05,0
+0.5,Saša Lukić,MF,Serbia,26,Failed,19,44.15,0
+0.5,Sebastian Szymański,MF,Poland,23,Failed,15,31.7,0
+0.5,Sebastián Coates,DF,Uruguay,32,Failed,17,40.85,0
+0.5,Selim Amallah,MF,Morocco,26,Failed,9,39.55,0
+0.5,Serge Gnabry,FW,Germany,27,Failed,32,36.45,0.5
+0.5,Sergej Milinković-Savić,MF,Serbia,27,Failed,33,36.25,0.5
+0.5,Sergio Busquets,MF,Spain,34,Failed,28,45.15,0
+0.5,Sergio Rochet,GK,Uruguay,29,Failed,24,34.6,0
+0.5,Sergiño Dest,DF,United States,22,Failed,28,43,0
+0.5,Shaquell Moore,DF,United States,26,Failed,7,33.35,0
+0.5,Shogo Taniguchi,DF,Japan,31,Failed,13,42.35,0
+0.5,Shūichi Gonda,GK,Japan,33,Failed,45,30.1,0
+0.5,Silvan Widmer,DF,Switzerland,29,Failed,42,37.55,0
+0.5,Simon Kjær,DF,Denmark,33,Failed,9,42.35,0
+0.5,Sofiane Boufal,FW,Morocco,29,Failed,16,38.75,0
+0.5,Sofyan Amrabat,MF,Morocco,26,Failed,24,42.85,0
+0.5,Son Heung-min,FW,Korea Republic,30,Failed,38,33.5,0
+0.5,Son Jun-ho,MF,Korea Republic,30,Failed,4,46.6,0
+0.5,Sorba Thomas,MF,Wales,23,Failed,1,37.5,0
+0.5,Srđan Babić,DF,Serbia,26,Failed,6,31.25,0
+0.5,Stefan Mitrović,DF,Serbia,32,Failed,3,42.85,0
+0.5,Stephen Eustáquio,MF,Canada,25,Failed,10,44.6,0
+0.5,Steve Mandanda,GK,France,37,Failed,12,30.65,0
+0.5,Steven Berghuis,MF,Netherlands,30,Failed,22,38.3,0
+0.5,Steven Bergwijn,FW,Netherlands,25,Failed,7,43.75,0
+0.5,Steven Vitória,DF,Canada,35,Failed,26,43,0
+0.5,Strahinja Pavlović,DF,Serbia,21,Failed,35,38.8,0.5
+0.5,Sultan Al-Ghanam,DF,Saudi Arabia,28,Failed,18,32.7,0
+0.5,Taha Yassine Khenissi,FW,Tunisia,30,Failed,4,16.65,0
+0.5,Tajon Buchanan,MF,Canada,23,Failed,28,34.25,0
+0.5,Takefusa Kubo,FW,Japan,21,Failed,5,27.25,0
+0.5,Takehiro Tomiyasu,DF,Japan,24,Failed,30,35.45,0
+0.5,Takuma Asano,FW,Japan,28,Failed,7,37.5,0.5
+0.5,Takumi Minamino,FW,Japan,27,Failed,8,31.8,0
+0.5,Tarek Salman,DF,Qatar,25,Failed,3,35,0
+0.5,Tariq Lamptey,DF,Ghana,22,Failed,13,30.9,0
+0.5,Teun Koopmeiners,MF,Netherlands,24,Failed,25,34.55,0
+0.5,Theo Hernández,DF,France,25,Failed,21,45.1,0
+0.5,Thiago Almada,MF,Argentina,21,Failed,0,50,0
+0.5,Thiago Silva,DF,Brazil,38,Failed,16,46.75,0
+0.5,Thibaut Courtois,GK,Belgium,30,Failed,15,43.9,0
+0.5,Thilo Kehrer,DF,Germany,26,Failed,7,37.95,0
+0.5,Thomas Delaney,MF,Denmark,31,Failed,5,41.4,0
+0.5,Thomas Meunier,DF,Belgium,31,Failed,37,37.4,0
+0.5,Thomas Müller,FW,Germany,33,Failed,22,35.9,0
+0.5,Thomas Partey,MF,Ghana,29,Failed,30,41.5,0
+0.5,Thorgan Hazard,FW,Belgium,29,Failed,18,34.5,0
+0.5,Tim Ream,DF,United States,35,Failed,31,44.4,0
+0.5,Timothy Castagne,DF,Belgium,27,Failed,26,43.55,0
+0.5,Timothy Weah,FW,United States,22,Failed,18,41.65,0.5
+0.5,Toby Alderweireld,DF,Belgium,33,Failed,25,45.4,0
+0.5,Trent Alexander-Arnold,DF,England,24,Failed,2,45.65,0
+0.5,Tyler Adams,MF,United States,23,Failed,30,44.45,0
+0.5,Unai Simón,GK,Spain,25,Failed,10,46.9,0
+0.5,Uriel Antuna,FW,Mexico,25,Failed,8,30,0
+0.5,Vanja Milinković-Savić,GK,Serbia,25,Failed,35,36,0
+0.5,Victor Nelsson,DF,Denmark,24,Failed,5,46.6,0
+0.5,Vincent Aboubakar,FW,Cameroon,30,Failed,11,32.25,1
+0.5,Vincent Janssen,FW,Netherlands,28,Failed,4,40,0
+0.5,Vinicius Júnior,FW,Brazil,22,Failed,17,38.95,0.5
+0.5,Virgil van Dijk,DF,Netherlands,31,Failed,34,43.45,0
+0.5,Vitinha,MF,Portugal,22,Failed,6,45.95,0
+0.5,Wahbi Khazri,FW,Tunisia,31,Failed,7,32.5,0.5
+0.5,Wajdi Kechrida,DF,Tunisia,27,Failed,25,31.9,0
+0.5,Walid Cheddira,FW,Morocco,24,Failed,2,25,0
+0.5,Walker Zimmerman,DF,United States,29,Failed,27,44.45,0
+0.5,Wataru Endo,MF,Japan,29,Failed,37,40.35,0
+0.5,Wayne Hennessey,GK,Wales,35,Failed,16,37.9,0
+0.5,Weston McKennie,MF,United States,24,Failed,36,38.25,0
+0.5,William Carvalho,MF,Portugal,30,Failed,14,45.9,0
+0.5,William Saliba,DF,France,21,Failed,0,50,0
+0.5,Wojciech Szczęsny,GK,Poland,32,Failed,58,29.6,0
+0.5,Wout Weghorst,FW,Netherlands,30,Failed,2,30,0
+0.5,Wéverton,GK,Brazil,34,Failed,2,30,0
+0.5,Xavi Simons,FW,Netherlands,19,Failed,4,30,0
+0.5,Xherdan Shaqiri,FW,Switzerland,31,Failed,37,32.2,0.5
+0.5,Yahya Attiat Allah,DF,Morocco,27,Failed,13,30.9,0
+0.5,Yahya Jabrane,MF,Morocco,31,Failed,0,0,0
+0.5,Yann Sommer,GK,Switzerland,33,Failed,10,45.75,0
+0.5,Yannick Carrasco,FW,Belgium,29,Failed,7,42.4,0
+0.5,Yasser Al-Shahrani,DF,Saudi Arabia,30,Failed,16,22.4,0
+0.5,Yassine Bounou,GK,Morocco,31,Failed,39,30.7,0
+0.5,Yassine Meriah,DF,Tunisia,29,Failed,32,40.65,0
+0.5,Yeltsin Tejeda,MF,Costa Rica,30,Failed,21,39.4,0.5
+0.5,Youri Tielemans,MF,Belgium,25,Failed,11,41.4,0
+0.5,Youssef En-Nesyri,FW,Morocco,25,Failed,19,31.35,0.5
+0.5,Youssef Msakni,MF,Tunisia,32,Failed,19,36.25,0
+0.5,Youssouf Fofana,MF,France,23,Failed,8,44.1,0
+0.5,Youssouf Sabaly,DF,Senegal,29,Failed,30,43.15,0
+0.5,Youssoufa Moukoko,FW,Germany,18,Failed,1,25,0
+0.5,Youstin Salas,DF,Costa Rica,26,Failed,4,39.45,0
+0.5,Yuki Soma,FW,Japan,25,Failed,8,28.95,0
+0.5,Yunus Musah,MF,United States,20,Failed,31,41.5,0
+0.5,Yuto Nagatomo,MF,Japan,36,Failed,31,35.8,0
+0.5,Zakaria Aboukhlal,MF,Morocco,22,Failed,4,27.8,0.5
+0.5,Álvaro Morata,FW,Spain,30,Failed,13,34.15,1.5
+0.5,Álvaro Zamora,MF,Costa Rica,20,Failed,0,50,0
+0.5,Ángel Di María,MF,Argentina,34,Failed,29,38.1,0
+0.5,Ángelo Preciado,DF,Ecuador,24,Failed,35,36.45,0
+0.5,Éder Militão,DF,Brazil,24,Failed,18,45.3,0
+0.5,Óscar Duarte,DF,Costa Rica,33,Failed,30,34.7,0
+0.5,İlkay Gündoğan,MF,Germany,32,Failed,18,44.65,0.5
