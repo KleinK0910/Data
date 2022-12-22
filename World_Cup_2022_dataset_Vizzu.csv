@@ -251,10 +251,10 @@ Batch ID,ID,Team ,Country,Match,Category,Possession[%],Possession avg.[%],Inside
 2,122,CROATIA,CRO,,Semi-final,0,0,Outside,Goal,0,Off,7,Opponent,3,Failed,73,78,0,Yellow card,2,Yellow card,2,Inbetween,291,3rd place
 2,123,FRANCE,FRA,,Semi-final,0,0,Outside,Goal,0,Off,8,Opponent,0,Failed,51,66,0,Yellow card,1,Yellow card,0,Inbetween,99,2nd place
 2,124,MOROCCO,MAR,,Semi-final,0,0,Outside,Goal,0,Off,6,Opponent,2,Failed,65,67,0,Yellow card,0,Yellow card,1,Inbetween,314,4th place
-2,125,CROATIA,CRO,1,Play-off 3rd place,,,,,0,Off,8,Opponent,1,Failed,61,78,0,Yellow card,2,Yellow card,0,Inbetween,198,3rd place
-2,126,MOROCCO,MAR,1,Play-off 3rd place,,,,,0,Off,5,Opponent,2,Failed,66,67,0,Yellow card,0,Yellow card,2,Inbetween,202,4th place
-2,127,ARGENTINA,ARG,1,Final,,,,,0,Off,9,Opponent,3,Failed,104,76,0,Yellow card,3,Yellow card,4,Inbetween,270,Champion
-2,128,FRANCE,FRA,1,Final,,,,,0,Off,3,Opponent,3,Failed,97,66,0,Yellow card,4,Yellow card,3,Inbetween,217,2nd place
+2,125,CROATIA,CRO,1,Play-off 3rd place,0,0,Outside,Goal,0,Off,8,Opponent,1,Failed,61,78,0,Yellow card,2,Yellow card,0,Inbetween,198,3rd place
+2,126,MOROCCO,MAR,1,Play-off 3rd place,0,0,Outside,Goal,0,Off,5,Opponent,2,Failed,66,67,0,Yellow card,0,Yellow card,2,Inbetween,202,4th place
+2,127,ARGENTINA,ARG,1,Final,0,0,Outside,Goal,0,Off,9,Opponent,3,Failed,104,76,0,Yellow card,3,Yellow card,4,Inbetween,270,Champion
+2,128,FRANCE,FRA,1,Final,0,0,Outside,Goal,0,Off,3,Opponent,3,Failed,97,66,0,Yellow card,4,Yellow card,3,Inbetween,217,2nd place
 3,1,QATAR,QAT,,Group stage,0,0,Inside,Not goal,2,Blocked,0,Own,0,Completed,0,0,0,Red card,0,Red card,0,Infront,  169,Best 32
 3,2,ECUADOR,ECU,,Group stage,0,0,Inside,Not goal,2,Blocked,0,Own,0,Completed,0,0,0,Red card,0,Red card,0,Infront,  218,Best 32
 3,3,ENGLAND,ENG,,Group stage,0,0,Inside,Not goal,4,Blocked,3,Own,0,Completed,0,0,0,Red card,0,Red card,0,Infront,  468,Semi-finalist
