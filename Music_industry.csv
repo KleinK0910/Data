@@ -1,25 +1,25 @@
-format,metric,year,number_of_records,value_actual
-CD,Units,2017,1,87.7
-CD,Units,2018,1,52.0
-CD,Units,2019,1,46.5
-LP/EP,Units,2017,1,15.6
-LP/EP,Units,2018,1,16.7
-LP/EP,Units,2019,1,19.1
-Vinyl Single,Units,2017,1,0.4
-Vinyl Single,Units,2018,1,0.3
-Vinyl Single,Units,2019,1,0.3
-Paid Subscriptions,Units,2017,1,35.3
-Paid Subscriptions,Units,2018,1,46.9
-Paid Subscriptions,Units,2019,1,60.4
-CD,Value,2017,1,1057.3
-CD,Value,2018,1,698.4
-CD,Value,2019,1,614.5
-LP/EP,Value,2017,1,388.5
-LP/EP,Value,2018,1,419.2
-LP/EP,Value,2019,1,497.6
-Paid Subscriptions,Value,2017,1,3500.5
-Paid Subscriptions,Value,2018,1,4656.0
-Paid Subscriptions,Value,2019,1,5934.4
-Vinyl Single,Value,2017,1,6.1
-Vinyl Single,Value,2018,1,5.3
-Vinyl Single,Value,2019,1,6.8
+format;metric;year;count;Revenue [$];Units
+CD;Units;2017;1;0;87.7
+CD;Units;2018;1;0;52.0
+CD;Units;2019;1;0;46.5
+LP/EP;Units;2017;1;0;15.6
+LP/EP;Units;2018;1;0;16.7
+LP/EP;Units;2019;1;0;19.1
+Vinyl Single;Units;2017;1;0;0.4
+Vinyl Single;Units;2018;1;0;0.3
+Vinyl Single;Units;2019;1;0;0.3
+Paid Subscriptions;Units;2017;1;0;35.3
+Paid Subscriptions;Units;2018;1;0;46.9
+Paid Subscriptions;Units;2019;1;0;60.4
+CD;Value;2017;1;1057.3;0
+CD;Value;2018;1;698.4;0
+CD;Value;2019;1;614.5;0
+LP/EP;Value;2017;1;388.5;0
+LP/EP;Value;2018;1;419.2;0
+LP/EP;Value;2019;1;497.6;0
+Paid Subscriptions;Value;2017;1;3500.5;0
+Paid Subscriptions;Value;2018;1;4656.0;0
+Paid Subscriptions;Value;2019;1;5934.4;0
+Vinyl Single;Value;2017;1;6.1;0
+Vinyl Single;Value;2018;1;5.3;0
+Vinyl Single;Value;2019;1;6.8;0
