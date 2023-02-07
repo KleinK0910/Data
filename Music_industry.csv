@@ -1,7 +1,7 @@
 format_raw,Format,Metric,Year,count,Revenue [m$],Units [m]
-CD,CD,Units,1973,1,0.0,0.0
-CD,CD,Units,1974,1,0.0,0.0
-CD,CD,Units,1975,1,0.0,0.0
+CD,CD,Units,1973,1,,
+CD,CD,Units,1974,1,,
+CD,CD,Units,1975,1,,
 CD,CD,Units,1976,1,0.0,0.0
 CD,CD,Units,1977,1,0.0,0.0
 CD,CD,Units,1978,1,0.0,0.0
