@@ -1,6 +1,7 @@
 format_raw,Format,Metric,Year,count,Revenue [m$],Units [m]
 LP/EP,Vinyl,Units,1973,1,0,280
 8 - Track,Tapes,Units,1973,1,0,91
+Synchronization,Synchronization,Value,1973,1,0,0
 Ringtones & Ringbacks,Ringtones,Units,1973,1,0,0
 Paid Subscriptions,Paid Subscription,Units,1973,1,0,0
 On-Demand Streaming (Ad-Supported),Other Streaming,Value,1973,1,0,0
@@ -1832,7 +1833,6 @@ SoundExchange Distributions,Other Streaming,Value,2016,1,884,0
 SoundExchange Distributions,Other Streaming,Value,2017,1,652,0
 SoundExchange Distributions,Other Streaming,Value,2018,1,953,0
 SoundExchange Distributions,Other Streaming,Value,2019,1,908,0
-Synchronization,Synchronization,Value,1973,1,0,0
 Synchronization,Synchronization,Value,1974,1,0,0
 Synchronization,Synchronization,Value,1975,1,0,0
 Synchronization,Synchronization,Value,1976,1,0,0
