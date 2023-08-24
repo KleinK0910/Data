@@ -1,17 +1,17 @@
-Group number,Answer,Vote count,Group percentage [%],Total percentage [%],Group
-Group 4,Identifying the right data,72,38.7,41.0,"Data Scientist, Data Analyst and Data Engineer (https://www.linkedin.com/groups/6773411/)"
-Group 4,Finding the narrative angle,40,21.5,18.0,"Data Scientist, Data Analyst and Data Engineer (https://www.linkedin.com/groups/6773411/)"
-Group 4,Creating the visualization,11,5.9,8.0,"Data Scientist, Data Analyst and Data Engineer (https://www.linkedin.com/groups/6773411/)"
-Group 4,Making it clear to everyone,63,33.9,33.0,"Data Scientist, Data Analyst and Data Engineer (https://www.linkedin.com/groups/6773411/)"
-Group 3,Identifying the right data,23,38.3,41.0,"Data analytics, Data science, Business analytics..."
-Group 3,Finding the narrative angle,13,21.7,18.0,"Data analytics, Data science, Business analytics..."
-Group 3,Creating the visualization,8,13.3,8.0,"Data analytics, Data science, Business analytics..."
-Group 3,Making it clear to everyone,16,26.7,33.0,"Data analytics, Data science, Business analytics..."
-Group 2,Identifying the right data,9,45,41.0,Data analysts and data scientists
-Group 2,Finding the narrative angle,5,25,18.0,Data analysts and data scientists
-Group 2,Creating the visualization,0,0,8.0,Data analysts and data scientists
-Group 2,Making it clear to everyone,6,30,33.0,Data analysts and data scientists
-Group 1,Identifying the right data,125,42.1,41.0,Python Developer
-Group 1,Finding the narrative angle,45,15.2,18.0,Python Developer
-Group 1,Creating the visualization,24,8.1,8.0,Python Developer
-Group 1,Making it clear to everyone,103,34.7,33.0,Python Developer
+Group,Group number,Answer,Vote count,Vote percentage [%],GroupVote count,GroupVote percentage [%],Answer percentage [%]
+"Data Scientist, Data Analyst and Data Engineer (https://www.linkedin.com/groups/6773411/)",Group 4,Identifying the right data,72,38.7,186,41.0,12.8
+"Data Scientist, Data Analyst and Data Engineer (https://www.linkedin.com/groups/6773411/)",Group 4,Finding the narrative angle,40,21.5,186,18.0,7.1
+"Data Scientist, Data Analyst and Data Engineer (https://www.linkedin.com/groups/6773411/)",Group 4,Creating the visualization,11,5.9,186,8.0,2.0
+"Data Scientist, Data Analyst and Data Engineer (https://www.linkedin.com/groups/6773411/)",Group 4,Making it clear to everyone,63,33.9,186,33.0,11.2
+"Data analytics, Data science, Business analytics...",Group 3,Identifying the right data,23,38.3,60,41.0,4.1
+"Data analytics, Data science, Business analytics...",Group 3,Finding the narrative angle,13,21.7,60,18.0,2.3
+"Data analytics, Data science, Business analytics...",Group 3,Creating the visualization,8,13.3,60,8.0,1.4
+"Data analytics, Data science, Business analytics...",Group 3,Making it clear to everyone,16,26.7,60,33.0,2.8
+Data analysts and data scientists,Group 2,Identifying the right data,9,45,20,41.0,1.6
+Data analysts and data scientists,Group 2,Finding the narrative angle,5,25,20,18.0,0.9
+Data analysts and data scientists,Group 2,Creating the visualization,0,0,20,8.0,0.0
+Data analysts and data scientists,Group 2,Making it clear to everyone,6,30,20,33.0,1.1
+Python Developer,Group 1,Identifying the right data,125,42.1,297,41.0,22.2
+Python Developer,Group 1,Finding the narrative angle,45,15.2,297,18.0,8.0
+Python Developer,Group 1,Creating the visualization,24,8.1,297,8.0,4.3
+Python Developer,Group 1,Making it clear to everyone,103,34.7,297,33.0,18.3
