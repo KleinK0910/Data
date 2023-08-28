@@ -1,4 +1,4 @@
-Group,Group number,Answer,Vote count,Vote percentage [%],GroupVote count,GroupVote percentage [%],GroupAnswer count,GroupAnswer percentage [%],Answer percentage [%]
+Group,GroupNumber,Answer,Vote count,Vote percentage [%],GroupVote count,GroupVote percentage [%],GroupAnswer count,GroupAnswer percentage [%],Answer percentage [%]
 Data Science Community (moderated),Group 4,Simple charts in a PPT,252,40.2,627,82.9,299,39.6,33.3
 Data Science Community (moderated),Group 4,"Data apps (Streamlit, Panel)",72,11.5,627,82.9,82,10.8,9.5
 Data Science Community (moderated),Group 4,Notebook,74,11.8,627,82.9,85,11.2,9.8
