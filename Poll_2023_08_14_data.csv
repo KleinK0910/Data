@@ -1,17 +1,17 @@
 Group,Group number,Answer,Vote count,Vote percentage [%],GroupVote count,GroupVote percentage [%],GroupAnswer count,GroupAnswer percentage [%],Answer percentage [%]
-Data Science Community (moderated),Group 4,Charts w/ annotations in a PPT,252,40.2,627,82.9,299,39.6,33.3
-Data Science Community (moderated),Group 4,"Data apps (eg. Streamlit)",72,11.5,627,82.9,82,10.8,9.5
+Data Science Community (moderated),Group 4,Simple charts in a PPT,252,40.2,627,82.9,299,39.6,33.3
+Data Science Community (moderated),Group 4,"Data apps (Streamlit, Panel)",72,11.5,627,82.9,82,10.8,9.5
 Data Science Community (moderated),Group 4,Notebook,74,11.8,627,82.9,85,11.2,9.8
 Data Science Community (moderated),Group 4,BI tool dashboards,229,36.5,627,82.9,290,38.4,30.3
-"Data Analytics, Data Science, Business...",Group 3,Charts w/ annotations in a PPT,36,35.6,101,13.4,299,39.6,4.8
-"Data Analytics, Data Science, Business...",Group 3,"Data apps (eg. Streamlit)",5,5.0,101,13.4,82,10.8,0.7
+"Data Analytics, Data Science, Business...",Group 3,Simple charts in a PPT,36,35.6,101,13.4,299,39.6,4.8
+"Data Analytics, Data Science, Business...",Group 3,"Data apps (Streamlit, Panel)",5,5.0,101,13.4,82,10.8,0.7
 "Data Analytics, Data Science, Business...",Group 3,Notebook,9,8.9,101,13.4,85,11.2,1.2
 "Data Analytics, Data Science, Business...",Group 3,BI tool dashboards,51,50.5,101,13.4,290,38.4,6.7
-Data Analyst and Data Scientist,Group 2,Charts w/ annotations in a PPT,4,26.7,15,2.0,299,39.6,0.5
-Data Analyst and Data Scientist,Group 2,"Data apps (eg. Streamlit)",3,20.0,15,2.0,82,10.8,0.4
+Data Analyst and Data Scientist,Group 2,Simple charts in a PPT,4,26.7,15,2.0,299,39.6,0.5
+Data Analyst and Data Scientist,Group 2,"Data apps (Streamlit, Panel)",3,20.0,15,2.0,82,10.8,0.4
 Data Analyst and Data Scientist,Group 2,Notebook,0,0.0,15,2.0,85,11.2,0.0
 Data Analyst and Data Scientist,Group 2,BI tool dashboards,8,53.3,15,2.0,290,38.4,1.1
-Python Developer,Group 1,Charts w/ annotations in a PPT,7,53.8,13,1.7,299,39.6,0.9
-Python Developer,Group 1,"Data apps (eg. Streamlit)",2,15.4,13,1.7,82,10.8,0.3
+Python Developer,Group 1,Simple charts in a PPT,7,53.8,13,1.7,299,39.6,0.9
+Python Developer,Group 1,"Data apps (Streamlit, Panel)",2,15.4,13,1.7,82,10.8,0.3
 Python Developer,Group 1,Notebook,2,15.4,13,1.7,85,11.2,0.3
 Python Developer,Group 1,BI tool dashboards,2,15.4,13,1.7,290,38.4,0.3
