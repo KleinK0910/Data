@@ -1,4 +1,4 @@
-Group,Group number,Answer,Vote count,Vote percentage [%],GroupVote count,GroupVote percentage [%],GroupAnswer count,GroupAnswer percentage [%],Answer percentage [%]
+Group,GroupNumber,Answer,Vote count,Vote percentage [%],GroupVote count,GroupVote percentage [%],GroupAnswer count,GroupAnswer percentage [%],Answer percentage [%]
 "Data Scientist, Data Analyst",Group 4,"Yes, accuracy is vital",61,23.7,257,72.0,82,23.0,17.1
 "Data Scientist, Data Analyst",Group 4,"No, communication is key",32,12.5,257,72.0,44,12.3,9.0
 "Data Scientist, Data Analyst",Group 4,"Balance always, need both",150,58.4,257,72.0,208,58.3,42.0
