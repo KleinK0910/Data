@@ -1,0 +1,17 @@
+Group,Group number,Answer,Vote count,Vote percentage [%],GroupVote count,GroupVote percentage [%],GroupAnswer count,GroupAnswer percentage [%],Answer percentage [%]
+"Data Scientist, Data Analyst",Group 4,"Yes, accuracy is vital",61,23.7,257,72.0,82,23.0,17.1
+"Data Scientist, Data Analyst",Group 4,"No, communication is key",32,12.5,257,72.0,44,12.3,9.0
+"Data Scientist, Data Analyst",Group 4,"Balance always, need both",150,58.4,257,72.0,208,58.3,42.0
+"Data Scientist, Data Analyst",Group 4,Context shapes priorities,14,5.4,257,72.0,23,6.4,3.9
+Python Developer,Group 3,"Yes, accuracy is vital",9,18.0,50,14.0,82,23.0,2.5
+Python Developer,Group 3,"No, communication is key",5,10.0,50,14.0,44,12.3,1.4
+Python Developer,Group 3,"Balance always, need both",30,60.0,50,14.0,208,58.3,8.4
+Python Developer,Group 3,Context shapes priorities,6,12.0,50,14.0,23,6.4,1.7
+"Data Analytics, Data Science",Group 2,"Yes, accuracy is vital",6,21.4,28,7.8,82,23.0,1.7
+"Data Analytics, Data Science",Group 2,"No, communication is key",5,17.9,28,7.8,44,12.3,1.4
+"Data Analytics, Data Science",Group 2,"Balance always, need both",15,53.6,28,7.8,208,58.3,4.2
+"Data Analytics, Data Science",Group 2,Context shapes priorities,2,7.1,28,7.8,23,6.4,0.6
+"Big Data, Analytics",Group 1,"Yes, accuracy is vital",6,27.3,22,6.2,82,23.0,1.7
+"Big Data, Analytics",Group 1,"No, communication is key",2,9.1,22,6.2,44,12.3,0.6
+"Big Data, Analytics",Group 1,"Balance always, need both",13,59.1,22,6.2,208,58.3,3.6
+"Big Data, Analytics",Group 1,Context shapes priorities,1,4.5,22,6.2,23,6.4,0.3
